@@ -84,7 +84,7 @@ avatar:
   effect: false
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img: true
 
 # The banner image of home page
 index_img: https://i0.hdslb.com/bfs/album/29bdc41da4996646f07b5d17f571dd9e28cf9ea0.jpg
