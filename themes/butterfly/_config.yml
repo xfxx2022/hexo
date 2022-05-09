@@ -90,7 +90,7 @@ disable_top_img: false
 index_img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/e12e2f75-619c-407e-ad01-496622581dbd.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: https://api.aidengrong.top/api
 
 # The banner image of archive page
 archive_img:
