@@ -80,7 +80,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i0.hdslb.com/bfs/album/811f2343ac4cca3d785c3f504eeef40a55b532a0.jpg
+  img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/428faa8d-cc4f-4060-9e53-1a9c28e333da.jpg
   effect: false
 
 # Disable all banner image
@@ -90,7 +90,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://i0.hdslb.com/bfs/album/29bdc41da4996646f07b5d17f571dd9e28cf9ea0.jpg
+default_top_img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/e12e2f75-619c-407e-ad01-496622581dbd.jpg
 
 # The banner image of archive page
 archive_img:
