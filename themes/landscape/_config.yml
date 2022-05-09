@@ -24,7 +24,7 @@ index_widgets:
 # - archive
 
 # widget behavior
-archive_type: 'butterfly'
+archive_type: 'landscape'
 show_count: false
 
 # Miscellaneous
