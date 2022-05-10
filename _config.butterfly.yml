@@ -216,10 +216,10 @@ reward:
   enable: false
   QR_code:
      - img: /img/wechat.jpg
-       link:
+       link: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/cf6acf39-739f-465b-832f-e13188fc3662.jpg
        text: wechat
      - img: /img/alipay.jpg
-       link:
+       link: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/7d3ad90e-a52f-447e-ba79-c278769efc4c.jpg
        text: alipay
 
 # Post edit
