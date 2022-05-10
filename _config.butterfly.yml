@@ -216,10 +216,10 @@ reward:
   enable: false
   QR_code:
      - img: /img/wechat.jpg
-    #   link:
+       link:
        text: wechat
      - img: /img/alipay.jpg
-    #   link:
+       link:
        text: alipay
 
 # Post edit
