@@ -1,10 +1,14 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: 人人客搜索 rrkee.com
-      link: https://rrkee.com/
+    - name: 番茄酱-文件下载中心
+      link: https://pan.aidengrong.top
+      avatar: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/6ba420ce-65ad-4182-9b58-b028830c37ca.png
+      descr: 番茄酱Blog - 文件下载中心
+    - name: 人人客搜索
+      link: https://rrkee.com
       avatar: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/86ee9e71-d610-4dcf-b7b1-ea84ea40a024.jpg
-      descr: 快速、简单且强大的综合型分类搜索
+      descr: 综合型分类搜索
 
 - class_name: 网站
   class_desc: 值得推荐的网站
