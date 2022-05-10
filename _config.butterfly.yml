@@ -691,7 +691,7 @@ busuanzi:
   page_pv: true
 
 # Time difference between publish date and now (網頁運行時間)
- Formal: 4/1/2022 00:00:00
+# Formal: 4/1/2022 00:00:00
 runtimeshow:
   enable: true
   publish_date:
