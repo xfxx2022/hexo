@@ -211,7 +211,7 @@ post_copyright:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Sponsor/reward
+# Sponsor/reward
 reward:
   enable: false
   QR_code:
