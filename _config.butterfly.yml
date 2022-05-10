@@ -213,7 +213,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
      - img: /img/wechat.jpg
        link: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/cf6acf39-739f-465b-832f-e13188fc3662.jpg
