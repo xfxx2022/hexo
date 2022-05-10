@@ -5,8 +5,8 @@
 menu:
    首页: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # 分类: /categories/ || fas fa-folder-open
+   标签: /tags/ || fas fa-tags
+   分类: /categories/ || fas fa-folder-open
   # 资源||fas fa-list:
     # 音乐: /music/ || fas fa-music
     # 电影: /movies/ || fas fa-video
