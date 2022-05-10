@@ -211,16 +211,16 @@ post_copyright:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
- Sponsor/reward
+# Sponsor/reward
 reward:
   enable: false
   QR_code:
-     - img: /img/wechat.jpg
-       link:
-       text: wechat
-     - img: /img/alipay.jpg
-       link:
-       text: alipay
+    # - img: /img/wechat.jpg
+    #   link:
+    #   text: wechat
+    # - img: /img/alipay.jpg
+    #   link:
+    #   text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.
