@@ -19,6 +19,7 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
+    "hexo-symbols-count-time": "^0.7.1",
     "or": "^0.2.0",
     "yarn": "^1.22.18"
   },
