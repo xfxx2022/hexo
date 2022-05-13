@@ -632,14 +632,15 @@ subtitle:
   # loop (循環打字)
   loop: true
   # source 調用第三方服務
-   source: true 關閉調用
+  # source: true 關閉調用
   # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: true
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-  sub: http://yijuzhan.com/api/word.php
+  sub: - 今日事&#44;今日畢
+    - Never put off till tomorrow what you can do today
 
 # Loading Animation (加載動畫)
 preloader: false
