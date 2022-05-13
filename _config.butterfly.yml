@@ -667,7 +667,8 @@ aside:
       link: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/69be6c0d-c25c-48be-943a-9de34617b07e.png
+    effect: true
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
