@@ -668,7 +668,7 @@ aside:
   card_announcement:
     enable: true
     content: This is my Blog
-    img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/69be6c0d-c25c-48be-943a-9de34617b07e.png
+    img: 'https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/69be6c0d-c25c-48be-943a-9de34617b07e.png'
     effect: true
   card_recent_post:
     enable: true
