@@ -83,7 +83,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/428faa8d-cc4f-4060-9e53-1a9c28e333da.jpg
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
