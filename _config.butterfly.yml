@@ -36,8 +36,8 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes || QQ
-  # fas fa-envelope: mailto:aidengrong@gmail.com || Email
+   fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes || QQ
+   fas fa-envelope: mailto:aidengrong@gmail.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
