@@ -1,5 +1,5 @@
 ---
-title: # Adobe Photoshop 2022
+title: Adobe Photoshop 2022
 date: 2022-05-13 18:09:46
 tags: 办公学习
 categories: 办公学习
