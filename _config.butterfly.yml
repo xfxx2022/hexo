@@ -3,7 +3,7 @@
 # --------------------------------------
 
 menu:
-   首页: / || fas fa-home
+   首页: / || iconfont icon-shouye
    目录||fas fa-list:
     归档: /archives/ || fas fa-archive
     标签: /tags/ || fas fa-tags
@@ -864,7 +864,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+     - <link rel="stylesheet" href="//at.alicdn.com/t/font_3453489_c024jzonzxt.css">
   bottom:
     # - <script src="xxxx"></script>
 
