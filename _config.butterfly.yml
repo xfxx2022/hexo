@@ -3,16 +3,16 @@
 # --------------------------------------
 
 menu:
-   首页: / || fas fa-home
-   目录||fas fa-list:
-    归档: /archives/ || fas fa-archive
-    标签: /tags/ || fas fa-tags
-    分类: /categories/ || fas fa-folder-open
+   首页: / || iconfont icon-home
+   目录||iconfont icon-list:
+    归档: /archives/ || iconfont icon-archive
+    标签: /tags/ || iconfont icon-tags
+    分类: /categories/ || iconfont icon-folder-open
   # 资源||fas fa-list:
     # 音乐: /music/ || fas fa-music
     # 电影: /movies/ || fas fa-video
-   友链: /link/ || fas fa-link
-   关于: /about/ || fas fa-heart
+   友链: /link/ || iconfont icon-link
+   关于: /about/ || iconfont icon-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -864,7 +864,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+     - <link rel="stylesheet" href="//at.alicdn.com/t/font_3453489_c024jzonzxt.css">
   bottom:
     # - <script src="xxxx"></script>
 
