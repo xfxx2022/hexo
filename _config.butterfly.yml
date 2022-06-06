@@ -896,7 +896,7 @@ CDN:
     # valine:
     # disqusjs:
     # disqusjs_css:
-     twikoo: https://cdn.jsdelivr.net/npm/twikoo@1.5.10/dist/twikoo.all.min.js
+     twikoo: https://lib.baomitu.com/twikoo/1.5.11/twikoo.all.min.js
     # waline_js:
     # waline_css:
     # sharejs:
