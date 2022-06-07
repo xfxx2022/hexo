@@ -220,7 +220,7 @@ reward:
      - img: /source/img/wechat.jpg
        link: 
        text: wechat
-     - img: /source/img/alipay.jpg
+     - img: /img/alipay.jpg
        link: 
        text: alipay
 
