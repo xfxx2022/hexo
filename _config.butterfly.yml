@@ -78,7 +78,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /source/img/favicon.png
+favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
@@ -217,7 +217,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-     - img: /source/img/wechat.jpg
+     - img: /img/wechat.jpg
        link: 
        text: wechat
      - img: /img/alipay.jpg
