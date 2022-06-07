@@ -364,7 +364,7 @@ facebook_comments:
 twikoo:
   envId: https://twikoo-vercel-pi.vercel.app/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
