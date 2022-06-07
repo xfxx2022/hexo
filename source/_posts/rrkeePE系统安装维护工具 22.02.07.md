@@ -47,7 +47,7 @@ FAT32、NTFS、 exFAT的区别:
 
 # rrkeePE x64文件包及升级日志
 
-1. 22.02.07 - Win10 21H1内核更新和增加驱动程序
+1. Win10 21H1内核更新和增加驱动程序
 2. 更新7-Zip 21.07
 3. 更新CPU-Z 1.99.0
 4. 更新WinNTSetup 5.2.0
@@ -61,8 +61,12 @@ FAT32、NTFS、 exFAT的区别:
 12. 更新Winhex 20.4
 13. 众多更新...
 14. 修正小bug
-    22.02.07.iso - SHA1: 2dcc4360b8a83e2ce1ff79e345777dcc45510a67
-    # 下载地址
+
+#### 22.02.07.iso
+
+SHA1: 2dcc4360b8a83e2ce1ff79e345777dcc45510a67
+
+# 下载地址
 
 [**123盘**](https://www.123pan.com/s/ZgR9-BptlA) 提取码 90kA
 
