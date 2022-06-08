@@ -3,7 +3,6 @@ title:  微信PC版WeChat 3.7.0.26 多开消息防撤回版
 date: 2022-05-30 17:27:46
 tags: 联络沟通
 categories: 联络沟通
-type: im
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
 ---
 
