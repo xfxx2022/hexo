@@ -97,7 +97,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/e12e2f75-619c-407e-ad01-496622581dbd.jpg
+index_img: https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 
