@@ -47,5 +47,9 @@ PS2019最低系统要求：Windows 7 及更高版64位
 
 # 下载地址
 
-[**123盘**](https://www.123pan.com/s/CDiA-eONF3) 提取码 YeBw
+[**123盘**](https://www.123pan.com/s/CDiA-eONF3)
+提取码
 
+```
+YeBw
+```
