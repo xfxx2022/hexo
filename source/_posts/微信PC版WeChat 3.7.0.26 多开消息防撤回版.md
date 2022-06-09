@@ -53,5 +53,10 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 微信正式版 WeChat v3.7.0.30 多开消息防撤回绿色版
 微信怀旧版 WeChat 3.3.0.115 带防撤回提示的最终版
 
-[123盘](https://www.123pan.com/s/CDiA-lRNF3)提取码 ivKv
+[123盘](https://www.123pan.com/s/CDiA-lRNF3)
+提取码：
+
+```
+ivKv
+```
 
