@@ -4,14 +4,14 @@
 
 menu:
    首页: / || iconfont icon-home
-   安卓软件: https://blog.aidengrong.top/categories/Android/ || iconfont icon-home
-   电脑软件||iconfont icon-list:
-    联络沟通: https://blog.aidengrong.top/categories/联络沟通/ || iconfont icon-archive
-    办公学习: https://blog.aidengrong.top/categories/办公学习/ || iconfont icon-archive
-    远程工具: https://blog.aidengrong.top/categories/远程工具/ || iconfont icon-archive
-   操作系统||iconfont icon-list:
-    WinPE: https://blog.aidengrong.top/categories/WinPE/ || iconfont icon-archive
-    激活工具: https://blog.aidengrong.top/categories/激活工具/ || iconfont icon-archive
+   安卓软件: https://blog.aidengrong.top/categories/Android/ || iconfont icon-anzhuo
+   电脑软件||iconfont icon-diannao:
+    联络沟通: https://blog.aidengrong.top/categories/联络沟通/ || iconfont icon-goutong
+    办公学习: https://blog.aidengrong.top/categories/办公学习/ || iconfont icon-bangongbao
+    远程工具: https://blog.aidengrong.top/categories/远程工具/ || iconfont icon-yuanchengfei
+   操作系统||iconfont icon-caozuoxitong:
+    WinPE: https://blog.aidengrong.top/categories/WinPE/ || iconfont icon-Windows
+    激活工具: https://blog.aidengrong.top/categories/激活工具/ || iconfont icon-jihuoma
    目录||iconfont icon-list:
     归档: /archives/ || iconfont icon-archive
     标签: /tags/ || iconfont icon-tags
