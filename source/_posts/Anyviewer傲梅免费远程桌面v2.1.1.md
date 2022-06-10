@@ -45,6 +45,16 @@ AnyViewer需要用到的端口：UDP端口：30196  TCP端口：30192、30193
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/CDiA-SONF3) 提取码 cg78
-[蓝奏网盘](https://wwu.lanzoub.com/b03703jmf) 提取码 3p38
+[123盘](https://www.123pan.com/s/CDiA-SONF3)
+提取码
 
+```
+cg78
+```
+
+[蓝奏网盘](https://wwu.lanzoub.com/b03703jmf)
+提取码
+
+```
+3p38
+```

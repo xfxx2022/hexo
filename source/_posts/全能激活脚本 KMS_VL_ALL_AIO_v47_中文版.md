@@ -57,8 +57,16 @@ KMS_VL_ALL_AIO.cmd /s /w /x（激活系统）
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/CDiA-7RNF3)提取码dosG
+[123盘](https://www.123pan.com/s/CDiA-7RNF3)
+提取码
 
-[蓝奏网盘](https://wwu.lanzoub.com/b0372j3ej)提取码alcz
+```
+dosG
+```
 
+[蓝奏网盘](https://wwu.lanzoub.com/b0372j3ej)
+提取码
 
+```
+alcz
+```

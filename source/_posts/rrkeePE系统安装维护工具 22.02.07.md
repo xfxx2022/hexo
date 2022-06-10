@@ -68,5 +68,9 @@ SHA1: 2dcc4360b8a83e2ce1ff79e345777dcc45510a67
 
 # 下载地址
 
-[**123盘**](https://www.123pan.com/s/ZgR9-BptlA) 提取码 90kA
+[**123盘**](https://www.123pan.com/s/ZgR9-BptlA)
+提取码
 
+```
+90kA
+```
