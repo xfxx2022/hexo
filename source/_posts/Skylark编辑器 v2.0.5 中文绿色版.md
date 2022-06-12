@@ -5,9 +5,6 @@ tags: 办公学习
 categories: 办公学习
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/4abacc76-1372-41eb-ada5-2d371d746ca8.jpg
 ---
-
-# 软件介绍
-
 Skylark 编辑器，是一个文本、源代码、二进制编辑器，skylark 追求极致的性能体验和极小的系统资源占用， 这点与notepad++类似， 但skylark可能更快， skylark完全使用c语言编写， 多线程设计，使用了simd指令优化， 在windows平台上打开的速度就像打开系统自带的文本编辑器一样快。
 
 # 软件截图
