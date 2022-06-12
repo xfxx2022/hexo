@@ -28,6 +28,12 @@ UltraEdit latest changes
 
 # 下载地址
 
+- 官方版
+
+32位版：[https://downloads.ultraedit.com/main/ue/win/ue_chinese.exe](https://downloads.ultraedit.com/main/ue/win/ue_chinese.exe)
+
+64位版：[https://downloads.ultraedit.com/main/ue/win/ue_chinese_64.exe](https://downloads.ultraedit.com/main/ue/win/ue_chinese_64.exe)
+
 [123盘](https://www.123pan.com/s/CDiA-1DNF3)
 提取码
 
