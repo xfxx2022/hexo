@@ -28,7 +28,7 @@ UltraEdit latest changes
 
 # 下载地址
 
-- 官方版
+**官方版**
 
 32位版：[https://downloads.ultraedit.com/main/ue/win/ue_chinese.exe](https://downloads.ultraedit.com/main/ue/win/ue_chinese.exe)
 
