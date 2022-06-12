@@ -1,5 +1,5 @@
 ---
-title: UltraEdit_v28.10.0.26_中文绿色破解版
+title: UltraEdit_v28.10.0.26_中文绿色版
 date: 2022-06-12 21:01:00
 tags: 办公学习
 categories: 办公学习
