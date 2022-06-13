@@ -15,7 +15,8 @@ WinNTSetup，系统安装利器，目前最好用的系统安装器，Windows系
 
 # 新版变化
 
-WinNTSetup - Install Windows from USB - MSFN[https://msfn.org/board/topic/149612-winntsetup-v425-450-rc3](https://msfn.org/board/topic/149612-winntsetup-v425-450-rc3)
+WinNTSetup - Install Windows from USB - MSFN
+[https://msfn.org/board/topic/149612-winntsetup-v425-450-rc3](https://msfn.org/board/topic/149612-winntsetup-v425-450-rc3)
 
 2022.04.21 v5.2.4 Stable
 
@@ -58,3 +59,4 @@ q1I9
 ```
 hy0y
 ```
+
