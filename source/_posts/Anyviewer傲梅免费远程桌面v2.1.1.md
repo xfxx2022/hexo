@@ -5,6 +5,7 @@ tags: 远程工具
 categories: 远程工具
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/52383e2a-4f09-43f9-9592-af5a1cdd3735.png
 ---
+
 AnyViewer是一款免费、安全、快速的远程桌面控制软件，无需对防火墙进行特殊配置。大多数情况下，只要电脑能上网，AnyViewer就可以正常使用，可以通过AnyViewer访问你家里、办公室电脑，实现其远程操作；可以帮您远程办公、玩游戏、登录云桌面，以及远程技术支持等。
 
 # 软件截图
@@ -55,4 +56,3 @@ cg78
 ```
 3p38
 ```
-
