@@ -23,8 +23,7 @@ menu:
     # 电影: /movies/ || fas fa-video
    友链: /link/ || iconfont icon-link
    关于: /about/ || iconfont icon-heart
-   关于: /about/ || iconfont icon-heart
-   
+
 # Code Blocks (代碼相關)
 # --------------------------------------
 
