@@ -65,7 +65,6 @@ ISO文件支持列表模式或目录树模式显示 说明
 
 # 下载地址
 
-
 Ventoy v1.0.76 for Win / Linux / Livecd (2022/06/12)
 [https://github.com/ventoy/Ventoy/releases](https://github.com/ventoy/Ventoy/releases)
 U盘启动工具 Ventoy v1.0.76 便捷版单文件
@@ -82,4 +81,3 @@ ftbT
 ```
 hpnv
 ```
-
