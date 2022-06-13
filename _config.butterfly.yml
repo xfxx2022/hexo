@@ -18,7 +18,7 @@ menu:
    # 归档: /archives/ || iconfont icon-archive
   #  标签: /tags/ || iconfont icon-tags
    # 分类: /categories/ || iconfont icon-folder-open
-   宅家自学||iconfont icon-zixue:
+  # 资源||fas fa-list:
     # 音乐: /music/ || fas fa-music
     # 电影: /movies/ || fas fa-video
    友链: /link/ || iconfont icon-link
