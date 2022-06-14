@@ -1,5 +1,5 @@
 ---
-title: Skylark编辑器 v2.0.5 中文绿色版
+title: 红帽OpenStack平台实战课程
 date: 2022-06-14 16:25:00
 tags: 编程办公
 categories: 编程办公
