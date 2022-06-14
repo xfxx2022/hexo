@@ -10,11 +10,11 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/MGR9-HpWcv)
+[123盘](https://www.123pan.com/s/MGR9-ApWcv)
 提取码
 
 ```
-53yz
+N05W
 ```
 
 [阿里网盘](https://www.aliyundrive.com/s/89tYfQM75Sr)
@@ -23,4 +23,3 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 ```
 Y7WR
 ```
-
