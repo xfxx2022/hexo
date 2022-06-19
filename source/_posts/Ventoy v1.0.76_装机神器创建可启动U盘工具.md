@@ -68,16 +68,11 @@ ISO文件支持列表模式或目录树模式显示 说明
 Ventoy v1.0.76 for Win / Linux / Livecd (2022/06/12)
 [https://github.com/ventoy/Ventoy/releases](https://github.com/ventoy/Ventoy/releases)
 U盘启动工具 Ventoy v1.0.76 便捷版单文件
-[123盘](https://www.123pan.com/s/CDiA-BDNF3)
-提取码
+123盘提取码ftbT
+蓝奏网盘提取码hpnv
 
-```
-ftbT
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/CDiA-BDNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://wwu.lanzoub.com/b0374fyhg',蓝奏网盘,iconfont icon-yunpan,pink larger %}
+</div>
 
-[蓝奏网盘](https://wwu.lanzoub.com/b0374fyhg)
-提取码
-
-```
-hpnv
-```
