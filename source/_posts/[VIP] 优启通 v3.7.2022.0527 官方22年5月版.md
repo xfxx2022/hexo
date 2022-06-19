@@ -40,9 +40,9 @@ v3.7.2022.0527
 
 # 下载地址
 
-[**123盘**](https://www.123pan.com/s/ZgR9-pptlA)
-提取码
+123盘提取码oeeJ
 
-```
-oeeJ
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/ZgR9-pptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+</div>
+
