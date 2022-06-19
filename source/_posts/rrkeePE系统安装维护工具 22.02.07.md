@@ -71,6 +71,6 @@ SHA1: 2dcc4360b8a83e2ce1ff79e345777dcc45510a67
 123盘提取码90kA
 
 <div class="btn-center">
-{% btn 'https://www.123pan.com/s/ZgR9-BptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}er %}
+{% btn 'https://www.123pan.com/s/ZgR9-BptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 </div>
 
