@@ -5,6 +5,7 @@ tags: 激活工具
 categories: 激活工具
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/c71bec44-b4a5-4dcd-9868-bea9bd3867e5.png
 ---
+
 KMS_VL_ALL_AIO，批处理激活脚本全能解决方案，支持所有Windows、Office 产品激活。激活方式包括：KMS模式KMS38激活至2038年、在线KMS激活180天，激活不覆盖产品的永久激活，支持自动续期激活，Office零售版转换批量版，Office C2R的许可自动转换等，AIO是传统版的升级版，绿色便携不报毒。
 ![KMS_VL_ALL](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/d64c9ac0-68cd-4f64-a976-9400e0114a10.png)
 
@@ -54,17 +55,11 @@ KMS_VL_ALL_AIO.cmd /s /w /x（激活系统）
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/CDiA-7RNF3)
-提取码
+123盘提取码dosG
+蓝奏网盘提取码alcz
 
-```
-dosG
-```
-
-[蓝奏网盘](https://wwu.lanzoub.com/b0372j3ej)
-提取码
-
-```
-alcz
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/CDiA-7RNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://wwu.lanzoub.com/b0372j3ej',蓝奏网盘,iconfont icon-yunpan,pink larger %}
+</div>
 
