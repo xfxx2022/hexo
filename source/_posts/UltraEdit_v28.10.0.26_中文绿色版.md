@@ -5,6 +5,7 @@ tags: 办公学习
 categories: 办公学习
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
 ---
+
 UltraEdit是一款编程工具，简称“UE”，使用它可以编辑文本、十六进制、ASCII码，可以取代记事本，内置英文单字检查、C++及VB指令突显，可同时编辑多个文件，而且即使开启很大的文件速度也不会慢。软件附有HTML标签颜色显示、搜寻替换以及无限制的还原功能。支持配置高亮语法和几乎所有编程语言的代码结构。内建英文单字检查，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。
 
 # 软件截图
@@ -31,19 +32,13 @@ UltraEdit latest changes
 
 64位版：[https://downloads.ultraedit.com/main/ue/win/ue_chinese_64.exe](https://downloads.ultraedit.com/main/ue/win/ue_chinese_64.exe)
 
-[123盘](https://www.123pan.com/s/CDiA-1DNF3)
-提取码
+123盘提取码7vhj
+蓝奏网盘提取码ew3p
 
-```
-7vhj
-```
-
-[蓝奏网盘](https://wwu.lanzoub.com/b0374dr2h)
-提取码
-
-```
-ew3p
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/CDiA-1DNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://wwu.lanzoub.com/b0374dr2h',蓝奏网盘,iconfont icon-yunpan,pink larger %}
+</div>
 
 # 免责声明
 
