@@ -15,6 +15,6 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 
 <div class="btn-center">
 {% btn 'https://www.123pan.com/s/MGR9-ApWcv',123盘,iconfont icon-tianmao123shixiao,blue larger %}
-{% btn 'https://www.aliyundrive.com/s/89tYfQM75Sr',蓝阿里网盘,iconfont icon-yunpan,pink larger %}
+{% btn 'https://www.aliyundrive.com/s/89tYfQM75Sr',阿里网盘,iconfont icon-yunpan,pink larger %}
 </div>
 
