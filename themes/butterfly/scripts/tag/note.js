@@ -17,7 +17,7 @@ function postNote (args, content) {
   const iconArray = args[args.length - 2]
   if (iconArray && iconArray.startsWith('fa')) {
     icon = `<i class="note-icon ${iconArray}"></i>`
-    args[args.length - 2] = 'icon-padding'
+    args[args.length - 2] = 'icon'
   }
 
   return `<div class="note ${args.join(' ')}">${icon + hexo.render.renderSync({ text: content, engine: 'markdown' })}</div>`

@@ -3,15 +3,15 @@
 # --------------------------------------
 
 menu:
-  # Home: / || fas fa-home
+   首页: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+  # 分类: /categories/ || fas fa-folder-open
+  # 资源||fas fa-list:
+    # 音乐: /music/ || fas fa-music
+    # 电影: /movies/ || fas fa-video
+  # 友链: /link/ || fas fa-link
+  # 关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -28,15 +28,15 @@ code_word_wrap: false
 copy:
   enable: true
   copyright:
-    enable: false
+    enable: true
     limit_count: 50
 
 # social settings (社交圖標設置)
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  # fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes || QQ
+  # fas fa-envelope: mailto:aidengrong@gmail.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -80,17 +80,17 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/428faa8d-cc4f-4060-9e53-1a9c28e333da.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img:
+index_img: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/e12e2f75-619c-407e-ad01-496622581dbd.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: 
 
 # The banner image of archive page
 archive_img:
@@ -123,7 +123,29 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+     - https://api.aidengrong.top/api/?id=21
+     - https://api.aidengrong.top/api/?id=22
+     - https://api.aidengrong.top/api/?id=23
+     - https://api.aidengrong.top/api/?id=24
+     - https://api.aidengrong.top/api/?id=25
+     - https://api.aidengrong.top/api/?id=26
+     - https://api.aidengrong.top/api/?id=27
+     - https://api.aidengrong.top/api/?id=28
+     - https://api.aidengrong.top/api/?id=29
+     - https://api.aidengrong.top/api/?id=30
+     - https://api.aidengrong.top/api/?id=31
+     - https://api.aidengrong.top/api/?id=32
+     - https://api.aidengrong.top/api/?id=33
+     - https://api.aidengrong.top/api/?id=34
+     - https://api.aidengrong.top/api/?id=35
+     - https://api.aidengrong.top/api/?id=36
+     - https://api.aidengrong.top/api/?id=37
+     - https://api.aidengrong.top/api/?id=38
+     - https://api.aidengrong.top/api/?id=39
+     - https://api.aidengrong.top/api/?id=40
+     - https://api.aidengrong.top/api/?id=41
+     - https://api.aidengrong.top/api/?id=42
+
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -191,14 +213,14 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+     - img: /img/wechat.jpg
+       link: 
+       text: wechat
+     - img: /img/alipay.jpg
+       link: 
+       text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -211,7 +233,7 @@ post_edit:
 # Related Articles
 related_post:
   enable: true
-  limit: 6 # Number of posts displayed
+  limit: 3 # Number of posts displayed
   date_type: created # or created or updated 文章日期顯示創建日或者更新日
 
 # figcaption (圖片描述文字)
@@ -259,7 +281,7 @@ addtoany:
 
 comments:
   # Up to two comments system, the first will be shown as default
-  # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42
+  # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus
   use: # Valine,Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -333,7 +355,7 @@ facebook_comments:
   user_id: # optional
   pageSize: 10 # The number of comments to show
   order_by: social # social/time/reverse_time
-  lang: en_US # Language en_US/zh_CN/zh_TW and so on
+  lang: zh_CN # Language en_US/zh_CN/zh_TW and so on
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
@@ -352,13 +374,6 @@ giscus:
   theme:
     light: light
     dark: dark
-  option:
-
-# Remark42
-# https://remark42.com/docs/configuration/frontend/
-remark42:
-  host: # Your Host URL
-  siteId: # Your Site ID
   option:
 
 # Chat Services
@@ -406,16 +421,16 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2021
   custom_text:
-  copyright: true # Copyright of theme and framework
+  copyright: false # Copyright of theme and framework
 
 # Analysis
 # --------------------------------------
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: bd1e9d3dfdfac77081dfafa6270d98f7
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
@@ -628,18 +643,15 @@ aside:
   button: true
   mobile: true # display on mobile
   position: right # left or right
-  display:
-    archive: true
-    tag: true
-    category: true
+  archives: true
   card_author:
     enable: true
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fa-brands fa-qq
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes
   card_announcement:
     enable: true
     content: This is my Blog
@@ -679,10 +691,10 @@ busuanzi:
   page_pv: true
 
 # Time difference between publish date and now (網頁運行時間)
-# Formal: Month/Day/Year Time or Year/Month/Day Time
+# Formal: 4/1/2022 00:00:00
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 4/1/2022 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -697,7 +709,7 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
@@ -846,18 +858,13 @@ inject:
 # 非必要請不要修改
 CDN:
   # The CDN provider of internal scripts (主題內部 js 的 cdn 配置)
-  # option: local/jsdelivr/unpkg/cdnjs/custom
-  # Dev version can only choose. ( dev版的主題只能設置為 local )
+  # option: local/jsdelivr
+  # Dev version cannot choose jsdelivr (dev版的主題不能設置為 jsdelivr)
   internal_provider: local
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
-  # option: local/jsdelivr/unpkg/cdnjs/custom
+  # option: local/jsdelivr
   # when set it to local, you need to install hexo-butterfly-extjs
   third_party_provider: jsdelivr
-  # Custom format
-  # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
-  custom_format:
-  # Add version number to CDN, true or false  
-  version: false
   option:
     # main_css:
     # main:
@@ -882,6 +889,7 @@ CDN:
     # mathjax:
     # katex:
     # katex_copytex:
+    # katex_copytex_css:
     # mermaid:
     # canvas_ribbon:
     # canvas_fluttering_ribbon:
