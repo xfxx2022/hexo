@@ -10,16 +10,11 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/MGR9-ApWcv)
-提取码
+123盘提取码N05W
+阿里网盘提取码Y7WR
 
-```
-N05W
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/MGR9-ApWcv',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://www.aliyundrive.com/s/89tYfQM75Sr',蓝阿里网盘,iconfont icon-yunpan,pink larger %}
+</div>
 
-[阿里网盘](https://www.aliyundrive.com/s/89tYfQM75Sr)
-提取码
-
-```
-Y7WR
-```
