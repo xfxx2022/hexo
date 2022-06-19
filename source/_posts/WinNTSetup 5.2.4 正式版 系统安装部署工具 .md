@@ -46,17 +46,11 @@ WinNTSetup - Install Windows from USB - MSFN
 
 # 下载地址
 
-[123盘](https://www.123pan.com/s/CDiA-JDNF3)
-提取码
+123盘提取码q1I9
+蓝奏网盘提取码hy0y
 
-```
-q1I9
-```
-
-[蓝奏网盘](https://wwu.lanzoub.com/b0374g1he)
-提取码
-
-```
-hy0y
-```
+<div class="btn-center">
+{% btn 'https://www.123pan.com/s/CDiA-JDNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://wwu.lanzoub.com/b0374g1he',蓝奏网盘,iconfont icon-yunpan,pink larger %}
+</div>
 
