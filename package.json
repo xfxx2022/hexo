@@ -22,7 +22,6 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0",
     "hexo-tag-aplayer": "^3.0.4",
-    "hexo-tag-dplayer": "^0.3.3",
     "hexo-theme-butterfly": "^4.2.2",
     "hexo-wordcount": "^6.0.1",
     "or": "^0.2.0",
