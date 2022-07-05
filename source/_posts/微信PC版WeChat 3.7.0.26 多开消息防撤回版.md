@@ -1,17 +1,33 @@
 ---
-title:  微信PC版WeChat 3.7.0.30 多开消息防撤回版
-date: 2022-06-9 8:50:46
+title:  微信PC版WeChat 3.7.5.11 多开消息防撤回版
+date: 2022-07-5 20:57:46
 tags: 联络沟通
 categories: 联络沟通
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
 ---
 
-经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容。而这个绿色特别版本就支持多开，同时可以防撤回消息。![WeChat图片](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/142a8c9b-28f1-4f0f-b4dd-e53f25963153.png)![WeChat图片](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/44b02f9b-9c1b-4c05-9f16-be655cc2b931.png)
+经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容。而这个绿色特别版本就支持多开，同时可以防撤回消息。!![WeChat图片](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/44b02f9b-9c1b-4c05-9f16-be655cc2b931.png)
 
 # 新版变化
 
 微信Windows版官网页面
 [https://pc.weixin.qq.com](https://www.423down.com/go.php?url=aHR0cHM6Ly9wYy53ZWl4aW4ucXEuY29t)
+
+Windows 微信 3.7.5 新增功能：
+
+- 在群视频通话时可共享屏幕；
+- 群视频通话增加大图模式；
+- 服务号消息默认为免打扰；
+- 文件在局域网内传输速度更快；
+- 订阅号消息样式调整；
+- 修复了一些已知问题。
+
+最近更新亮点：
+
+- 可以查找微信号并添加朋友
+- 可以截图识别二维码或小程序码
+- 可以识别图片中的多个二维码和小程序码
+- 拖拽发送图片文件时，可以同时输入消息
 
 微信 3.7.0 for Windows：
 -朋友信息界面改版；
@@ -48,7 +64,7 @@ cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb
 
 # 下载地址
 
-微信正式版 WeChat v3.7.0.30 多开消息防撤回绿色版
+微信PC版WeChat 3.7.5.11 多开消息防撤回版
 微信怀旧版 WeChat 3.3.0.115 带防撤回提示的最终版
 123盘提取码ivKv
 
