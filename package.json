@@ -31,6 +31,7 @@
     "build": "hexo generate"
   },
   "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
     "gulp-html-minifier-terser": "^6.0.1"
   }
 }
