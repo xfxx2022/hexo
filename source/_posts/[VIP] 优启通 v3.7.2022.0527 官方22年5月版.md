@@ -1,13 +1,13 @@
 ---
-title: '优启通 v3.7.2022.0527[VIP] 官方22年5月版'
-tags: WinPE
-categories: WinPE
-cover: >-
-  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/1ba52b4f-4a26-4c70-8092-37750d1fe73e.png
-abbrlink: 7329
-date: 2022-06-07 13:05:00
+categories:
+- WinPE
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/1ba52b4f-4a26-4c70-8092-37750d1fe73e.png
+date: '2022-06-07 13:05:00'
+tags:
+- WinPE
+title: 优启通 v3.7.2022.0527[VIP] 官方22年5月版
+updated: '2022-06-07 13:05:00'
 ---
-
 优启通（EasyU，简称EU）是IT天空打造的一款专业U盘启动盘制作工具，采用U盘三分区方案，支持BIOS（Legacy）与UEFI双启动模式，在支持主流硬件基础上，同时兼容早期多数旧硬件。整合各种装机必备工具，并结合IT天空数款自研软件，有效提高系统安装效率。U盘PE所在分区于系统下自动隐藏，PE区与数据区分别独立，便于使用者对数据的各项操作。优启通定位于一线装机技术员、系统工程师和系统维护人员。![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/3a4eeb90-3b13-4b62-82d1-e3f7de9189bd.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/fe51596c-c40e-49a0-a0d0-856b75036ef4.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/db241ac0-441d-4ef5-9888-8f63a82ec011.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/a927c6b4-6f2a-403b-9314-45a5d5042dcc.png)
 
 # 功能特点
@@ -47,4 +47,3 @@ v3.7.2022.0527
 <div class="btn-center">
 {% btn 'https://www.123pan.com/s/ZgR9-pptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 </div>
-
