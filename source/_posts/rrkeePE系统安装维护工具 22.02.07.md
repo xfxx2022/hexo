@@ -1,9 +1,11 @@
 ---
 title: rrkeePE系统安装维护工具 22.02.07
-date: 2022-06-7 14:31:00
 tags: WinPE
 categories: WinPE
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/23832a35-e772-44c5-ac27-0386390e7811.png
+cover: >-
+  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/23832a35-e772-44c5-ac27-0386390e7811.png
+abbrlink: 48861
+date: 2022-06-07 14:31:00
 ---
 
 # rrkeePE x64温馨提示

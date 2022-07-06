@@ -1,9 +1,11 @@
 ---
 title: UltraEdit_v28.10.0.26_中文绿色版
-date: 2022-06-12 21:01:00
 tags: 办公学习
 categories: 办公学习
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
+cover: >-
+  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
+abbrlink: 38764
+date: 2022-06-12 21:01:00
 ---
 
 UltraEdit是一款编程工具，简称“UE”，使用它可以编辑文本、十六进制、ASCII码，可以取代记事本，内置英文单字检查、C++及VB指令突显，可同时编辑多个文件，而且即使开启很大的文件速度也不会慢。软件附有HTML标签颜色显示、搜寻替换以及无限制的还原功能。支持配置高亮语法和几乎所有编程语言的代码结构。内建英文单字检查，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。

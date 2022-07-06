@@ -1,9 +1,11 @@
 ---
-title:  Ventoy v1.0.78 开源多合一启动盘工具
-date: 2022-07-16 13:20:00
+title: Ventoy v1.0.78 开源多合一启动盘工具
 tags: 系统工具
 categories: 系统工具
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
+cover: >-
+  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
+abbrlink: 50615
+date: 2022-07-16 13:20:00
 ---
 
 Ventoy是一个制作可启动U盘的开源工具。

@@ -1,9 +1,11 @@
 ---
 title: WinNTSetup 5.2.4 正式版 系统安装部署工具
-date: 2022-06-13 14:55:46
 tags: 系统工具
 categories: 系统工具
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
+cover: >-
+  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
+abbrlink: 27661
+date: 2022-06-13 14:55:46
 ---
 
 WinNTSetup，系统安装利器，目前最好用的系统安装器，Windows系统安装部署工具。支持所有Windows平台，支持多系统安装、完全格式化C盘、支持创建VHD虚拟硬盘、在Windows及PE系统下运行，允许在安装前对系统进行预优化设置、集成驱动程序、启用第三方主题支持、加入无人值守自动应答文件等操作。

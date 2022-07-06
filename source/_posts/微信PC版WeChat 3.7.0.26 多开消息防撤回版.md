@@ -1,9 +1,11 @@
 ---
-title:  微信PC版WeChat 3.7.5.11 多开消息防撤回版
-date: 2022-07-5 20:57:46
+title: 微信PC版WeChat 3.7.5.11 多开消息防撤回版
 tags: 联络沟通
 categories: 联络沟通
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
+cover: >-
+  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
+abbrlink: 18752
+date: 2022-07-05 20:57:46
 ---
 
 经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容。而这个绿色特别版本就支持多开，同时可以防撤回消息。![WeChat图片](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/44b02f9b-9c1b-4c05-9f16-be655cc2b931.png)
