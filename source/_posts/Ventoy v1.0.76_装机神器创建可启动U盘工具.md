@@ -1,6 +1,6 @@
 ---
-title:  [Ventoy v1.0.76_装机神器创建可启动U盘工具]
-date: 2022-06-13 14:20:00
+title:  Ventoy v1.0.78 开源多合一启动盘工具
+date: 2022-07-16 13:20:00
 tags: 系统工具
 categories: 系统工具
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/5c364084-6776-4885-89ec-0cbf48fb4387.png
@@ -51,6 +51,19 @@ ISO文件支持列表模式或目录树模式显示 说明
 
 # 更新日志
 
+* 2022/07/01 --- 1.0.78 发布
+
+1. 改进 `启动配置替换插件`，现在最多支持替换2个文件。[说明](https://ventoy.net/cn/plugin_bootconf_replace.html#replace_more_files)
+2. 更新 Super-UEFIinSecureBoot-Disk 到 v3.4 (#1695)
+3. `.ventoyignore` 在 F2 浏览模式下也可以生效。
+4. 修复了启动最新 KaOS 时的一个BUG。 (#1696)
+5. 修复了启动 TrueNAS Core 13.0 时的一个BUG。(#1684)
+6. 修复了启动 StorageCraft StorageProtect SPX 时的一个BUG。(#1683)
+7. 在 VentoyPlugson 页面上设置文件夹路径时自动剔除末尾多余的斜杠。
+8. languages.json 更新
+9. 新增 ISO 支持 (累计 920+)
+10. 文档：[如何删除 Ventoy 导入的安全启动 Key](https://ventoy.net/cn/doc_delete_key.html)
+
 2022/06/12 --- 1.0.76 发布
 
 1. 安装 Ventoy 时默认开启 安全启动支持 选项。[说明](https://www.ventoy.net/cn/doc_secure.html)
@@ -67,7 +80,7 @@ ISO文件支持列表模式或目录树模式显示 说明
 
 Ventoy v1.0.76 for Win / Linux / Livecd (2022/06/12)
 [https://github.com/ventoy/Ventoy/releases](https://github.com/ventoy/Ventoy/releases)
-U盘启动工具 Ventoy v1.0.76 便捷版单文件
+U盘启动工具 Ventoy v1.0.78 x86-x64 便捷版单文件
 123盘提取码ftbT
 蓝奏网盘提取码hpnv
 
