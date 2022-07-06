@@ -1,13 +1,13 @@
 ---
+categories:
+- 联络沟通
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
+date: '2022-07-05 20:57:46'
+tags:
+- 联络沟通
 title: 微信PC版WeChat 3.7.5.11 多开消息防撤回版
-tags: 联络沟通
-categories: 联络沟通
-cover: >-
-  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
-abbrlink: 18752
-date: 2022-07-05 20:57:46
+updated: '2022-07-05 20:57:46'
 ---
-
 经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容。而这个绿色特别版本就支持多开，同时可以防撤回消息。![WeChat图片](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/44b02f9b-9c1b-4c05-9f16-be655cc2b931.png)
 
 # 新版变化
@@ -57,7 +57,7 @@ Windows 微信 3.7.5 新增功能：
    ﹂消息防撤回，即撤回消息后依然可见，带对方撤回消息提示
 2. 禁止检测升级，去升级提示弹窗，禁止点选项关于界面更新
 3. 删除驻留进程的升级程序、支持覆盖安装，解压就是绿色版
-   
+
    无人值守静默安装参数：/ai /gm2（默认绝对路径D盘）
    静默安装指定位置：/ai /gm2 /InstallPath="自定义路径"
    示例：软件包.exe /ai /gm2 /InstallPath="D:\MyProgram"
@@ -73,4 +73,3 @@ Windows 微信 3.7.5 新增功能：
 <div class="btn-center">
 {% btn 'https://www.123pan.com/s/CDiA-lRNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 </div>
-
