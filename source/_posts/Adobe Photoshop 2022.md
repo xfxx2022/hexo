@@ -1,8 +1,10 @@
 ---
-categories: []
+categories:
+- 办公学习
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png
 date: '2022-05-13 18:09:46'
-tags: []
+tags:
+- 办公学习
 title: Adobe Photoshop 2022
 updated: '2022-05-13 18:09:46'
 ---
