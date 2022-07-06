@@ -3046,15 +3046,15 @@
   "resolved" "https://registry.npmjs.org/preact-transition-group/-/preact-transition-group-1.1.1.tgz"
   "version" "1.1.1"
 
-"preact@*", "preact@^10.7.1", "preact@>=5", "preact@8.1.0":
+"preact@*", "preact@^10.6.0", "preact@^10.7.1", "preact@>=5":
+  "integrity" "sha512-AKGt0BsDSiAYzVS78jZ9qRwuorY2CoSZtf1iOC6gLb/3QyZt+fLT09aYJBjRc/BEcRc4j+j3ggERMdNE43i1LQ=="
+  "resolved" "https://registry.npmjs.org/preact/-/preact-10.8.2.tgz"
+  "version" "10.8.2"
+
+"preact@8.1.0":
   "integrity" "sha512-JrRktQ5XOM5TXAc47FED+KKamm9yopsrLSj0x6e8++gZanXag4G84Zyz713LoywGDfXCi9acT5y/Hs3NhP+SdQ=="
   "resolved" "https://registry.npmjs.org/preact/-/preact-8.1.0.tgz"
   "version" "8.1.0"
-
-"preact@^10.6.0":
-  "integrity" "sha512-giqJXP8VbtA1tyGa3f1n9wiN7PrHtONrDyE3T+ifjr/tTkg+2N4d/6sjC9WyJKv8wM7rOYDveqy5ZoFmYlwo4w=="
-  "resolved" "https://registry.npmjs.org/preact/-/preact-10.7.3.tgz"
-  "version" "10.7.3"
 
 "pretty-format@^3.5.1":
   "integrity" "sha512-WuxUnVtlWL1OfZFQFuqvnvs6MiAGk9UNsBostyBOB0Is9wb5uRESevA6rnl/rkksXaGX3GzZhPup5d6Vp1nFew=="
