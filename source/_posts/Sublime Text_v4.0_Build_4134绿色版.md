@@ -1,13 +1,13 @@
 ---
+categories:
+- 办公学习
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
+date: '2022-06-12 22:30:00'
+tags:
+- 办公学习
 title: Sublime Text_v4.0_Build_4134绿色版
-tags: 办公学习
-categories: 办公学习
-cover: >-
-  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
-abbrlink: 56685
-date: 2022-06-12 22:30:00
+updated: '2022-06-12 22:30:00'
 ---
-
 Sublime Text - 性感的代码编辑器、程序员之必备神器！Sublime Text 是个功能强大的代码编辑器，也是HTML和散文先进的文本编辑器。其主要功能包括：Python的插件，完整的Python API ， Goto功能，代码段，代码缩略图，拼写检查，书签，即时项目切换，多选择，多窗口，自定义键绑定，主题方案等。
 
 Sublime Text支持C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java, JavaScript, LaTeX, Lisp, Lua, Markdown, Matlab, OCaml, Perl, PHP, Python, R, Ruby, SQL, TCL, Textile, XML等语法文件。
@@ -80,4 +80,3 @@ Sublime Text 4.0 Build 4134 Dev + Portable (2022/05/27)
 {% btn 'https://www.123pan.com/s/CDiA-pDNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 {% btn 'https://wwu.lanzoub.com/b0374dxxe',蓝奏网盘,iconfont icon-yunpan,pink larger %}
 </div>
-
