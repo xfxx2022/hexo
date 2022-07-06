@@ -1,13 +1,13 @@
 ---
+categories:
+- WinPE
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/23832a35-e772-44c5-ac27-0386390e7811.png
+date: '2022-06-07 14:31:00'
+tags:
+- WinPE
 title: rrkeePE系统安装维护工具 22.02.07
-tags: WinPE
-categories: WinPE
-cover: >-
-  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/23832a35-e772-44c5-ac27-0386390e7811.png
-abbrlink: 48861
-date: 2022-06-07 14:31:00
+updated: '2022-06-07 14:31:00'
 ---
-
 # rrkeePE x64温馨提示
 
 1、rrkeePE中包含的软件版权归微软公司和软件开发者所有。
@@ -75,4 +75,3 @@ SHA1: 2dcc4360b8a83e2ce1ff79e345777dcc45510a67
 <div class="btn-center">
 {% btn 'https://www.123pan.com/s/ZgR9-BptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 </div>
-
