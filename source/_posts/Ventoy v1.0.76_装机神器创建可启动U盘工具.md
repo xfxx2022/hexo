@@ -1,13 +1,13 @@
 ---
+categories:
+- 系统工具
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
+date: '2022-07-06 13:20:00'
+tags:
+- 系统工具
 title: Ventoy v1.0.78 开源多合一启动盘工具
-tags: 系统工具
-categories: 系统工具
-cover: >-
-  https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
-abbrlink: 50615
-date: 2022-07-06 13:20:00
+updated: '2022-07-06 13:20:00'
 ---
-
 Ventoy是一个制作可启动U盘的开源工具。
 
 - 有了Ventoy你就无需反复地格式化U盘，你只需要把ISO/WIM/IMG/VHD(x)/EFI 等类型的文件直接拷贝到U盘里面就可以启动了，无需其他操作。
@@ -78,4 +78,3 @@ U盘启动工具 Ventoy v1.0.78 x86-x64 便捷版单文件
 {% btn 'https://www.123pan.com/s/CDiA-BDNF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 {% btn 'https://wwu.lanzoub.com/b0374fyhg',蓝奏网盘,iconfont icon-yunpan,pink larger %}
 </div>
-
