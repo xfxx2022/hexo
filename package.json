@@ -7,10 +7,10 @@
   },
   "dependencies": {
     "add": "^2.0.6",
-    "hexo": "^5.3.0",
+    "hexo": "^5.4.2",
     "hexo-abbrlink": "^2.2.1",
     "hexo-blog-encrypt": "^3.1.6",
-    "hexo-butterfly-extjs": "^1.1.9",
+    "hexo-butterfly-extjs": "^1.2.5",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -21,10 +21,10 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-butterfly": "^4.2.2",
+    "hexo-theme-butterfly": "^4.3.1",
     "hexo-wordcount": "^6.0.1",
     "or": "^0.2.0",
-    "yarn": "^1.22.18"
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
