@@ -3,7 +3,7 @@ title:  Ventoy v1.0.78 开源多合一启动盘工具
 date: 2022-07-16 13:20:00
 tags: 系统工具
 categories: 系统工具
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/5c364084-6776-4885-89ec-0cbf48fb4387.png
+cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
 ---
 
 Ventoy是一个制作可启动U盘的开源工具。
@@ -65,7 +65,6 @@ ISO文件支持列表模式或目录树模式显示 说明
 10. 文档：[如何删除 Ventoy 导入的安全启动 Key](https://ventoy.net/cn/doc_delete_key.html)
 
 # 下载地址
-
 
 Ventoy v1.0.76 for Win / Linux / Livecd (2022/06/12)
 [https://github.com/ventoy/Ventoy/releases](https://github.com/ventoy/Ventoy/releases)
