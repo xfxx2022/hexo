@@ -64,19 +64,8 @@ ISO文件支持列表模式或目录树模式显示 说明
 9. 新增 ISO 支持 (累计 920+)
 10. 文档：[如何删除 Ventoy 导入的安全启动 Key](https://ventoy.net/cn/doc_delete_key.html)
 
-2022/06/12 --- 1.0.76 发布
-
-1. 安装 Ventoy 时默认开启 安全启动支持 选项。[说明](https://www.ventoy.net/cn/doc_secure.html)
-2. 升级 Super UEFIinSecureBoot Disk v3-3 以解决安全启动时导入 key 失败的问题。
-3. 根据ISO文件名中的特殊标识自动使用 memdisk/grub2/wimboot 模式。[说明](https://www.ventoy.net/cn/doc_name_identifier.html)
-4. 修复了 Legacy BIOS 模式下 使用 F2或ventoy_grub.cfg 启动 Linux vDisk (.vtoy) 文件时的一个BUG。
-5. 支持 EasyOS 首次启动时的分区自动扩展。
-6. 支持 EasyOS 4.0
-7. 支持 Stratodesk NoTouch OS. (#1652)
-8. 更新 languages.json
-9. 新增 ISO 文件支持 (累计 900+)
-
 # 下载地址
+
 
 Ventoy v1.0.76 for Win / Linux / Livecd (2022/06/12)
 [https://github.com/ventoy/Ventoy/releases](https://github.com/ventoy/Ventoy/releases)
