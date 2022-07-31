@@ -19,20 +19,27 @@ comments: false
 <strong>Windows 操作系统微软官方镜像</strong>&nbsp; &nbsp; <a rel="external nofollow" href="https://docs.microsoft.com/zh-cn/windows/release-information" target="_blank">Windows 发布信息详细版本</a>
 <p>
 
-{% tabs test4 %}
-<!-- tab 第一个Tab -->
-**tab名字为第一个Tab**
+{% tabs test1 %}
+<!-- tab  Windows 11-->
+**windows 11**
 <!-- endtab -->
 
-<!-- tab @fab fa-apple-pay -->
-**只有图标 没有Tab名字**
+<!-- tab  Windows 10 -->
+**windows 10**
 <!-- endtab -->
 
-<!-- tab 炸弹@fas fa-bomb -->
-**名字+icon**
+<!-- tab  Windows 8 -->
+**windows 8**
+<!-- endtab -->
+
+<!-- tab  Windows 7 -->
+**windows 7**
+<!-- endtab -->
+
+<!-- tab Windows XP -->
+**Windows XP**
 <!-- endtab -->
 {% endtabs %}
-
 
 <tr>
 <th width="364" scope="col">Windows 11</th>
