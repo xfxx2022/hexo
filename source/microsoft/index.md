@@ -1,5 +1,5 @@
 ---
-title: Windows 操作系统微软官方镜像
+title: 微软原版系统
 date: 2022-07-31 00:00:00
 type: "system"
 aside: false
