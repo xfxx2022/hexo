@@ -16,7 +16,7 @@ comments: false
 </head>
 <body leftmargin="20" topmargin="20">
 <table width="1253" border="1">
-<strong>Windows 操作系统微软官方镜像及激活工具</strong>&nbsp; &nbsp; <a rel="external nofollow" href="https://docs.microsoft.com/zh-cn/windows/release-information" target="_blank">Windows 发布信息详细版本</a>
+<strong>Windows 操作系统微软官方镜像</strong>&nbsp; &nbsp; <a rel="external nofollow" href="https://docs.microsoft.com/zh-cn/windows/release-information" target="_blank">Windows 发布信息详细版本</a>
 <p>
 <tr>
 <th width="364" scope="col">Windows 11</th>
