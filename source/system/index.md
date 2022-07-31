@@ -22,7 +22,6 @@ comments: false
 <th width="73" scope="col">系统大小(ISO)</th>
 <th width="108" scope="col">是否需要激活</th>
 <th width="375" scope="col">ISO文件SHA-1</th>
-<th width="299" scope="col">激活工具</th>
 </tr>
 
 <tr>
@@ -30,14 +29,12 @@ comments: false
 <td align="center" valign="middle">4.71GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">24B59706D5EDED392423936C82BA5A83596B50CC</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="图形HWID/KMS38/KMS激活工具" target="_blank">HEU_KMS</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="最强HWID/KMS38/KMS激活脚本" target="_blank">MAS</a></td>
 <tr>
 
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/" target="_blank">Windows 10 简体中文企业版2019长期服务版32位</a></td>
 <td align="center" valign="middle">2.98GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">BA2169EDD94F123211CD4AACA68352F1AB6195D9</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="图形HWID/KMS38/KMS激活工具" target="_blank">HEU_KMS</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="最强HWID/KMS38/KMS激活脚本" target="_blank">MAS</a></td>
 <tr>
 
 
@@ -46,16 +43,13 @@ comments: false
 <td align="center" valign="middle">3.56GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">9E405E950890D2A196565BCA35E152F9CFAD296D</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="图形HWID/KMS38/KMS激活工具" target="_blank">HEU_KMS</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="最强HWID/KMS38/KMS激活脚本" target="_blank">MAS</a></td>
 </tr>
 
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/" target="_blank">Windows 10 简体中文企业版2016长期服务版32位</a></td>
 <td align="center" valign="middle">2.62GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">0422052F25C9C8DF983F3B287F725860AAB907CF</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="图形HWID/KMS38/KMS激活工具" target="_blank">HEU_KMS</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="最强HWID/KMS38/KMS激活脚本" target="_blank">MAS</a></td>
 </tr>
-
 
 
 <tr>
@@ -63,7 +57,6 @@ comments: false
 <td align="center" valign="middle">3.19GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">2CE0B2DB34D76ED3F697CE148CB7594432405E23</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="适合所有Windows 7永久激活工具" target="_blank">小马OEM7F周年纪念版</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="适合GPT分区的所有Windows 7版本永久激活!" target="_blank">Chew-WGA</a></td>
 </tr>
 
 <tr>
@@ -71,9 +64,7 @@ comments: false
 <td align="center" valign="middle">2.47GB</td>
 <td align="center" valign="middle">是</td>
 <td align="center" valign="middle">B92119F5B732ECE1C0850EDA30134536E18CCCE7</td>
-<td align="center" valign="middle"><a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="适合所有Windows 7永久激活工具" target="_blank">小马OEM7F周年纪念版</a> &  <a rel="external nofollow" href="https://pan.lanzou.com/b0f1t9l0b" title="适合GPT分区的所有Windows 7版本永久激活!" target="_blank">Chew-WGA</a></td>
 </tr>
-
 
 <tr>
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/" target="_blank">Windows XP SP3 简体中文专业版</a></td>
