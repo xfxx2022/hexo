@@ -69,9 +69,8 @@ comments: false
 <tr>
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/" target="_blank">Windows XP SP3 简体中文专业版</a></td>
 <td align="center" valign="middle">601.04MB</td>
-<td align="center" valign="middle">是(也可说否)</td>
+<td align="center" valign="middle">是</td>
 <td align="center" valign="middle">D142469D0C3953D8E4A6A490A58052EF52837F0F</td>
-<td align="center" valign="middle" nowrap="nowrap">MRX3F-47B9T-2487J-KWKMF-RPWBY</td>
 </tr>
 <tr>
 </table>
