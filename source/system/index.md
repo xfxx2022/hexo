@@ -2,6 +2,7 @@
 title: 微软原版系统
 date: 2022-07-31 00:00:00
 type: "system"
+aside: false
 comments: false
 ---
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
