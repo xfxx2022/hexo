@@ -2,11 +2,11 @@
 categories:
 - WinPE
 cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/1ba52b4f-4a26-4c70-8092-37750d1fe73e.png
-date: '2022-06-07 13:05:00'
+date: '2022-07-31 09:10:26'
 tags:
 - WinPE
-title: 优启通 v3.7.2022.0527[VIP] 官方22年5月版
-updated: '2022-06-07 13:05:00'
+title: 优启通VIP版 v3.7.2022.0620 官方22年7月版
+updated: '2022-07-31 09:10:26'
 ---
 优启通（EasyU，简称EU）是IT天空打造的一款专业U盘启动盘制作工具，采用U盘三分区方案，支持BIOS（Legacy）与UEFI双启动模式，在支持主流硬件基础上，同时兼容早期多数旧硬件。整合各种装机必备工具，并结合IT天空数款自研软件，有效提高系统安装效率。U盘PE所在分区于系统下自动隐藏，PE区与数据区分别独立，便于使用者对数据的各项操作。优启通定位于一线装机技术员、系统工程师和系统维护人员。![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/3a4eeb90-3b13-4b62-82d1-e3f7de9189bd.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/fe51596c-c40e-49a0-a0d0-856b75036ef4.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/db241ac0-441d-4ef5-9888-8f63a82ec011.png)![EasyU](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/a927c6b4-6f2a-403b-9314-45a5d5042dcc.png)
 
@@ -20,16 +20,17 @@ updated: '2022-06-07 13:05:00'
 
 # 新版变化
 
-[VIP] 优启通 v3.7.2022.0527（2022.06.02 发布）
+[VIP] 优启通 v3.7.2022.0620（2022.07.01 发布）
 
-v3.7.2022.0527
-修复 - 对 VMware Workstation 16 的兼容性
-更新 - DiskGenius 5.4.3.1342
-更新 - CPU-Z 2.01
-更新 - FastCopy 4.15
-更新 - Everything 1.4.1.1015
-[VIP]更新 - 百度网盘 7.16.1.11
-[VIP]更新 - 360 安全浏览器 13.1.5390.0
+v3.7.2022.0620
+（由于 Win11 更新安全软件，如遇到无法生成 ISO 文件，
+请删掉 TOOLS 目录内的 PETOOLS_Dism.7z 文件，再生成）
+更新 - DiskGenius 5.2.0.878 DOS版
+更新 - WinNTSetup 5.2.4
+[VIP]更新 - 微信 3.7.0.30
+[VIP]更新 - 360 安全浏览器 13.1.6002.0
+[VIP]更新 - PDF 阅读器 SumatraPDF 3.4.6
+[VIP]去除 - Chrome 浏览器
 
 # 特别提醒
 
@@ -45,5 +46,5 @@ v3.7.2022.0527
 123盘提取码oeeJ
 
 <div class="btn-center">
-{% btn 'https://www.123pan.com/s/ZgR9-pptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
+{% btn 'https://www.123pan.com/s/ZgR9-fptlA',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 </div>
