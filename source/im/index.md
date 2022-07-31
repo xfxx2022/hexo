@@ -59,6 +59,7 @@ SHA-256: C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/" target="_blank">Windows 10 简体中文企业版2016长期服务版32位</a></td>
 <td align="center" valign="middle">0422052F25C9C8DF983F3B287F725860AAB907CF</td>
 </tr>
+</table>
 <!-- endtab -->
 
 <!-- tab  Windows 8 -->
@@ -73,8 +74,6 @@ SHA-256: C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07
 **Windows XP**
 <!-- endtab -->
 {% endtabs %}
-
-</table>
 <p>
 <strong>Microsoft VC++ 运行库官方安装包（静默安装参数 /S）</strong>
 
