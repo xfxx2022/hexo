@@ -9,8 +9,8 @@ comments: false
 <html>
 <head>
 <meta charset="utf-8">
-<title>Windows Office SQL VS Runtime - rrkee.com</title>
-<meta name="description" content="人人客rrkee.com,Windows原版,Windows11,Windows10,Windows7,Windows Server,Office2010,Office2016,Office2019,Office365,KMS激活工具,KMS联网激活,.NET Framework,.NET Core runtime,Visual C++ Runtime,Microsft SQL Server,Windows使用技巧.">
+<title>Windows Office SQL VS Runtime</title>
+<meta name="description" content="Windows原版,Windows11,Windows10,Windows7,Windows Server,Office2010,Office2016,Office2019,Office365,KMS激活工具,KMS联网激活,.NET Framework,.NET Core runtime,Visual C++ Runtime,Microsft SQL Server,Windows使用技巧.">
 <meta http-equiv="window-target" content="_top">
 <meta http-equiv="cache-control" content="no-transform">
 <meta http-equiv="cache-control" content="no-siteapp">
@@ -21,7 +21,6 @@ comments: false
 <meta name="robots" content="index, follow">
 <script src="https://hm.baidu.com/hm.js?1a480bae6100586b8b65b20d7800d736"></script>
 <script src="/lib/baohu.js"></script>
-<script>/*@cc_on window.alert("经检测，因您的浏览器版本太低，可能造成显示异常。\n请更新浏览器到 Chrome Edge Firefox"); window.location.href="http://rrkee.com/browser?"+encodeURIComponent(window.location.href); @*/ if (document.domain != 'rrkee.com' && document.domain != 'www.rrkee.com') {window.location.href = "http://rrkee.com/?" + encodeURIComponent(window.location.href);}</script>
 <link rel="manifest" href="/lib/1.json">
 <link rel="stylesheet" href="/lib/bootstrap-grid.min.css">
 <link rel="stylesheet" href="/lib/nav1.css">
