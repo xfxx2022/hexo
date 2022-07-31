@@ -51,25 +51,25 @@ SHA-256: BD6E87C1E79F47565393A23D5F6D274D243588EF87279B8E517CC9B89CAAE7A1
 32位版本：Windows 10 (consumer edition), version 21H2 (2022) (x86) - DVD (Chinese-Simplified)
 文件名称: zh-cn_windows_10_consumer_editions_version_21h2_updated_july_2022_x86_dvd_879d8c17.iso (4.02G)
 SHA-256: 2F58DE88FDF707F0714DBD6F6DABBF7EAE783042349611ACC202E2DC5B7E211C
-ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_july_2022_x86_dvd_879d8c17.iso|4320282624|021AF8796D1CAE81FCA96907D6A06A63|/
+<a href="ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_july_2022_x86_dvd_879d8c17.iso|4320282624|021AF8796D1CAE81FCA96907D6A06A63|/">ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_july_2022_x86_dvd_879d8c17.iso|4320282624|021AF8796D1CAE81FCA96907D6A06A63|/</a>
 • 简体中文商业版7月更新版（教育版、企业版、专业版、专业教育版、专业工作站版）- VLSC
 64位版本：Windows 10 (business edition), version 21H2 (2022) (x64) - DVD (Chinese-Simplified)
 文件名称: zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x64_dvd_cbcee023.iso（5.50G）
 SHA-256: BB317D162B89415B9E3BAF5519A83F129851922CE562136DDB9AC722CF2B36CD
-ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x64_dvd_cbcee023.iso|5905049600|A7F1343932B969B9C7109CCE20F613A3|/
+<a href="ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x64_dvd_cbcee023.iso|5905049600|A7F1343932B969B9C7109CCE20F613A3|/">ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x64_dvd_cbcee023.iso|5905049600|A7F1343932B969B9C7109CCE20F613A3|/</a>
 32位版本：Windows 10 (business edition), version 21H2 (2022) (x86) - DVD (Chinese-Simplified)
 文件名称: zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x86_dvd_546d59f2.iso（3.95G）
 SHA-256: 9B524E491790516FBDB68AB59ADFE8747B8581F083B4CCBEF9D1F7CB629C62A7
-ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x86_dvd_546d59f2.iso|4236931072|53C97C1DE6EC17A4CFDDE6EB58042DE4|/
+<a href="ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x86_dvd_546d59f2.iso|4236931072|53C97C1DE6EC17A4CFDDE6EB58042DE4|/">ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_july_2022_x86_dvd_546d59f2.iso|4236931072|53C97C1DE6EC17A4CFDDE6EB58042DE4|/</a>
 • 家庭中文版（2021年11月开始中国大陆发布的笔记本标配预装版） - VLSC订阅中心
 64位：Windows 10 (China GGK Chinese), version 21H2 (2021) (x64) - DVD (Chinese-Simplified)
 文件名称: Win10_21H2_China_GGK_Chinese(Simplified)_x64.iso（5.11G）
 SHA-256: 367C188F254270A9F8FED635E3EB6AD849B5AFCAE3408AB087382D9DEEBE0098
-ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x64.iso|5484068864|34EB3B01C339121F2E90BFECC9FA1CA8|/
+<a href="ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x64.iso|5484068864|34EB3B01C339121F2E90BFECC9FA1CA8|/">ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x64.iso|5484068864|34EB3B01C339121F2E90BFECC9FA1CA8|/</a>
 32位：Windows 10 (China GGK Chinese), version 21H2 (2021) (x86) - DVD (Chinese-Simplified)
 文件名称: Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso（3.72G）
 SHA-256: 51FA399CBEC444DCF842AA45C17D94B788516F21C6B40CD5B2A0BBEF9BAE40EF
-ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso|3993532416|14D28500F9F403D36C4F14C45799EC0B|/
+<a href="ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso|3993532416|14D28500F9F403D36C4F14C45799EC0B|/">ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso|3993532416|14D28500F9F403D36C4F14C45799EC0B|/</a>
 <!-- endtab -->
 
 <!-- tab  Windows 8 -->
