@@ -20,26 +20,19 @@ comments: false
 <p>
 
 {% tabs test4 %}
-<!-- Windows 11 -->
-**Windows 11**
+<!-- tab 第一个Tab -->
+**tab名字为第一个Tab**
 <!-- endtab -->
 
-<!-- Windows 10 -->
-**Windows 10**
+<!-- tab @fab fa-apple-pay -->
+**只有图标 没有Tab名字**
 <!-- endtab -->
 
-<!-- Windows 8 -->
-**Windows 8**
-<!-- endtab -->
-
-<!-- Windows 7 -->
-**Windows 7**
-<!-- endtab -->
-
-<!-- Windows XP -->
-**Windows XP**
+<!-- tab 炸弹@fas fa-bomb -->
+**名字+icon**
 <!-- endtab -->
 {% endtabs %}
+
 
 <tr>
 <th width="364" scope="col">Windows 11</th>
