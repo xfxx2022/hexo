@@ -72,18 +72,13 @@ SHA-256: 51FA399CBEC444DCF842AA45C17D94B788516F21C6B40CD5B2A0BBEF9BAE40EF
 <a href="ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso|3993532416|14D28500F9F403D36C4F14C45799EC0B|/">ed2k://|file|Win10_21H2_China_GGK_Chinese(Simplified)_x32.iso|3993532416|14D28500F9F403D36C4F14C45799EC0B|/</a>
 <!-- endtab -->
 
-<!-- tab  Windows 8 -->
+<!-- tab  Windows 7 -->
 Windows 7 With SP1 简体中文旗舰版64位
 SHA-1：2CE0B2DB34D76ED3F697CE148CB7594432405E23
 <a href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/">ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/</a>
 Windows 7 With SP1 简体中文旗舰版32位
 SHA-1：B92119F5B732ECE1C0850EDA30134536E18CCCE7
 <a href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/">ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/</a>
-
-<!-- endtab -->
-
-<!-- tab  Windows 7 -->
-**windows 7**
 <!-- endtab -->
 
 <!-- tab Windows XP -->
