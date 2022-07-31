@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3453489 */
-  src: url('iconfont.woff2?t=1659234783219') format('woff2'),
-       url('iconfont.woff?t=1659234783219') format('woff'),
-       url('iconfont.ttf?t=1659234783219') format('truetype');
+  src: url('iconfont.woff2?t=1659236394651') format('woff2'),
+       url('iconfont.woff?t=1659236394651') format('woff'),
+       url('iconfont.ttf?t=1659236394651') format('truetype');
 }
 
 .iconfont {
@@ -13,7 +13,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-windows7:before {
+.icon-Windows7:before {
   content: "\e692";
 }
 
@@ -49,7 +49,7 @@
   content: "\e7de";
 }
 
-.icon-windows8:before {
+.icon-Windows8:before {
   content: "\e8d0";
 }
 
