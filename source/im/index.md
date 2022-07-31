@@ -45,25 +45,21 @@ SHA-256: C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07
 <th width="364" scope="col">Wwindows 10</th>
 <th width="375" scope="col">ISO文件SHA-1</th>
 </tr>
-
 <tr>
 <td align="center"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/" target="_blank">Windows 10 简体中文企业版2019长期服务版64位</a></td>
 <td align="center" valign="middle">24B59706D5EDED392423936C82BA5A83596B50CC</td>
 <tr>
-
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/" target="_blank">Windows 10 简体中文企业版2019长期服务版32位</a></td>
 <td align="center" valign="middle">BA2169EDD94F123211CD4AACA68352F1AB6195D9</td>
 <tr>
-
 <tr>
 <td align="center"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/" target="_blank">Windows 10 简体中文企业版2016长期服务版64位</a></td>
 <td align="center" valign="middle">9E405E950890D2A196565BCA35E152F9CFAD296D</td>
 </tr>
-
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/" target="_blank">Windows 10 简体中文企业版2016长期服务版32位</a></td>
 <td align="center" valign="middle">0422052F25C9C8DF983F3B287F725860AAB907CF</td>
 </tr>
-
+</table>
 <!-- endtab -->
 
 <!-- tab  Windows 8 -->
