@@ -74,6 +74,7 @@ SHA-256: C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07
 **Windows XP**
 <!-- endtab -->
 {% endtabs %}
+</table>
 <p>
 <strong>Microsoft VC++ 运行库官方安装包（静默安装参数 /S）</strong>
 
