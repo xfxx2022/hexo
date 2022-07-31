@@ -18,26 +18,25 @@ comments: false
 <table width="1253" border="1">
 <strong>Windows 操作系统微软官方镜像</strong>&nbsp; &nbsp; <a rel="external nofollow" href="https://docs.microsoft.com/zh-cn/windows/release-information" target="_blank">Windows 发布信息详细版本</a>
 <p>
-    
-    {% tabs Windoes 11 %}
-    <!-- tab -->
-    **This is Tab 11.**
+    {% tabs test4 %}
+    <!-- Windows 11 -->
+    **Windows 11**
     <!-- endtab -->
     
-    <!-- tab -->
-    **This is Tab 10.**
+    <!-- Windows 10 -->
+    **Windows 10**
     <!-- endtab -->
     
-    <!-- tab -->
-    **This is Tab 8.**
+    <!-- Windows 8 -->
+    **Windows 8**
     <!-- endtab -->
 
-    <!-- tab -->
-    **This is Tab 7.**
+    <!-- Windows 7 -->
+    **Windows 7**
     <!-- endtab -->
 
-    <!-- tab -->
-    **This is Tab XP.**
+    <!-- Windows XP -->
+    **Windows XP**
     <!-- endtab -->
     {% endtabs %}
 
