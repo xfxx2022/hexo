@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3453489 */
-  src: url('iconfont.woff2?t=1655641441079') format('woff2'),
-       url('iconfont.woff?t=1655641441079') format('woff'),
-       url('iconfont.ttf?t=1655641441079') format('truetype');
+  src: url('iconfont.woff2?t=1659234150540') format('woff2'),
+       url('iconfont.woff?t=1659234150540') format('woff'),
+       url('iconfont.ttf?t=1659234150540') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,18 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-windows7:before {
+  content: "\e692";
+}
+
+.icon-windowsPE:before {
+  content: "\e73a";
+}
+
+.icon-Windows11:before {
+  content: "\e639";
 }
 
 .icon-yinle:before {
@@ -41,7 +53,7 @@
   content: "\e8d0";
 }
 
-.icon-windows:before {
+.icon-windowsXP:before {
   content: "\e638";
 }
 
@@ -85,7 +97,7 @@
   content: "\e60c";
 }
 
-.icon-Windows:before {
+.icon-Windows10:before {
   content: "\edd4";
 }
 
