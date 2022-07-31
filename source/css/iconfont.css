@@ -2,9 +2,9 @@
   font-family: "iconfont"; /* Project id 3453489 */
   /* Color fonts */
   src: 
-       url('iconfont.woff2?t=1659238480137') format('woff2'),
-       url('iconfont.woff?t=1659238480137') format('woff'),
-       url('iconfont.ttf?t=1659238480137') format('truetype');
+       url('iconfont.woff2?t=1659239481086') format('woff2'),
+       url('iconfont.woff?t=1659239481086') format('woff'),
+       url('iconfont.ttf?t=1659239481086') format('truetype');
 }
 
 .iconfont {
@@ -13,6 +13,34 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-heart:before {
+  content: "\e609";
+}
+
+.icon-link:before {
+  content: "\e614";
+}
+
+.icon-zixuexigongju:before {
+  content: "\e91e";
+}
+
+.icon-caozuoxitong:before {
+  content: "\e60a";
+}
+
+.icon-diannao:before {
+  content: "\e688";
+}
+
+.icon-anzhuo:before {
+  content: "\e60b";
+}
+
+.icon-home:before {
+  content: "\e66f";
 }
 
 .icon-Windows8:before {
@@ -59,7 +87,7 @@
   content: "\e638";
 }
 
-.icon-zixuexigongju:before {
+.icon-zixuexigongju2:before {
   content: "\e615";
 }
 
@@ -87,7 +115,7 @@
   content: "\e6b5";
 }
 
-.icon-diannao:before {
+.icon-diannao2:before {
   content: "\eac0";
 }
 
@@ -103,19 +131,19 @@
   content: "\edd4";
 }
 
-.icon-anzhuo:before {
+.icon-anzhuo2:before {
   content: "\e61a";
 }
 
-.icon-caozuoxitong:before {
+.icon-caozuoxitong2:before {
   content: "\e686";
 }
 
-.icon-heart:before {
+.icon-heart2:before {
   content: "\e608";
 }
 
-.icon-link:before {
+.icon-link2:before {
   content: "\e607";
 }
 
@@ -135,7 +163,7 @@
   content: "\e603";
 }
 
-.icon-home:before {
+.icon-home1:before {
   content: "\e602";
 }
 
