@@ -58,26 +58,6 @@ SHA-256: C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07
 {% endtabs %}
 
 <tr>
-<th width="364" scope="col">Windows 11</th>
-<th width="375" scope="col">ISO文件SHA-256</th>
-</tr>
-
-<tr>
-<td align="center"><a rel="external nofollow" href="ed2k://|file|zh-cn_windows_11_consumer_editions_version_21h2_updated_july_2022_x64_dvd_50ad4acf.iso|5858816000|6DFAF86BFD146921C274E8F7FF6DD305|/" target="_blank">简体中文消费者版7月更新版（含家庭版、家庭单语言版、教育版、专业版、专业教育版、专业工作站版）- MVC</a></td>
-<td align="center" valign="middle">3F9C3765A3B0EBE9E012980F92EFC1F76422EF652ABC771862CA8D9859385EB9 (5.46G)</td>
-<tr>
-
-<tr>
-<td align="center"><a rel="external nofollow" href="ed2k://|file|zh-cn_windows_11_business_editions_version_21h2_updated_july_2022_x64_dvd_b53f45ba.iso|5738942464|BE45A723FAA45F111BFF03EDE4DE8F2F|/" target="_blank">简体中文商业版7月更新版（含教育版、企业版、专业版、专业教育版、专业工作站版）- VLSC</a></td>
-<td align="center" valign="middle">7182F6FE3DEC34E0E4088832626FEE8E0E3A01EA5E68B7F42A6AF7393AB86C35 (5.34G)</td>
-<tr>
-
-<tr>
-<td align="center"><a rel="external nofollow" href="ed2k://|file|Win11_China_GGK_Chinese(Simplified)_x64.iso|5223102464|F5167197A0F76B7F2F3564AE0AC2E803|/" target="_blank">家庭中文版（首个初始版，目前市面上最新笔记本电脑都是预装这版）</a></td>
-<td align="center" valign="middle">C99D8180DD7E60C324DCAB1CCDFC7652DD98A95132DD79EB6E22710843B84D07</td>
-<tr>
-
-<tr>
 <th width="364" scope="col">常用系统版本（按发布日期最新到最旧）</th>
 <th width="375" scope="col">ISO文件SHA-1</th>
 </tr>
