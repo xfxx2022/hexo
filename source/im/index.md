@@ -82,7 +82,9 @@ SHA-1：B92119F5B732ECE1C0850EDA30134536E18CCCE7
 <!-- endtab -->
 
 <!-- tab Windows XP -->
-**Windows XP**
+Windows XP SP3 简体中文专业版
+SHA-1：D142469D0C3953D8E4A6A490A58052EF52837F0F
+<a href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/">ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/</a>
 <!-- endtab -->
 {% endtabs %}
 </table>
