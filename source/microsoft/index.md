@@ -1,7 +1,7 @@
 ---
 title: 微软原版系统
 date: 2022-07-31 00:00:00
-type: "system"
+type: "microsoft"
 aside: false
 comments: false
 ---
