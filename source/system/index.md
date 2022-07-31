@@ -8,7 +8,7 @@ comments: false
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>423Down - MVS（MSDN）</title>
+<title>微软原版系统 - MVS（MSDN）</title>
 <meta name="keywords" content="WinXP,Win7,Win10,VC运行库,VC++运行库组件,微软运行库合集,微软原版系统下载,微软系统ISO镜像,系统激活工具"/>
 <meta name="copyright" content="Microsoft"/>
 <style type="text/css">a:link{color:#36F;text-decoration:none;}a:visited{text-decoration:none;color:#C60;}a:hover{text-decoration:underline;}a:active{text-decoration:none;}body,td,th{font-size:15px;}</style>
@@ -120,6 +120,5 @@ x86 <a rel="external nofollow" href="http://download.microsoft.com/download/8/B/
 
 <p><a rel="external nofollow" href="http://msdn.itellyou.cn" target="_blank">MSDN, 我告诉你</a> &nbsp; 注：此页挖掘检索的均为官方下载直链，下载后请按照微软许可协议使用，筛选出来主要方便大家！
 	
-<img style="display:none" src=" " onerror='this.onerror=null;var currentDomain="www." + "423down" + ".com"; var str1=currentDomain; str2="docu"+"ment.loca"+"tion.host"; str3=eval(str2) ;if( str1!=str3 && str3!="cache.baiducontent.com" && str3!="webcache.googleusercontent.com" && str3!="c.360webcache.com" && str3!="cncc.bingj.com" && str3!="snapshot.sogoucdn.com" ){ do_action = "loca" + "tion." + "href = loca" + "tion.href" + ".rep" + "lace(docu" +"ment"+".loca"+"tion.ho"+"st," + "currentDomain" + ")";eval(do_action) }' />
 </body>
 </html>
