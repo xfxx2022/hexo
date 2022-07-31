@@ -20,49 +20,39 @@ comments: false
 <p>
 <tr>
 <th width="364" scope="col">常用系统版本（按发布日期最新到最旧）</th>
-<th width="73" scope="col">系统大小(ISO)</th>
 <th width="375" scope="col">ISO文件SHA-1</th>
 </tr>
 
 <tr>
 <td align="center"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/" target="_blank">Windows 10 简体中文企业版2019长期服务版64位</a></td>
-<td align="center" valign="middle">4.71GB</td>
 <td align="center" valign="middle">24B59706D5EDED392423936C82BA5A83596B50CC</td>
 <tr>
 
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/" target="_blank">Windows 10 简体中文企业版2019长期服务版32位</a></td>
-<td align="center" valign="middle">2.98GB</td>
 <td align="center" valign="middle">BA2169EDD94F123211CD4AACA68352F1AB6195D9</td>
 <tr>
 
-
 <tr>
 <td align="center"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/" target="_blank">Windows 10 简体中文企业版2016长期服务版64位</a></td>
-<td align="center" valign="middle">3.56GB</td>
 <td align="center" valign="middle">9E405E950890D2A196565BCA35E152F9CFAD296D</td>
 </tr>
 
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/" target="_blank">Windows 10 简体中文企业版2016长期服务版32位</a></td>
-<td align="center" valign="middle">2.62GB</td>
 <td align="center" valign="middle">0422052F25C9C8DF983F3B287F725860AAB907CF</td>
 </tr>
 
-
 <tr>
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/" target="_blank">Windows 7 With SP1 简体中文旗舰版64位</a></td>
-<td align="center" valign="middle">3.19GB</td>
 <td align="center" valign="middle">2CE0B2DB34D76ED3F697CE148CB7594432405E23</td>
 </tr>
 
 <tr>
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/" target="_blank">Windows 7 With SP1 简体中文旗舰版32位</a></td>
-<td align="center" valign="middle">2.47GB</td>
 <td align="center" valign="middle">B92119F5B732ECE1C0850EDA30134536E18CCCE7</td>
 </tr>
 
 <tr>
 <td align="center" valign="middle"><a rel="external nofollow" href="ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/" target="_blank">Windows XP SP3 简体中文专业版</a></td>
-<td align="center" valign="middle">601.04MB</td>
 <td align="center" valign="middle">D142469D0C3953D8E4A6A490A58052EF52837F0F</td>
 </tr>
 <tr>
