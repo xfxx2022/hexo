@@ -25,7 +25,7 @@ comments: false
 
 <tr>
 <td align="center"><a rel="external nofollow" href="ed2k://|file|zh-cn_windows_11_consumer_editions_version_21h2_updated_july_2022_x64_dvd_50ad4acf.iso|5858816000|6DFAF86BFD146921C274E8F7FF6DD305|/" target="_blank">简体中文消费者版7月更新版（含家庭版、家庭单语言版、教育版、专业版、专业教育版、专业工作站版）- MVC</a></td>
-<td align="center" valign="middle">3F9C3765A3B0EBE9E012980F92EFC1F76422EF652ABC771862CA8D9859385EB9</td>
+<td align="center" valign="middle">3F9C3765A3B0EBE9E012980F92EFC1F76422EF652ABC771862CA8D9859385EB9 (5.46G)</td>
 <tr>
 
 <tr>
