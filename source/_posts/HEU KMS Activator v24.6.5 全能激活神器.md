@@ -1,14 +1,25 @@
 ---
+abbrlink: ''
 categories:
 - 激活工具
 cover: https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png
 date: '2022-07-05 22:46:10'
 tags:
 - 激活工具
-title: HEU KMS Activator v24.6.5 全能激活神器
-updated: '2022-07-05 22:46:10'
+title: HEU_KMS_Activator_v26.2.0 全能激活神器
+updated: '2022-11-07 14:05:25'
 ---
 HEU KMS Activator，简洁高效的 KMS / OEM 智能激活工具，适用所有Windows， Office版本，无需联网即可一键激活，支持 UEFI 的 KMS 激活工具。KMS 服务是微软对 Windows,，Office 等产品的批量许可服务，利用 KMS 可以激活局域网内的产品。该工具利用 KMS 机制在系统搭建KMS服务器，从而实现在线或离线激活。![HEU KMS Activator](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png)![HEU KMS Activator](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/88c2da17ebaa146c739a71a967b2d117-cdeaa3.png)![HEU KMS Activator](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/bcc11c4a6d609278b1dde4b13f679b2e-39d6e7.png)![HEU KMS Activator](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/d7451ec2ba0c0063c44146140625e3dc-11bebc.png)
+
+# 更新日志
+
+[2022.11.7] v26.2.0 更新说明：
+1.静默参数执行时，解决禁用UAC的问题。
+2.优化“智能激活”。
+3.修复KMS自动任务计划参数的错误。
+
+文件: HEU_KMS_Activator_v26.2.0.exe
+SHA1: 001D0B35CE6F679F6698684F3FD3124150696338
 
 # 功能特点
 
