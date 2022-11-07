@@ -1,14 +1,15 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - WinPE
 cover: https://i0.hdslb.com/bfs/album/4d57978ed98306d7240d019fe8d19e6386ee1404.png
 date: '2022-11-07 14:34:31'
-tags: []
+tags:
+- WinPE
 title: HotPE v2.4-20221028 纯净且强大的PE工具箱
-updated: '2022-11-07 14:34:32'
+updated: '2022-11-07 14:48:07'
 ---
 一个纯净、强大、优雅的开源 Win11PE，支持上网、声音、远程、下载、HotPE 模块、Edgeless 插件、MTP丶RNDIS、Legacy、UEFI、M.2、NVME、USB 设备弹出、搜索功能、MSI、BitLocker磁盘解锁、网络共享、U盘启动、本地启动、生成ISO等。![HotPE](https://i0.hdslb.com/bfs/album/88be89375d80b28573e1093d917ff1400dbce096.png)
-
 
 # 功能特点
 
