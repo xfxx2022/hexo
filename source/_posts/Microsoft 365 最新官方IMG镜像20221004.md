@@ -2,12 +2,12 @@
 abbrlink: ''
 categories:
 - - 办公学习
-cover: https://i0.hdslb.com/bfs/album/5c3212cea93384ddcc6c2952ba2282f6f4e3e954.png
+cover: https://i0.hdslb.com/bfs/album/723a8cf4d695ce48f21f79855c77da439628dd86.png
 date: '2022-11-04 08:30:26'
 tags:
 - 办公学习
 title: Microsoft 365 最新官方IMG镜像20221004
-updated: '2022-11-07 10:43:00'
+updated: '2022-11-04 10:43:00'
 ---
 **O365ProPlusRetail：专业增强版（功能最多，推荐下载）**
 
