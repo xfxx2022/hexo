@@ -2,14 +2,14 @@
 abbrlink: ''
 categories:
 - - 远程工具
-cover: https://i0.hdslb.com/bfs/album/c2508bac844f325da285e6fc5949ede08c357f30.png
+cover: https://blog.aidengrong.top/img/2022/11/07/47ae6dc017d7da993273ce5e4fd73d93bead166d.png
 date: '2022-11-07 17:34:04'
 tags:
 - 远程工具
 title: NextSSH v2.2.0 简洁直观的SSH客户端 便携版
-updated: '2022-11-07 17:34:26'
+updated: '2022-11-07 17:34:04'
 ---
-NextSSH 是一款简洁直观的 SSH 客户端， 支持 Windows、macOS 与 Linux。 并且集成了 SFTP 、远程文件编辑、数据同步等诸多便利的辅助功能。![NextSSH](https://i0.hdslb.com/bfs/album/47ae6dc017d7da993273ce5e4fd73d93bead166d.png)
+NextSSH 是一款简洁直观的 SSH 客户端， 支持 Windows、macOS 与 Linux。 并且集成了 SFTP 、远程文件编辑、数据同步等诸多便利的辅助功能。![NextSSH](https://blog.aidengrong.top/img/2022/11/07/47ae6dc017d7da993273ce5e4fd73d93bead166d.png)
 
 # 功能特点
 
@@ -24,7 +24,6 @@ NextSSH 是一款简洁直观的 SSH 客户端， 支持 Windows、macOS 与 Lin
 * **工作区分屏操作：** 自由组合分屏，独立工作区窗口，高效多任务操作。
 * **本地终端：** 同时处理双端任务。
 * **更多辅助功能与自定义选项：** OSC52跨系统剪切板，字体字号调整。
-
 
 # 下载地址
 
