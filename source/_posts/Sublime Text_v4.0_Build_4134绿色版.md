@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - 办公学习
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
+cover: https://blog.aidengrong.top/img/2022/06/12/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
 date: '2022-06-12 22:30:00'
 tags:
 - 办公学习
@@ -14,7 +15,7 @@ Sublime Text支持C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java,
 
 # 软件截图
 
-![Sublime Text](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b5f11fd6-85ac-4b62-a1d4-91fee9094ebb.png)
+![Sublime Text](https://blog.aidengrong.top/img/2022/06/12/b5f11fd6-85ac-4b62-a1d4-91fee9094ebb.png)
 
 # 新版变化
 
