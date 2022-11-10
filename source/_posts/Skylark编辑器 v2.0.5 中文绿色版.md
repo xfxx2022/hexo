@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - 办公学习
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/4abacc76-1372-41eb-ada5-2d371d746ca8.jpg
+cover: https://blog.aidengrong.top/img/2022/06/12/4abacc76-1372-41eb-ada5-2d371d746ca8.png
 date: '2022-06-12 21:57:00'
 tags:
 - 办公学习
@@ -12,7 +13,7 @@ Skylark 编辑器，是一个文本、源代码、二进制编辑器，skylark �
 
 # 软件截图
 
-![Skylark](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/304cccbd-fe75-403e-b97b-c58017f26fa3.png)
+![Skylark](https://blog.aidengrong.top/img/2022/06/12/304cccbd-fe75-403e-b97b-c58017f26fa3.png)
 
 # 特点描述
 
