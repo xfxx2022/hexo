@@ -2,7 +2,7 @@
 abbrlink: ''
 categories:
 - 系统工具
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/ea5353e7-d987-432b-9e02-7350597e9a10.png
+cover: https://blog.aidengrong.top/img/2022/07/06/ea5353e7-d987-432b-9e02-7350597e9a10.png
 date: '2022-07-06 13:20:00'
 tags:
 - 系统工具
