@@ -2,7 +2,7 @@
 abbrlink: ''
 categories:
 - 激活工具
-cover: https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png
+cover: https://blog.aidengrong.top/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png
 date: '2022-07-05 22:46:10'
 tags:
 - 激活工具
