@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - 办公学习
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png
+cover: https://blog.aidengrong.top/img/2022/05/13/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png
 date: '2022-05-13 18:09:46'
 tags:
 - 办公学习
@@ -9,9 +10,9 @@ title: Adobe Photoshop 2022
 updated: '2022-05-13 18:09:46'
 ---
 Adobe Photoshop（简称PS）是全球最流行的图像处理软件，知名图像及照片后期处理大型专业软件。Adobe® Photoshop 是 Adobe Creative Cloud 创意云里的专业图片处理编辑软件热门产品，Photoshop是数字图象处理业界标准，提供广泛的专业润饰工具套件，并设计了专门为激发灵感而设计的强大编辑功能。
-![Adobe Photoshop](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png)
+![Adobe Photoshop](https://blog.aidengrong.top/img/2022/05/13/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png)
 
-![Adobe Photoshop](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/a6d7677b-b330-40c8-a2e0-b3bb69b1bc2b.png)
+![Adobe Photoshop](https://blog.aidengrong.top/img/2022/05/13/a6d7677b-b330-40c8-a2e0-b3bb69b1bc2b.png)
 
 # 新版变化
 
