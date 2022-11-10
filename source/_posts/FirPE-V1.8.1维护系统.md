@@ -2,17 +2,16 @@
 abbrlink: ''
 categories:
 - - WinPE
-cover: https://i0.hdslb.com/bfs/album/1a4923aa270745869b5e805b542f577121934a8f.png
+cover: https://blog.aidengrong.top/img/2022/11/07/98792aa8029d653f5e2d3fdee31a07fd3f0fe8da.jpg
 date: '2022-11-07 15:08:26'
 tags:
 - WinPE
 title: FirPE-V1.8.1维护系统
-updated: '2022-11-07 15:08:27'
+updated: '2022-11-07 15:08:26'
 ---
 FirPE 是一款系统预安装环境（Windows PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具，有效提高系统安装效率。FirPE 将为大家带来全新的用户体验！
 
-采用经过优化的U盘三分区方案，同时支持BIOS（Legacy）与UEFI两种启动模式。结合一贯的“双PE分治”理念，两个PE分别接管不同的硬件范围，可在支持主流硬件的基础上，同时兼容以往多数旧硬件。U盘WinPE所在分区于系统下自动隐藏，WinPE区与数据区分别独立，便于使用者对数据的各项操作。![FirPE](https://i0.hdslb.com/bfs/album/98792aa8029d653f5e2d3fdee31a07fd3f0fe8da.jpg)
-
+采用经过优化的U盘三分区方案，同时支持BIOS（Legacy）与UEFI两种启动模式。结合一贯的“双PE分治”理念，两个PE分别接管不同的硬件范围，可在支持主流硬件的基础上，同时兼容以往多数旧硬件。U盘WinPE所在分区于系统下自动隐藏，WinPE区与数据区分别独立，便于使用者对数据的各项操作。![FirPE](https://blog.aidengrong.top/img/2022/11/07/98792aa8029d653f5e2d3fdee31a07fd3f0fe8da.jpg)
 
 ### V1.8.1（2021.12.12）
 
