@@ -1,15 +1,15 @@
 ---
+abbrlink: ''
 categories:
 - 编程办公
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/d42a3db3-f8ab-40d1-81b7-6969673f899e.png
+cover: https://blog.aidengrong.top/img/2022/06/14/d42a3db3-f8ab-40d1-81b7-6969673f899e.png
 date: '2022-06-14 17:25:00'
 tags:
 - 编程办公
 title: Webpack全面实战企业级项目搭建
 updated: '2022-06-14 17:25:00'
 ---
-Webpack 是一个前端资源加载/打包工具。它将根据模块的依赖关系进行静态分析，然后将这些模块按照指定的规则生成对应的静态资源。课程内容通从Webpack基础一路直击高级企业项目实战，是Webpack非常有参考意义的学习课程。
-![Webpack全面实战企业级项目搭建](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/d42a3db3-f8ab-40d1-81b7-6969673f899e.png)
+Webpack 是一个前端资源加载/打包工具。它将根据模块的依赖关系进行静态分析，然后将这些模块按照指定的规则生成对应的静态资源。课程内容通从Webpack基础一路直击高级企业项目实战，是Webpack非常有参考意义的学习课程。![Webpack全面实战企业级项目搭建](https://blog.aidengrong.top/img/2022/06/14/d42a3db3-f8ab-40d1-81b7-6969673f899e.png)
 
 # 下载地址
 
