@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - 系统工具
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
+cover: https://blog.aidengrong.top/img/2022/06/13/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
 date: '2022-06-13 14:55:46'
 tags:
 - 系统工具
@@ -12,8 +13,8 @@ WinNTSetup，系统安装利器，目前最好用的系统安装器，Windows系
 
 # 软件截图
 
-![WinNTSetup](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png)
-![WinNTSetup](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/fbdcb408-326d-430b-a7c4-a693c4909f73.png)
+![WinNTSetup](https://blog.aidengrong.top/img/2022/06/13/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png)
+![WinNTSetup](https://blog.aidengrong.top/img/2022/06/13/fbdcb408-326d-430b-a7c4-a693c4909f73.png)
 
 # 新版变化
 
