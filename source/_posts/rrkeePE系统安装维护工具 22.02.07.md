@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - WinPE
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/23832a35-e772-44c5-ac27-0386390e7811.png
+cover: https://blog.aidengrong.top/img/2022/06/07/23832a35-e772-44c5-ac27-0386390e7811.png
 date: '2022-06-07 14:31:00'
 tags:
 - WinPE
@@ -33,19 +34,20 @@ FAT32、NTFS、 exFAT的区别:
 
 兼容性最好，格式化U盘为两个分区(第一 分区存用户数据第二分区存PE系统)。完美支持Legacy/UEFI双引导PE,又能存储大于4G单个文件。
 
-1. 请严格按照下面步骤制作WinPE:打开ISO包或者解压ISO包得到的文件夹中找到BOOTICE .EXE 并双击打开得到下图界面。![rrkeePE](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/0326ac0f-abf1-4d93-ae35-7bb68f251b54.png)![rrkeePE](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/3747d69f-cf30-41ab-a9e4-b04eb4659c15.png)
-2. 返回图1击主引得记录得到下图继续操作。![rrkeePE](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/2faff08c-541a-4e2d-8b96-5dffd19258ac.png)
-3. 最后一步打开ISO包或者解压ISO包所得的全部文件复制到U盘FAT(FAT32)UEFI分区的根目录下即可。
+1. 请严格按照下面步骤制作WinPE:打开ISO包或者解压ISO包得到的文件夹中找到BOOTICE .EXE 并双击打开得到下图界面。![rrkeePE](https://blog.aidengrong.top/img/2022/06/07/0326ac0f-abf1-4d93-ae35-7bb68f251b54.png)
+2. ![rrkeePE](https://blog.aidengrong.top/img/2022/06/07/3747d69f-cf30-41ab-a9e4-b04eb4659c15.png)
+3. 返回图1击主引得记录得到下图继续操作。![rrkeePE](https://blog.aidengrong.top/img/2022/06/07/2faff08c-541a-4e2d-8b96-5dffd19258ac.png)
+4. 最后一步打开ISO包或者解压ISO包所得的全部文件复制到U盘FAT(FAT32)UEFI分区的根目录下即可。
    注意事项:
    (1)如果Win10/11系统不能显示两个分区;请在磁盘管理中为U盘分配盘符即可显示分区。步骤: (右键此电脑->管理- >找到并点击磁盘管理->找到没有盘符的U盘分区，右击->更改驱动器号和路径)
-   (2)如果Win7、Win8系统不能显示FAT16分区，所以使用BOOTICE.EXE的“分区管理”下图界面中进行切换。![rrkeePE](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/0f5e4e38-dd09-4d62-a982-82597732329e.png)到这里就制作完成了。可以重启电脑进入WinPE使用了。
+   (2)如果Win7、Win8系统不能显示FAT16分区，所以使用BOOTICE.EXE的“分区管理”下图界面中进行切换。![rrkeePE](https://blog.aidengrong.top/img/2022/06/07/0f5e4e38-dd09-4d62-a982-82597732329e.png)到这里就制作完成了。可以重启电脑进入WinPE使用了。
 
 # rrkeePE 升级方法
 
 不需要格式化U盘!只需要准备您已经制作好，并且能正常引导PE使用的U盘。再把新升级的rrkeePE.ISO文件包打开或解压出来的全部文件复制到U盘弓|导分区的根目录覆盖旧文件就完成了升级。
 注意事项:
 (1)如果Win10/11系统不能显示两个分区;请在磁盘管理中为U盘分配盘符即可显示分区。
-(2)如果Win7、Win8系统不能显示FAT1 6分区，所以使用BOOTICE.EXE的“分区管理”下图界面中进行切换。![rrkeePE](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/a66c690f-ac0b-4e91-82c6-de73eff51e2a.png)
+(2)如果Win7、Win8系统不能显示FAT1 6分区，所以使用BOOTICE.EXE的“分区管理”下图界面中进行切换。
 
 # rrkeePE x64文件包及升级日志
 
