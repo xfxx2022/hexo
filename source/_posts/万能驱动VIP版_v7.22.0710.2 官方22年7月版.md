@@ -1,20 +1,21 @@
 ---
+abbrlink: ''
 categories:
 - 系统工具
-cover: https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png
+cover: https://blog.aidengrong.top/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png
 date: '2022-07-31 08:06:59'
 tags:
 - 系统工具
 title: 万能驱动VIP版_v7.22.0710.2 官方22年7月版
-updated: '2022-07-31 08:53:54'
+updated: '2022-07-31 08:06:59'
 ---
 万能驱动VIP版(简称EasyDrv)是IT天空出品的一款智能识别电脑硬件并自动安装驱动的驱动安装工具.它拥有简约友好的用户界面,驱动覆盖面广泛,智能精确识别硬件设备,万能驱动搭载了IT天空团队精心整理制作的离线驱动包.这是到目前为止,针对当前主流硬件设备收集和整理得最为全面的驱动集合,支持市面上绝大多数主流硬件,兼容以往多数旧硬件.驱动包经过合理的整合与压缩工作,以尽可能小的体积支持尽可能多的硬件设备
 
 # 软件截图
 
-![Ventoy](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png)
+![Ventoy](https://blog.aidengrong.top/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png)
 
-![Ventoy](https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/07/31/93bb116a1af2aa702727bb483fb6fecc-3cad37.png)
+![Ventoy](https://blog.aidengrong.top/img/2022/07/31/93bb116a1af2aa702727bb483fb6fecc-3cad37.png)
 
 # 新版变化
 
