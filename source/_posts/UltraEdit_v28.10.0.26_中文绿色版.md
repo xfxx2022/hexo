@@ -1,7 +1,8 @@
 ---
+abbrlink: ''
 categories:
 - 办公学习
-cover: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
+cover: https://blog.aidengrong.top/img/2022/06/12/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
 date: '2022-06-12 21:01:00'
 tags:
 - 办公学习
@@ -12,7 +13,7 @@ UltraEdit是一款编程工具，简称“UE”，使用它可以编辑文本、
 
 # 软件截图
 
-![UltraEdit](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/7cc35ff8-f9f8-436e-b813-05735f900ab5.png)
+![UltraEdit](https://blog.aidengrong.top/img/2022/06/12/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png)
 
 # 新版变化
 
