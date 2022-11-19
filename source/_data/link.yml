@@ -3,12 +3,17 @@
   link_list:
     - name: 番茄酱-文件下载中心
       link: https://pan.aidengrong.top
-      avatar: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/6ba420ce-65ad-4182-9b58-b028830c37ca.png
+      avatar: https://blog.aidengrong.top/img/pan.png
       descr: 番茄酱Blog - 文件下载中心
     - name: 番茄酱的Music
       link: https://music.aidengrong.top
-      avatar: https://vkceyugu.cdn.bspapp.com/VKCEYUGU-6f00c918-7a62-47b5-8e8a-9578acfb171c/5cd5629c-2359-4246-a959-26f3d8867723.png
+      avatar: https://blog.aidengrong.top/img/music.png
       descr: 番茄酱的Music
+    - name: 番茄酱的Map
+      link: https://map.aidengrong.top/
+      avatar: https://blog.aidengrong.top/img/map.png
+      descr: 番茄酱的Map-地址批量转换经纬度工具
+
 
 
 - class_name: 网站
