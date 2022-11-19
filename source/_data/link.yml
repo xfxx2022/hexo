@@ -1,10 +1,10 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: 番茄酱-文件下载中心
+    - name: 番茄酱的网盘
       link: https://pan.aidengrong.top
       avatar: https://blog.aidengrong.top/img/pan.png
-      descr: 番茄酱Blog - 文件下载中心
+      descr: 番茄酱的网盘
     - name: 番茄酱的Music
       link: https://music.aidengrong.top
       avatar: https://blog.aidengrong.top/img/music.png
