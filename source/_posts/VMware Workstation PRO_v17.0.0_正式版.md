@@ -7,7 +7,7 @@ date: '2022-11-19 15:59:22'
 tags:
 - 系统工具
 title: VMware Workstation PRO_v17.0.0_正式版
-updated: '2022-11-19 17:29:37'
+updated: '2022-11-19 17:33:24'
 ---
 VMware Workstation 产品允许用户将 Linux、Windows 等多个操作系统作为虚拟机在单台 PC 上运行。用户可以在虚拟机上重现服务器、桌面和平板电脑环境，无需重新启动即可跨不同操作系统同时运行应用。Workstation 还提供隔离的安全环境，用于评估新的操作系统（如 Windows 10）、测试软件应用和补丁程序以及参考体系结构。 借助 Workstation 产品，可以仅从一台本地 PC 轻松测试几乎任何操作系统和应用。构建面向 Windows 10 的应用、使用任何浏览器测试兼容性，或者在无需使用移动设备的情况下部署 Android-x86 以查看移动设备行为。![VMware Workstation PRO](https://blog.aidengrong.top/img/2022/11/19/VMWare-02.png)
 
@@ -44,6 +44,15 @@ VM12：硬件要求低，Windows 7 或更高版64位
 VM10：Windows XP 或更高版32位和64位旧版
 注意：VM14版本开始不支持某些旧的电脑硬件，
 会提示不支持或安装失败, 如遇到请退回12版本。
+
+# 激活密钥
+
+VMware激活密钥（通用批量永久激活许可）
+17：JU090-6039P-08409-8J0QH-2YR7F
+16：ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+15：FC7D0-D1YDL-M8DXZ-CYPZE-P2AY6
+12：ZC3TK-63GE6-481JY-WWW5T-Z7ATA
+10：1Z0G9-67285-FZG78-ZL3Q2-234JG
 
 # 下载地址
 
