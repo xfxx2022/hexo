@@ -6,32 +6,32 @@
   "description": "",
   "glyphs": [
     {
-      "icon_id": "31761255",
-      "name": "圆_书籍",
-      "font_class": "yuan_shuji",
-      "unicode": "e7c8",
-      "unicode_decimal": 59336
+      "icon_id": "6536040",
+      "name": "物品-书籍-3",
+      "font_class": "wp-sj-3",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
     },
     {
-      "icon_id": "20384511",
+      "icon_id": "2932867",
       "name": "音乐",
       "font_class": "yinle1",
-      "unicode": "eca7",
-      "unicode_decimal": 60583
+      "unicode": "e80f",
+      "unicode_decimal": 59407
     },
     {
-      "icon_id": "12255994",
-      "name": "影音娱乐",
-      "font_class": "yingyinyule",
-      "unicode": "e624",
-      "unicode_decimal": 58916
+      "icon_id": "17605448",
+      "name": "视频",
+      "font_class": "shipin1",
+      "unicode": "e812",
+      "unicode_decimal": 59410
     },
     {
-      "icon_id": "8987202",
-      "name": "娱乐",
-      "font_class": "yule1",
-      "unicode": "e63c",
-      "unicode_decimal": 58940
+      "icon_id": "145451",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
     },
     {
       "icon_id": "10478947",
