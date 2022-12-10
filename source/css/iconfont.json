@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "826079",
+      "name": "安卓3",
+      "font_class": "anzhuo",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
       "icon_id": "6536040",
       "name": "物品-书籍-3",
       "font_class": "wp-sj-3",
@@ -46,27 +53,6 @@
       "font_class": "diannao",
       "unicode": "e67b",
       "unicode_decimal": 59003
-    },
-    {
-      "icon_id": "3846904",
-      "name": "Windows",
-      "font_class": "Windows8",
-      "unicode": "e6a0",
-      "unicode_decimal": 59040
-    },
-    {
-      "icon_id": "11983514",
-      "name": "windows",
-      "font_class": "Windows11",
-      "unicode": "ea06",
-      "unicode_decimal": 59910
-    },
-    {
-      "icon_id": "19603224",
-      "name": "windows",
-      "font_class": "Windows7",
-      "unicode": "e692",
-      "unicode_decimal": 59026
     },
     {
       "icon_id": "5428599",
@@ -116,13 +102,6 @@
       "font_class": "yunpan",
       "unicode": "e7de",
       "unicode_decimal": 59358
-    },
-    {
-      "icon_id": "1111359",
-      "name": "windows",
-      "font_class": "windowsXP",
-      "unicode": "e638",
-      "unicode_decimal": 58936
     },
     {
       "icon_id": "26543753",
@@ -186,13 +165,6 @@
       "font_class": "Windows10",
       "unicode": "edd4",
       "unicode_decimal": 60884
-    },
-    {
-      "icon_id": "11776601",
-      "name": "安卓",
-      "font_class": "anzhuo",
-      "unicode": "e61a",
-      "unicode_decimal": 58906
     },
     {
       "icon_id": "21053808",
