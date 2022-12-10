@@ -20,7 +20,7 @@ MobaXterm 是一个增强型的 Windows 终端。其为 Windows 桌面提供所�
 
 ![MobaXterm Portable](https://blog.aidengrong.top/img/2022/12/10/MobaXtermPortable.png)![MobaXterm Portable](https://blog.aidengrong.top/img/2022/12/10/MobaXtermPortable2.png)
 
-### 软件功能
+# 软件功能
 
 **嵌入式 X 服务器**
 
@@ -67,4 +67,3 @@ MobaXterm Professional 专为安全性和稳定性而设计
 {% btn 'https://www.123pan.com/s/CDiA-ZdOF3',123盘,iconfont icon-tianmao123shixiao,blue larger %}
 {% btn 'https://wwtu.lanzoub.com/b037rc6ne',蓝奏网盘,iconfont icon-yunpan,pink larger %}
 </div>
-
