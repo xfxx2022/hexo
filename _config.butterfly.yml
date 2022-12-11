@@ -25,6 +25,8 @@ menu:
     视频: https://blog.aidengrong.top/categories/视频 || iconfont icon-shipin1
     音乐: https://blog.aidengrong.top/categories/音乐 || iconfont icon-yinle1
     书籍: https://blog.aidengrong.top/categories/书籍 || iconfont icon-wp-sj-3
+   关于: /about/ || iconfont icon-heart
+    友链: /link/ || iconfont icon-link
   # 目录||iconfont icon-list:
    # 归档: /archives/ || iconfont icon-archive
   #  标签: /tags/ || iconfont icon-tags
@@ -32,8 +34,7 @@ menu:
   # 资源||fas fa-list:
     # 音乐: /music/ || fas fa-music
     # 电影: /movies/ || fas fa-video
-   友链: /link/ || iconfont icon-link
-   关于: /about/ || iconfont icon-heart
+
    
 # Code Blocks (代碼相關)
 # --------------------------------------
