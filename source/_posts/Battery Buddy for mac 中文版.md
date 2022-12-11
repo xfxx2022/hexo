@@ -2,12 +2,12 @@
 abbrlink: ''
 categories:
 - - Mac系统工具
-cover: https://blog.aidengrong.top/img/2022/12/11/Battery Buddy.jpg
+cover: https://blog.aidengrong.top/img/2022/12/11/Battery Buddy.jpg
 date: '2022-12-11 17:58:55'
 tags:
 - Mac系统工具
 title: Battery Buddy for mac 中文版
-updated: '2022-12-11 18:07:38'
+updated: '2022-12-11 18:09:38'
 ---
 # 软件介绍
 
