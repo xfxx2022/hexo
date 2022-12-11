@@ -11,9 +11,7 @@ updated: '2022-12-11 14:50:40'
 ---
 # Atlas 是什么?
 
-Atlas 是一个魔改版本的 Windows，删除了众多拖慢 Windows 系统的组件（游戏性能下降的罪魁祸首）。Atlas 是一个透明且开源的项目，致力于为玩家争取平等的权利，无论您是在土豆，还是高性能 PC 上运行。Atlas 在主要优化性能的同时，也同时是减少系统，网络，输入延迟的一个极佳选择。
-
-# ![AtlasOS](https://blog.aidengrong.top/img/2022/12/11/AtlasOS.png)Windows 对比 Atlas
+Atlas 是一个魔改版本的 Windows，删除了众多拖慢 Windows 系统的组件（游戏性能下降的罪魁祸首）。Atlas 是一个透明且开源的项目，致力于为玩家争取平等的权利，无论您是在土豆，还是高性能 PC 上运行。Atlas 在主要优化性能的同时，也同时是减少系统，网络，输入延迟的一个极佳选择。![AtlasOS](https://blog.aidengrong.top/img/2022/12/11/AtlasOS.png)Windows 对比 Atlas
 
 ## **隐私**
 
