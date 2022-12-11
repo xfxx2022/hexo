@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "11891775",
+      "name": "tool",
+      "font_class": "Mac_gongju",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "774372",
+      "name": "工具",
+      "font_class": "Win_gongju",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
       "icon_id": "1546339",
       "name": "imac",
       "font_class": "mac",
