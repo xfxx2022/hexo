@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1546339",
+      "name": "imac",
+      "font_class": "mac",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
       "icon_id": "12791526",
       "name": "资源",
       "font_class": "ziyuan",
@@ -95,13 +102,6 @@
       "font_class": "video",
       "unicode": "e634",
       "unicode_decimal": 58932
-    },
-    {
-      "icon_id": "666898",
-      "name": "娱乐",
-      "font_class": "yule",
-      "unicode": "e699",
-      "unicode_decimal": 59033
     },
     {
       "icon_id": "1006042",
