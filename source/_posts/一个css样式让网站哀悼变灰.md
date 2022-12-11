@@ -11,9 +11,7 @@ updated: '2022-12-11 16:16:32'
 ---
 在发生重大哀悼事件时候，需要紧急将网站变灰以示哀悼，在此给大家总结了几种方法，通过简单修改一下站点样式即可实现。
 
-grayscale() : 对图片进行灰度转换，grayscale是 <filter-function> 的子属性，当100%参数时候的效果如下：
-
-![huise](https://blog.aidengrong.top/img/2022/12/11/huise.png)最简单地把页面的<html>开始标签中间之间加：
+grayscale() : 对图片进行灰度转换，grayscale是 <filter-function> 的子属性，当100%参数时候的效果如下：![huise](https://blog.aidengrong.top/img/2022/12/11/huise.png)最简单地把页面的<html>开始标签中间之间加：
 
 ```
 style="-webkit-filter: grayscale(100%);"
