@@ -122,7 +122,7 @@ index_img: https://p1.xywm.ltd/2023/01/01/63b1206a3bee6.jpg
 default_top_img: https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images
 
 # The banner image of archive page
-archive_img: https://api.btstu.cn/sjbz/api.php?lx=fengjing&format=images
+archive_img: https://p1.xywm.ltd/2023/01/01/63b14228b346b.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
@@ -450,7 +450,7 @@ crisp:
 footer:
   owner:
     enable: true
-    since: 2021
+    since: 2022
   custom_text: 本站所发布的全部内容源于互联网搬运，仅限于小范围内传播学习和文献参考，请在下载后24小时内删除，如果有侵权之处请第一时间联系我们删除，敬请谅解!
   copyright: false # Copyright of theme and framework
 
