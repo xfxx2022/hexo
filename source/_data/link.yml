@@ -1,7 +1,7 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: 番茄酱的必应壁纸
+    - name: 必应壁纸
       link: https://bing.aidengrong.top
       avatar: https://blog.aidengrong.top/img/bing.jpg
       descr: 番茄酱的必应壁纸
@@ -29,7 +29,7 @@
       link: https://nav.aidengrong.top/
       avatar: https://blog.aidengrong.top/img/nav.png
       descr: 番茄酱的导航
-    - name: 番茄酱的每日早报
+    - name: 每日早报
       link: https://news.aidengrong.top/
       avatar: https://blog.aidengrong.top/img/news.png
       descr: 番茄酱的每日早报
