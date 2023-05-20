@@ -1,7 +1,7 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: QD
+    - name: QD 框架
       link: https://qiandao.aidengrong.top/
       avatar: https://blog.aidengrong.top/img/QD.png
       descr: 番茄酱的签到框架
