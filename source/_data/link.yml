@@ -1,6 +1,18 @@
 - class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
+    - name: chagpt
+      link: https://gpt.aidengrong.top/
+      avatar: https://blog.aidengrong.top/img/gpt.ico
+      descr: 番茄酱的ChaGPT
+    - name: chagpt2
+      link: https://gpt2.aidengrong.top/
+      avatar: https://blog.aidengrong.top/img/gpt2.webp
+      descr: 番茄酱的ChaGPT2
+    - name: chagpt3
+      link: http://chat.aidengrong.top/
+      avatar: https://blog.aidengrong.top/img/Chat.ico
+      descr: 番茄酱的ChaGPT3
     - name: QD 框架
       link: https://qiandao.aidengrong.top/
       avatar: https://blog.aidengrong.top/img/QD.png
