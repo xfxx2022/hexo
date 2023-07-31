@@ -12,7 +12,7 @@ comments: false
 | ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
 | ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
 |                  |                                                              |
-| Goolge 搜索      | [https://google.aidengrong.eu.org(https://google.aidengrong.eu.org)，博主自建的Goolge 搜索。 |
+| Goolge 搜索      | [https://google.aidengrong.eu.org](https://google.aidengrong.eu.org)，博主自建的Goolge 搜索。 |
 | ↳                | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
