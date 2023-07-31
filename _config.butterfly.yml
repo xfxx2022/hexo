@@ -116,7 +116,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://bing-imgapi.aidengrong.top/?api=bing
+index_img: https://bing-imgapi.aidengrong.top?api=bing
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://p1.xywm.ltd/2023/01/01/63b1206a3bee6.jpg
@@ -152,28 +152,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://api.aidengrong.top/api/?id=21
-     - https://api.aidengrong.top/api/?id=22
-     - https://api.aidengrong.top/api/?id=23
-     - https://api.aidengrong.top/api/?id=24
-     - https://api.aidengrong.top/api/?id=25
-     - https://api.aidengrong.top/api/?id=26
-     - https://api.aidengrong.top/api/?id=27
-     - https://api.aidengrong.top/api/?id=28
-     - https://api.aidengrong.top/api/?id=29
-     - https://api.aidengrong.top/api/?id=30
-     - https://api.aidengrong.top/api/?id=31
-     - https://api.aidengrong.top/api/?id=32
-     - https://api.aidengrong.top/api/?id=33
-     - https://api.aidengrong.top/api/?id=34
-     - https://api.aidengrong.top/api/?id=35
-     - https://api.aidengrong.top/api/?id=36
-     - https://api.aidengrong.top/api/?id=37
-     - https://api.aidengrong.top/api/?id=38
-     - https://api.aidengrong.top/api/?id=39
-     - https://api.aidengrong.top/api/?id=40
-     - https://api.aidengrong.top/api/?id=41
-     - https://api.aidengrong.top/api/?id=42
+     - https://bing-imgapi.aidengrong.top?api=bing&idx=1
 
 
 # Replace Broken Images (替換無法顯示的圖片)
