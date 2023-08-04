@@ -27,7 +27,8 @@ comments: false
 | Google 翻译      | [https://google-translate.aidengrong.eu.org](https://google-translate.aidengrong.eu.org)，博主自建的Goolge 翻译。 |
 | ↳                | https://fsoufsou.com/translate                                  |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
-| Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
+| Google 地图      | [https://google-maps.aidengrong.eu.org](https://google-maps.aidengrong.eu.org)，博主自建的Goolge 地图。 |
+| ↳                |  [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
 | Wikipedia        | [https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia](https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia) |
 | ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
