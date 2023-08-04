@@ -24,8 +24,8 @@ comments: false
 | ↳                | https://ac.scmor.com                                         |
 | ↳                | https://scholar.lanfanshu.cn                                 |
 | ↳                | http://scholar.scqylaw.com                                   |
-| Google 翻译      | https://fsoufsou.com/translate                               |
-| ↳                | https://google-translate.aidengrong.eu.org                                  |
+| Google 翻译      | [https://google-translate.aidengrong.eu.org/](https://google-translate.aidengrong.eu.org/)，博主自建的Goolge 翻译。 |
+| ↳                | https://fsoufsou.com/translate                                  |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 | Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
