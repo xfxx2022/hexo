@@ -25,6 +25,7 @@ comments: false
 | ↳                | https://scholar.lanfanshu.cn                                 |
 | ↳                | http://scholar.scqylaw.com                                   |
 | Google 翻译      | https://fsoufsou.com/translate                               |
+| ↳                | google-translate.aidengrong.eu.org                                  |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
 | Google 地图      | [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
