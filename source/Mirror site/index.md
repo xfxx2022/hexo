@@ -40,7 +40,7 @@ comments: false
 |                  |                                                              |
 | ▼ **GitHub**     | **镜像网站**                                                 |
 |GitHub 访问            | [https://github.aidengrong.eu.org](https://github.aidengrong.eu.org)（博主自建的github代理） |
-| ↳                | [https://github2.aidengrong.eu.org](https://github2.aidengrong.eu.org)（博主自建的github2代理） ] |
+| ↳                | [https://github2.aidengrong.eu.org](https://github2.aidengrong.eu.org)（博主自建的github2代理） |
 | ↳                | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，[[示例](https://githubfast.com/runningcheese/Awesome-ChatGPT)] |
 | ↳                | 在任意 github 链接**前面**加上 k，也就是 kgithub.com，[[示例](https://kgithub.com/runningcheese/Awesome-ChatGPT)] |
 | GitHub 下载      | 在 github 下载链接前面加上 [https://ghproxy.com/](https://ghproxy.com/)，[[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
