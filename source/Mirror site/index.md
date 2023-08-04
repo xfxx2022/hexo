@@ -19,7 +19,8 @@ comments: false
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
 | ↳                | [https://note.cm](https://note.cm)，速度稍慢，但也能用。     |
 | ↳                | [https://gs.colnago.icu](https://gs.colnago.icu)，速度稍慢，但也能用。 |
-| Google 学术      | https://sc.panda321.com                                      |
+| Google 学术      | [https://google-earth.aidengrong.eu.org](https://google-earth.aidengrong.eu.org)，博主自建的Goolge 学术。 |
+| ↳                | https://sc.panda321.com                                  |
 | ↳                | https://search.essclick.com                                  |
 | ↳                | https://ac.scmor.com                                         |
 | ↳                | https://scholar.lanfanshu.cn                                 |
