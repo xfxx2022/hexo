@@ -8,10 +8,6 @@ comments: false
 
 | ▼ **网站访问**   | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
-| ChatGPT          | [Shared Chat](https://chat-shared2.zhile.io/shared.html)，免费畅爽使用 ChatGPT。 |
-| ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
-| ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
-|                  |                                                              |
 | Goolge 搜索      | [https://google.aidengrong.eu.org](https://google.aidengrong.eu.org)，博主自建的Goolge 搜索。 |
 | ↳                | [https://google2.aidengrong.eu.org](https://google2.aidengrong.eu.org)，博主自建的Goolge 搜索2。 |
 | ↳                | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
