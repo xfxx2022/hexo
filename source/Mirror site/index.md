@@ -42,6 +42,7 @@ comments: false
 | ↳                | https://sci-hub.yt/                                          |
 | ↳                | https://sci-hub.wf/                                          |
 |                  |                                                              |
+| hub-docker      | [https://hub-docker.aidengrong.eu.org](https://hub-docker.aidengrong.eu.org)，博主自建的hub-docker。 |
 | ▼ **GitHub**     | **镜像网站**                                                 |
 |GitHub 访问            | [https://github.aidengrong.eu.org](https://github.aidengrong.eu.org)（博主自建的github代理） |
 | ↳                | [https://github2.aidengrong.eu.org](https://github2.aidengrong.eu.org)（博主自建的github2代理） |
