@@ -1,18 +1,22 @@
-- class_name: 友情链接
+﻿- class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
     - name: ChatGPT
-      link: https://gpt.aidengrong.top/
-      avatar: https://blog.aidengrong.top/img/gpt.ico
-      descr: 番茄酱的ChatGPT
-    - name: ChatGPT2
-      link: https://gpt2.aidengrong.top/
+      link: https://chat.aidengrong.eu.org
       avatar: https://blog.aidengrong.top/img/gpt2.webp
+      descr: 番茄酱的ChatGPT
+    - name: ChatGPT3
+      link: https://gpt.aidengrong.top
+      avatar: https://blog.aidengrong.top/img/gpt.ico
       descr: 番茄酱的ChatGPT2
     - name: ChatGPT3
-      link: http://chat.aidengrong.top/
-      avatar: https://blog.aidengrong.top/img/Chat.ico
+      link: https://gpt2.aidengrong.top
+      avatar: https://blog.aidengrong.top/img/gpt2.webp
       descr: 番茄酱的ChatGPT3
+    - name: ChatGPT4
+      link: http://chat.aidengrong.top
+      avatar: https://blog.aidengrong.top/img/Chat.ico
+      descr: 番茄酱的ChatGPT4
     - name: QD 框架
       link: https://qiandao.aidengrong.eu.org
       avatar: https://blog.aidengrong.top/img/QD.png
@@ -22,7 +26,7 @@
       avatar: https://blog.aidengrong.top/img/bing.jpg
       descr: 番茄酱的必应壁纸
     - name: 番茄酱的网盘
-      link: https://pan.aidengrong.top
+      link: https://pan.aidengrong.eu.org
       avatar: https://blog.aidengrong.top/img/pan.png
       descr: 番茄酱的网盘
     - name: 番茄酱的Music
@@ -30,35 +34,35 @@
       avatar: https://blog.aidengrong.top/img/music.png
       descr: 番茄酱的Music
     - name: 番茄酱的Map
-      link: https://map.aidengrong.top/
+      link: https://map.aidengrong.top
       avatar: https://blog.aidengrong.top/img/map.jpg
       descr: 地址批量转换经纬度工具
     - name: 番茄酱的图床
-      link: https://img.aidengrong.top/
+      link: https://img.aidengrong.top
       avatar: https://blog.aidengrong.top/img/img.ico
       descr: 番茄酱的图床
     - name: Linux
-      link: https://linux.aidengrong.top/
+      link: https://linux.aidengrong.top
       avatar: https://blog.aidengrong.top/img/linux.png
       descr: 番茄酱的Linux-command
     - name: 番茄AI导航
-      link: https://ai-nav.aidengrong.top/
+      link: https://ai-nav.aidengrong.top
       avatar: https://blog.aidengrong.top/img/nav.png
       descr: 番茄酱的AI导航
     - name: 每日早报
-      link: https://news.aidengrong.top/
+      link: https://news.aidengrong.top
       avatar: https://blog.aidengrong.top/img/news.png
       descr: 番茄酱的每日早报
     - name: 字帖生成器
-      link: https://zitie.aidengrong.top/
+      link: https://zitie.aidengrong.top
       avatar: https://blog.aidengrong.top/img/zitie.png
       descr: 番茄酱的字帖生成器
     - name: 数学生成器
-      link: https://maths.aidengrong.top/
+      link: https://maths.aidengrong.top
       avatar: https://blog.aidengrong.top/img/maths.ico
       descr: 番茄酱的数学生成器
     - name: 能不能好好说话？
-      link: https://nbnhhsh.aidengrong.top/
+      link: https://nbnhhsh.aidengrong.top
       avatar: https://blog.aidengrong.top/img/nbnhhsh.ico
       descr: 能不能好好说话？
 
@@ -66,14 +70,14 @@
   class_desc: 值得推荐的网站
   link_list:
     - name: Youtube
-      link: https://www.youtube.com/
+      link: https://www.youtube.com
       avatar: https://blog.aidengrong.top/img/Youtube.png
       descr: 视频网站
     - name: Weibo
-      link: https://www.weibo.com/
+      link: https://www.weibo.com
       avatar: https://blog.aidengrong.top/img/Weibo.png
       descr: 中国最大社交分享平臺
     - name: Twitter
-      link: https://twitter.com/
+      link: https://twitter.com
       avatar: https://blog.aidengrong.top/img/Twitter.png
       descr: 社交分享平臺
