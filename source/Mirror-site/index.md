@@ -27,7 +27,7 @@ comments: false
 | Google 地图      | [https://google-maps.aidengrong.eu.org](https://google-maps.aidengrong.eu.org)，博主自建的Goolge 地图。 |
 | ↳                |  [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
-| Wikipedia        | [https://zh-wikipedia.aidengrong.eu.org](https://zh-wikipedia.aidengrong.eu.org)，博主自建的Wikipedia。 |
+| Wikipedia        | [https://wikipedia.aidengrong.eu.org](https://wikipedia.aidengrong.eu.org)，博主自建的Wikipedia。 |
 | ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
 | ↳                |[https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia](https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia) |
 |                  |                                                              |
