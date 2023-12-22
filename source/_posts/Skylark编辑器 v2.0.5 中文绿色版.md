@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: dce829a
 categories:
-- 办公学习
-cover: https://blog.aidengrong.top/img/2022/06/12/4abacc76-1372-41eb-ada5-2d371d746ca8.png
+  - 办公学习
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/12/4abacc76-1372-41eb-ada5-2d371d746ca8.png
 date: '2022-06-12 21:57:00'
 tags:
-- 办公学习
+  - 办公学习
 title: Skylark编辑器 v2.0.5 中文绿色版
 updated: '2022-06-12 21:57:00'
 ---

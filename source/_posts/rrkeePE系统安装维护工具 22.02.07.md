@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 1b81c361
 categories:
-- WinPE
-cover: https://blog.aidengrong.top/img/2022/06/07/23832a35-e772-44c5-ac27-0386390e7811.png
+  - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/07/23832a35-e772-44c5-ac27-0386390e7811.png
 date: '2022-06-07 14:31:00'
 tags:
-- WinPE
+  - WinPE
 title: rrkeePE系统安装维护工具 22.02.07
 updated: '2022-06-07 14:31:00'
 ---

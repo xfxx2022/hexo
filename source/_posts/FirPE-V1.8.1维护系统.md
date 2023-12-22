@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: b21e2d25
 categories:
-- - WinPE
-cover: https://blog.aidengrong.top/img/2022/11/07/98792aa8029d653f5e2d3fdee31a07fd3f0fe8da.jpg
+  - - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/98792aa8029d653f5e2d3fdee31a07fd3f0fe8da.jpg
 date: '2022-11-07 15:08:26'
 tags:
-- WinPE
+  - WinPE
 title: FirPE-V1.8.1维护系统
 updated: '2022-11-07 15:08:26'
 ---

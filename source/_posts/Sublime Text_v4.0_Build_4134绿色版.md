@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: ca7571ad
 categories:
-- 办公学习
-cover: https://blog.aidengrong.top/img/2022/06/12/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
+  - 办公学习
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/12/b70bc4b7-eaf3-4a03-a1c1-dc951d49b187.png
 date: '2022-06-12 22:30:00'
 tags:
-- 办公学习
+  - 办公学习
 title: Sublime Text_v4.0_Build_4134绿色版
 updated: '2022-06-12 22:30:00'
 ---

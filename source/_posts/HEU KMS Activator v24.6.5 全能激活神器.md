@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: dd1f9475
 categories:
-- 激活工具
-cover: https://blog.aidengrong.top/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png
+  - 激活工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/05/7b48dcf201957844daabfdc981b6f0e9-631b3c.png
 date: '2022-07-05 22:46:10'
 tags:
-- 激活工具
+  - 激活工具
 title: HEU_KMS_Activator_v26.2.1 全能激活神器
 updated: '2022-11-10 17:21:39'
 ---

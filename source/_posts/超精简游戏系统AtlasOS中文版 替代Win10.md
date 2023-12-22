@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: b60cafb4
 categories:
-- - 第三方作者系统
-cover: https://blog.aidengrong.top/img/2022/12/11/AtlasOS.png
+  - - 第三方作者系统
+cover: 'https://blog.aidengrong.top/img/2022/12/11/AtlasOS.png'
 date: '2022-12-11 14:07:25'
 tags:
-- 第三方作者系统
+  - 第三方作者系统
 title: 超精简游戏系统AtlasOS中文版 替代Win10
 updated: '2022-12-11 16:04:20'
 ---

@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: fce2c5f5
 categories:
-- - Android
-cover: https://blog.aidengrong.top/img/2023/01/29/app.jpg
+  - - Android
+cover: 'https://blog.aidengrong.top/img/2023/01/29/app.jpg'
 date: '2023-01-29 19:34:23'
 tags:
-- Android
+  - Android
 title: 电视盒子APP
 updated: '2023-01-29 20:24:27'
 ---

@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 1ff7f5ae
 categories:
-- WinPE
-cover: https://blog.aidengrong.top/img/2022/07/31/3a4eeb90-3b13-4b62-82d1-e3f7de9189bd.png
+  - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/31/3a4eeb90-3b13-4b62-82d1-e3f7de9189bd.png
 date: '2022-07-31 09:10:26'
 tags:
-- WinPE
+  - WinPE
 title: 优启通VIP版 v3.7.2022.0620 官方22年7月版
 updated: '2022-07-31 09:10:26'
 ---

@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 222ef77
 categories:
-- - WinPE
-cover: https://blog.aidengrong.top/img/2022/11/07/88be89375d80b28573e1093d917ff1400dbce096.png
+  - - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/88be89375d80b28573e1093d917ff1400dbce096.png
 date: '2022-11-07 14:34:31'
 tags:
-- WinPE
+  - WinPE
 title: HotPE v2.4-20221028 纯净且强大的PE工具箱
 updated: '2022-11-07 14:34:31'
 ---

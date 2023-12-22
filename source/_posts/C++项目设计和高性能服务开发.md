@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: fff3d486
 categories:
-- 教程
-cover: https://blog.aidengrong.top/img/2022/07/06/4aaf5b98ee5177c39842887d6c281a26-05a082.png
+  - 教程
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/06/4aaf5b98ee5177c39842887d6c281a26-05a082.png
 date: '2022-07-06 16:25:00'
 tags:
-- 教程
+  - 教程
 title: C++项目设计和高性能服务开发
 updated: '2022-07-06 16:25:00'
 ---

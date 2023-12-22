@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: adf87425
 categories:
-- 办公学习
-cover: https://blog.aidengrong.top/img/2022/06/12/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
+  - 办公学习
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/12/b0e2d8d5-30fa-49a2-a19a-b0523d3b27c1.png
 date: '2022-06-12 21:01:00'
 tags:
-- 办公学习
+  - 办公学习
 title: UltraEdit_v28.10.0.26_中文绿色版
 updated: '2022-06-12 21:01:00'
 ---

@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: fae88444
 categories:
-- - 系统工具
-cover: https://blog.aidengrong.top/img/2022/11/19/VMWare-01.png
+  - - 系统工具
+cover: 'https://blog.aidengrong.top/img/2022/11/19/VMWare-01.png'
 date: '2022-11-19 15:59:22'
 tags:
-- 系统工具
+  - 系统工具
 title: VMware Workstation PRO_v17.0.0_正式版
 updated: '2022-11-19 17:33:24'
 ---

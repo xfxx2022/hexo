@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 47be728b
 categories:
-- - WinPE
-cover: https://blog.aidengrong.top/img/2022/11/07/efde1572152a7c96d64e6d4e7c488bb447811308.webp
+  - - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/efde1572152a7c96d64e6d4e7c488bb447811308.webp
 date: '2022-11-07 17:44:40'
 tags:
-- WinPE
+  - WinPE
 title: USBOS v3.0.2022.11.04 超级PE启动维护工具 标准版&增强版
 updated: '2022-11-07 17:44:40'
 ---

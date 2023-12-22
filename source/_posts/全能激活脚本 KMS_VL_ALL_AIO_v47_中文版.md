@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 2c46d2db
 categories:
-- 激活工具
-cover: https://blog.aidengrong.top/img/2022/05/30/c71bec44-b4a5-4dcd-9868-bea9bd3867e5.png
+  - 激活工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/05/30/c71bec44-b4a5-4dcd-9868-bea9bd3867e5.png
 date: '2022-05-30 17:55:41'
 tags:
-- 激活工具
+  - 激活工具
 title: 全能激活脚本 KMS_VL_ALL_AIO_v47_中文版
 updated: '2022-05-30 17:55:41'
 ---

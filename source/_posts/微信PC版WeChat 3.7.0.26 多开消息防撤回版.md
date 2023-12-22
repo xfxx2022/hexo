@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 1c7294fc
 categories:
-- 联络沟通
-cover: https://blog.aidengrong.top/img/2022/07/05/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
+  - 联络沟通
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/05/ca39116f-b1d2-4cc6-bf7f-583dcb9d236f.png
 date: '2022-07-05 20:57:46'
 tags:
-- 联络沟通
+  - 联络沟通
 title: 微信PC版WeChat 3.7.5.27 多开消息防撤回版
 updated: '2022-07-05 20:57:46'
 ---

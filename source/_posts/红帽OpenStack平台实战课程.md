@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 7ca9d463
 categories:
-- 教程
-cover: https://blog.aidengrong.top/img/2022/06/14/cf36c142-6899-4af2-8f68-d0092f77781a.png
+  - 教程
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/14/cf36c142-6899-4af2-8f68-d0092f77781a.png
 date: '2022-06-14 16:25:00'
 tags:
-- 教程
+  - 教程
 title: 红帽OpenStack平台实战课程
 updated: '2022-06-14 16:25:00'
 ---

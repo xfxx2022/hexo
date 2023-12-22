@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 117b09db
 categories:
-- 远程工具
-cover: https://blog.aidengrong.top/img/2022/05/11/52383e2a-4f09-43f9-9592-af5a1cdd3735.png
+  - 远程工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/05/11/52383e2a-4f09-43f9-9592-af5a1cdd3735.png
 date: '2022-05-11 18:09:46'
 tags:
-- 远程工具
+  - 远程工具
 title: Anyviewer傲梅免费远程桌面v2.1.1
 updated: '2022-05-11 18:09:46'
 ---

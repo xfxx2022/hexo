@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: c1e7973a
 categories:
-- 办公学习
-cover: https://blog.aidengrong.top/img/2022/05/13/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png
+  - 办公学习
+cover: >-
+  https://blog.aidengrong.top/img/2022/05/13/c2e34267-efe9-4e1a-a196-a00e6d2cb85d.png
 date: '2022-05-13 18:09:46'
 tags:
-- 办公学习
+  - 办公学习
 title: Adobe Photoshop 2022
 updated: '2022-05-13 18:09:46'
 ---

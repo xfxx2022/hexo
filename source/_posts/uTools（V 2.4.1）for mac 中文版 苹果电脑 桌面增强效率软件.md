@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: 8f374178
 categories:
-- - Mac系统工具
-cover: https://blog.aidengrong.top/img/2022/12/11/uTools/uTools.png
+  - - Mac系统工具
+cover: 'https://blog.aidengrong.top/img/2022/12/11/uTools/uTools.png'
 date: '2022-12-11 16:36:57'
 tags:
-- Mac系统工具
+  - Mac系统工具
 title: uTools（V 2.4.1）for mac 中文版 苹果电脑 桌面增强效率软件
 updated: '2022-12-11 17:24:12'
 ---

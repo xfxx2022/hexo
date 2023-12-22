@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 6fd240d8
 categories:
-- - 系统工具
-cover: https://blog.aidengrong.top/img/2022/11/07/1ad67aad9d1eaf01fd41f43894c0460bfc5b2136.png
+  - - 系统工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/1ad67aad9d1eaf01fd41f43894c0460bfc5b2136.png
 date: '2022-11-07 17:57:58'
 tags:
-- 系统工具
+  - 系统工具
 title: WizTree v4.11 磁盘空间分析工具 便携版
 updated: '2022-11-07 17:57:58'
 ---

@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: af8e7b8e
 categories:
-- - 远程工具
-cover: https://blog.aidengrong.top/img/2022/12/10/MobaXtermPortable.png
+  - - 远程工具
+cover: 'https://blog.aidengrong.top/img/2022/12/10/MobaXtermPortable.png'
 date: '2022-12-10 19:57:17'
 tags:
-- 远程工具
+  - 远程工具
 title: MobaXterm Portable v22.1汉化版
 updated: '2022-12-10 20:29:51'
 ---

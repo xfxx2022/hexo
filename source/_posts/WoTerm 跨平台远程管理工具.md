@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: 4a4ec013
 categories:
-- - 远程工具
-cover: https://blog.aidengrong.top/img/2022/12/11/vnc.png
+  - - 远程工具
+cover: 'https://blog.aidengrong.top/img/2022/12/11/vnc.png'
 date: '2022-12-11 10:59:11'
 tags:
-- 远程工具
+  - 远程工具
 title: WoTerm 跨平台远程管理工具
 updated: '2022-12-11 10:59:07'
 ---

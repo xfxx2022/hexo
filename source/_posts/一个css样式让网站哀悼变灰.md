@@ -1,11 +1,11 @@
 ---
-abbrlink: ''
+abbrlink: 81f9bb43
 categories:
-- - 教程
-cover: https://blog.aidengrong.top/img/2022/12/11/huise.png
+  - - 教程
+cover: 'https://blog.aidengrong.top/img/2022/12/11/huise.png'
 date: '2022-12-11 16:08:37'
 tags:
-- 教程
+  - 教程
 title: 一个css样式让网站哀悼变灰
 updated: '2022-12-11 16:16:32'
 ---

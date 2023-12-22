@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: d245197e
 categories:
-- 系统工具
-cover: https://blog.aidengrong.top/img/2022/07/06/ea5353e7-d987-432b-9e02-7350597e9a10.png
+  - 系统工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/06/ea5353e7-d987-432b-9e02-7350597e9a10.png
 date: '2022-07-06 13:20:00'
 tags:
-- 系统工具
+  - 系统工具
 title: Ventoy v1.0.78 开源多合一启动盘工具
 updated: '2022-07-06 13:20:00'
 ---

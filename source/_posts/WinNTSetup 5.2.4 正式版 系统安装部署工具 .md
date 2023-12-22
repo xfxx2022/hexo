@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 6a4b576
 categories:
-- 系统工具
-cover: https://blog.aidengrong.top/img/2022/06/13/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
+  - 系统工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/06/13/57b7cb0d-9f23-4b65-b1fe-f13649911cd4.png
 date: '2022-06-13 14:55:46'
 tags:
-- 系统工具
+  - 系统工具
 title: WinNTSetup 5.2.4 正式版 系统安装部署工具
 updated: '2022-06-13 14:55:46'
 ---

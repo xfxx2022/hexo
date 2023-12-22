@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 120118b2
 categories:
-- - 远程工具
-cover: https://blog.aidengrong.top/img/2022/11/07/47ae6dc017d7da993273ce5e4fd73d93bead166d.png
+  - - 远程工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/47ae6dc017d7da993273ce5e4fd73d93bead166d.png
 date: '2022-11-07 17:34:04'
 tags:
-- 远程工具
+  - 远程工具
 title: NextSSH v2.2.0 简洁直观的SSH客户端 便携版
 updated: '2022-11-07 17:34:04'
 ---

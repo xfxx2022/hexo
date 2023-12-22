@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: faec1e22
 categories:
-- - WinPE
-cover: https://blog.aidengrong.top/img/2022/11/07/c55b8eedce20a9662324346f7564b29a23972b60.png
+  - - WinPE
+cover: >-
+  https://blog.aidengrong.top/img/2022/11/07/c55b8eedce20a9662324346f7564b29a23972b60.png
 date: '2022-11-07 15:56:45'
 tags:
-- WinPE
+  - WinPE
 title: ComPE6.0维护系统
 updated: '2022-11-07 15:56:45'
 ---

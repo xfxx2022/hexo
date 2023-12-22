@@ -1,11 +1,12 @@
 ---
-abbrlink: ''
+abbrlink: 85ec2ee6
 categories:
-- 系统工具
-cover: https://blog.aidengrong.top/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png
+  - 系统工具
+cover: >-
+  https://blog.aidengrong.top/img/2022/07/31/55ef57e9e9c9c8e03ef2f49d8a27a550-df377e.png
 date: '2022-07-31 08:06:59'
 tags:
-- 系统工具
+  - 系统工具
 title: 万能驱动VIP版_v7.22.0710.2 官方22年7月版
 updated: '2022-07-31 08:06:59'
 ---
