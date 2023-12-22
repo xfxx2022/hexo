@@ -3,28 +3,28 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "7.0.0"
+    "version": "6.3.0"
   },
   "dependencies": {
     "add": "^2.0.6",
-    "hexo": "^7.0.0",
+    "hexo": "^6.3.0",
     "hexo-abbrlink": "^2.2.1",
-    "hexo-blog-encrypt": "^3.1.9",
-    "hexo-butterfly-extjs": "^1.4.8",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-index": "^3.0.0",
+    "hexo-blog-encrypt": "^3.1.6",
+    "hexo-butterfly-extjs": "^1.2.3",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^2.0.0",
     "hexo-generator-search": "^2.4.3",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.2.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-renderer-ejs": "^1.0.0",
+    "hexo-renderer-marked": "^3.3.0",
     "hexo-renderer-pug": "^3.0.0",
-    "hexo-renderer-stylus": "^3.0.0",
-    "hexo-server": "^3.0.0",
-    "hexo-theme-butterfly": "^4.11.0",
+    "hexo-renderer-stylus": "^2.1.0",
+    "hexo-server": "^2.0.0",
+    "hexo-theme-butterfly": "^4.3.1",
     "hexo-wordcount": "^6.0.1",
     "or": "^0.2.0",
-    "yarn": "^1.22.21"
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
@@ -33,7 +33,7 @@
   "devDependencies": {
     "gulp-clean-css": "^4.3.0",
     "gulp-fontmin": "^0.7.4",
-    "gulp-html-minifier-terser": "^7.1.0",
+    "gulp-html-minifier-terser": "^6.0.1",
     "gulp-terser": "^2.1.0"
   }
 }
