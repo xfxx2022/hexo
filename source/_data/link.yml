@@ -2,19 +2,19 @@
   class_desc: 那些人，那些事
   link_list:
     - name: ChatGPT
-      link: https://chat.aidengrong.eu.org
+      link: https://chat.aidengrong.top
       avatar: https://blog.aidengrong.top/img/gpt2.webp
       descr: 番茄酱的ChatGPT
     - name: ChatGPT2
-      link: https://gpt.aidengrong.top
+      link: https://cha2.aidengrong.top
       avatar: https://blog.aidengrong.top/img/gpt.ico
       descr: 番茄酱的ChatGPT2
     - name: ChatGPT3
-      link: https://gpt2.aidengrong.top
+      link: https://gpt3.aidengrong.top
       avatar: https://blog.aidengrong.top/img/gpt2.webp
       descr: 番茄酱的ChatGPT3
     - name: ChatGPT4
-      link: http://chat.aidengrong.top
+      link: http://chat4.aidengrong.top
       avatar: https://blog.aidengrong.top/img/Chat.ico
       descr: 番茄酱的ChatGPT4
     - name: QD 框架
