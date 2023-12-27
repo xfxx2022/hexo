@@ -9,7 +9,6 @@ comments: false
 | ▼ **网站访问**   | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
 | Goolge 搜索      | [https://google.aidengrong.top](https://google.aidengrong.top)，博主自建的Goolge 搜索。 |
-| ↳                | [https://google2.aidengrong.top](https://google2.aidengrong.top)，博主自建的Goolge 搜索2。 |
 | ↳                | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
