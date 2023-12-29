@@ -14,17 +14,14 @@ comments: false
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
 | ↳                | [https://note.cm](https://note.cm)，速度稍慢，但也能用。     |
 | ↳                | [https://gs.colnago.icu](https://gs.colnago.icu)，速度稍慢，但也能用。 |
-| Google 学术      | [https://google-earth.aidengrong.top](https://google-earth.aidengrong.top)，博主自建的Goolge 学术。 |
-| ↳                | https://sc.panda321.com                                  |
+| Google 学术       | https://sc.panda321.com                                  |
 | ↳                | https://search.essclick.com                                  |
 | ↳                | https://ac.scmor.com                                         |
 | ↳                | https://scholar.lanfanshu.cn                                 |
 | ↳                | http://scholar.scqylaw.com                                   |
-| Google 翻译      | [https://google-translate.aidengrong.top](https://google-translate.aidengrong.top)，博主自建的Goolge 翻译。 |
-| ↳                | https://fsoufsou.com/translate                                  |
+| Google 翻译       | https://fsoufsou.com/translate                                  |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
-| Google 地图      | [https://google-maps.aidengrong.top](https://google-maps.aidengrong.top)，博主自建的Goolge 地图。 |
-| ↳                |  [http://www.gditu.net](http://www.gditu.net/)                |
+| Google 地图       |  [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
 | Wikipedia        | [https://wikipedia.aidengrong.top](https://wikipedia.aidengrong.top)，博主自建的Wikipedia。 |
 | ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
