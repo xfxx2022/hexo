@@ -7,7 +7,7 @@ date: '2023-12-30T20:25:04.172457+08:00'
 tags:
 - 系统工具
 title: Optimizer v16.3 系统优化工具
-updated: '2023-12-30T20:43:15.188+08:00'
+updated: '2023-12-30T21:37:32.011+08:00'
 ---
 # 软件介绍
 
@@ -15,8 +15,7 @@ updated: '2023-12-30T20:43:15.188+08:00'
 
 ![https://blog.aidengrong.top/img/2023/12/30/Optimizer_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/Optimizer_d41d8cd98f00b204e9800998ecf8427e.png)
 
-
-![https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png)# 功能特点
+# ![https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png)功能特点
 
 * 全语言支持（提供19种语言）
 * 提高系统和网络性能
