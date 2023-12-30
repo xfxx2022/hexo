@@ -16,11 +16,8 @@ InstallDefenderUI是一款完全免费Microsoft Defender配置工具，可以理
 # 软件截图
 
 
-
-
-![https://blog.aidengrong.top/img/2023/12/30/DefenderUI2_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/DefenderUI2_d41d8cd98f00b204e9800998ecf8427e.png)
-
 ![https://blog.aidengrong.top/img/2023/12/30/DefenderUI1_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/DefenderUI1_d41d8cd98f00b204e9800998ecf8427e.png)
+![https://blog.aidengrong.top/img/2023/12/30/DefenderUI2_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/DefenderUI2_d41d8cd98f00b204e9800998ecf8427e.png)
 
 
 # 配置说明
