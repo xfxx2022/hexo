@@ -7,18 +7,16 @@ date: '2023-12-30T20:25:04.172457+08:00'
 tags:
 - 系统工具
 title: Optimizer v16.3 系统优化工具
-updated: '2023-12-30T20:25:05.584+08:00'
+updated: '2023-12-30T20:43:15.188+08:00'
 ---
 # 软件介绍
 
 全新的 Windows 安装并不像许多用户想要的那样干净，因为最新版本的操作系统中包含的一些功能被认为是不必要的，会妨碍性能并损害您的隐私。Optimizer 是一个简单易用的应用程序，可让您禁用各种 Windows 功能、清理不必要的文件、从启动列表中删除项目、管理注册表等等。 它是完全可移植和开源的。
 
-
-
 ![https://blog.aidengrong.top/img/2023/12/30/Optimizer_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/Optimizer_d41d8cd98f00b204e9800998ecf8427e.png)
 
 
-# 功能特点
+![https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png](https://blog.aidengrong.top/img/2023/12/30/Optimizer2_d41d8cd98f00b204e9800998ecf8427e.png)# 功能特点
 
 * 全语言支持（提供19种语言）
 * 提高系统和网络性能
