@@ -1,9 +1,11 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - 教程
 cover: https://blog.aidengrong.top/img/2023/12/22/CloudFlare_d41d8cd98f00b204e9800998ecf8427e.jpg
 date: '2023-12-22T16:14:40.113258+08:00'
-tags: []
+tags:
+- 教程
 title: 几款国外免费DNS解析服务
 updated: '2023-12-30T18:44:18.871+08:00'
 ---
