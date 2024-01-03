@@ -8,22 +8,6 @@ comments: true
 
 <div class="gallery-group-main">
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2023/11/20231126225014-700x401.jpg' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">数码管时钟</div>
-            <p>HTML+CSS+JS实现数码管时钟</p>
-            <a href='https://haiyong.site/demo/nixie-tube-clock/'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230329000840.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">水波文本动画</div>
-            <p>使用 CSS 的水波文本动画</p>
-            <a href='https://haiyong.site/demo/wave.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230328221637.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">计数器</div>
