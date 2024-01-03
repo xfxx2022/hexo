@@ -1,8 +1,3 @@
----
-layout: ffalse
----
-
-{% raw %}
 <!DOCTYPE html>
 <html>
 	<head>
@@ -785,4 +780,3 @@ layout: ffalse
 		</script>
 	</body>
 </html>
-{% endraw %}
