@@ -2,7 +2,7 @@
 title: 动画
 date: 2024-01-3 00:00:00
 type: "demo"
-aside: false
+aside: true
 comments: true
 ---
 
