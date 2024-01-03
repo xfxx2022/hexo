@@ -8,14 +8,6 @@ comments: true
 
 <div class="gallery-group-main">
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230328221637.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">计数器</div>
-            <p>响应式计数器动画</p>
-            <a href='https://haiyong.site/demo/jishuqi.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2022/11/hacker.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">黑客入侵</div>
@@ -45,14 +37,6 @@ comments: true
             <div class="gallery-group-name">下雪</div>
             <p>唯美的下雪特效</p>
             <a href='https://haiyong.site/demo/xiaxue'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326011814.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">贺卡</div>
-            <p>圣诞贺卡</p>
-            <a href='https://haiyong.site/demo/shengdanheka.html'></a>
         </figcaption>
     </figure>
     <figure class="gallery-group">
@@ -96,14 +80,6 @@ comments: true
         </figcaption>
     </figure>
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230327103702.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">仿真按钮</div>
-            <p>逼真的红色按钮</p>
-            <a href='https://haiyong.site/demo/kaiguan.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230327103913.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">七彩雨</div>
@@ -112,27 +88,11 @@ comments: true
         </figcaption>
     </figure>
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230327104122.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">表白神器</div>
-            <p>可自定义浪漫信封</p>
-            <a href='https://haiyong.site/demo/eluvletter'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326013153.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">哆啦A梦的时光机</div>
             <p>带你穿越到过去或者未来</p>
             <a href='https://haiyong.site/demo/chuanyueshikong.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230328234729.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">GitHub 登录页面</div>
-            <p>仿 GitHub 登录页面</p>
-            <a href='https://haiyong.site/demo/github.html'></a>
         </figcaption>
     </figure>
     <figure class="gallery-group">
@@ -160,59 +120,11 @@ comments: true
         </figcaption>
     </figure>
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012354.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">烟花特效4</div>
-            <p>烟花特效4</p>
-            <a href='https://haiyong.site/demo/fireworks4.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012426.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">烟花特效5</div>
-            <p>烟花特效5</p>
-            <a href='https://haiyong.site/demo/fireworks5.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012926.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">圣诞树1</div>
             <p>只使用CSS 制作的动画圣诞树</p>
             <a href='https://haiyong.site/demo/christmastree1.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012902.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">圣诞树2</div>
-            <p>只使用CSS 制作的螺旋圣诞树</p>
-            <a href='https://haiyong.site/demo/christmastree2.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012751.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">圣诞树3</div>
-            <p>使用HTML+CSS+JS制作的圣诞树</p>
-            <a href='https://haiyong.site/demo/christmastree3.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012727.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">圣诞树4</div>
-            <p>只使用CSS 的流星圣诞树</p>
-            <a href='https://haiyong.site/demo/christmastree4.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012704.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">圣诞树5</div>
-            <p>水晶球里的圣诞树</p>
-            <a href='https://haiyong.site/demo/christmastree5.html'></a>
         </figcaption>
     </figure>
 </div>
