@@ -19,7 +19,7 @@ comments: true
   
 
   <figure class="gallery-group">
-  <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230329000840.png' alt="Group Image Gallery">
+  <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230329000840.png' alt="Group Image Gallery" style="width: 50%;">
   <figcaption>
   <div class="gallery-group-name">水波文本动画</div>
   <p>使用 CSS 的水波文本动画</p>
