@@ -9,7 +9,7 @@ comments: true
 <style>
   .gallery-group-main {
     width: 50%; /* 你可以根据需要设置宽度 */
-    margin: 0 auto; /* 将块水平居中，如果需要的话 */
+    height: 500px; /* 设置块的高度，你可以根据需要调整具体的像素值 */
   }
 
   .gallery-group {
