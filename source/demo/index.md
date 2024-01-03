@@ -18,14 +18,14 @@ comments: true
   </figure>
   
 
-<figure class="gallery-group" style="width: 50%;">
+  <figure class="gallery-group" style="width: 50%;">
   <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230329000840.png' alt="Group Image Gallery">
   <figcaption>
-    <div class="gallery-group-name">水波文本动画</div>
-    <p>使用 CSS 的水波文本动画</p>
-    <a href='https://haiyong.site/demo/wave.html'></a>
+  <div class="gallery-group-name">水波文本动画</div>
+  <p>使用 CSS 的水波文本动画</p>
+  <a href='https://haiyong.site/demo/wave.html'></a>
   </figcaption>
-</figure>
+  </figure>
   
 
 
