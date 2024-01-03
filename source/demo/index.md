@@ -7,8 +7,13 @@ comments: true
 ---
 
 <div class="gallery-group-main">
+<style>
+  .custom-figure {
+    width: 50%; /* 你可以根据需要设置宽度 */
+  }
+</style>
 
-  <figure class="gallery-group"> style="width: 50%;">
+  <figure class="gallery-group">
   <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2023/11/20231126225014-700x401.jpg' alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">数码管时钟</div>
@@ -18,7 +23,7 @@ comments: true
   </figure>
   
 
-  <figure class="gallery-group" style="width: 50%;">
+  <figure class="gallery-group">
   <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230329000840.png' alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">水波文本动画</div>
