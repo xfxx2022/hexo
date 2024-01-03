@@ -6,32 +6,6 @@ aside: true
 comments: true
 ---
 
-<figure class="highlight javascript">
-    <table>
-        <tr>
-            <td class="gutter">
-                <pre>
-                    <span class="line">1</span>
-                    <br>
-                    <span class="line">2</span>
-                    <br>
-                    <span class="line">3</span>
-                    <br>
-                    <span class="line">4</span>
-                    <br>
-                    <span class="line">5</span>
-                    <br>
-                    <span class="line">6</span>
-                    <br>
-                    <span class="line">7</span>
-                    <br>
-                    <span class="line">8</span>
-                    <br>
-                </pre>
-            </td>
-        </tr>
-    </table>
-</figure>
 <div class="gallery-group-main">
     <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2022/11/hacker.png' alt="Group Image Gallery">
