@@ -6,12 +6,28 @@ aside: true
 comments: true
 ---
 
-<div class="gallery-group-main">
 <style>
-  .custom-figure {
+  .gallery-group-main {
     width: 50%; /* 你可以根据需要设置宽度 */
+    margin: 0 auto; /* 将块水平居中，如果需要的话 */
   }
+
+  .gallery-group {
+    /* 你的其他样式 */
+  }
+
+  .gallery-group-img {
+    /* 你的其他样式 */
+  }
+
+  .gallery-group-name {
+    /* 你的其他样式 */
+  }
+
+  /* 添加其他类的样式，根据需要 */
 </style>
+
+<div class="gallery-group-main">
 
   <figure class="gallery-group">
   <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2023/11/20231126225014-700x401.jpg' alt="Group Image Gallery">
