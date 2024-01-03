@@ -72,14 +72,6 @@ comments: true
         </figcaption>
     </figure>
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230328234420.png' alt="Group Image Gallery">
-        <figcaption>
-            <div class="gallery-group-name">简单模拟时钟</div>
-            <p>时钟 4.0 版本</p>
-            <a href='https://haiyong.site/demo/clock4.html'></a>
-        </figcaption>
-    </figure>
-    <figure class="gallery-group">
         <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230327103913.png' alt="Group Image Gallery">
         <figcaption>
             <div class="gallery-group-name">七彩雨</div>
