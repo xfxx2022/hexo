@@ -717,7 +717,7 @@ busuanzi:
 # Formal: 4/1/2022 00:00:00
 runtimeshow:
   enable: true
-  publish_date: 4/1/2022 00:00:00
+  publish_date: 1/1/2022 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
