@@ -758,6 +758,9 @@ darkmode:
   # autoChangeMode: false
   autoChangeMode: false
 
+# show scroll percent in scroll-to-top button
+rightside_scroll_percent: true
+
 # Don't modify the following settings unless you know how they work (非必要請不要修改 )
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
