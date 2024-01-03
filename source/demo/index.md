@@ -112,11 +112,11 @@ comments: true
         </figcaption>
     </figure>
     <figure class="gallery-group">
-        <img class="gallery-group-img no-lightbox" src='https://haiyong.site/img/img-blog.csdnimg.cn/20230326012926.png' alt="Group Image Gallery">
+        <img class="gallery-group-img no-lightbox" src='https://blog.aidengrong.top/demo/christmastree/christmastree.jpg' alt="Group Image Gallery">
         <figcaption>
-            <div class="gallery-group-name">圣诞树1</div>
+            <div class="gallery-group-name">圣诞树</div>
             <p>只使用CSS 制作的动画圣诞树</p>
-            <a href='https://haiyong.site/demo/christmastree1.html'></a>
+            <a href='https://blog.aidengrong.top/demo/christmastree/christmastree.html'></a>
         </figcaption>
     </figure>
 </div>
