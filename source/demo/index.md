@@ -8,7 +8,7 @@ comments: true
 
 <div class="gallery-group-main">
 
-  <figure class="gallery-group">
+  <figure class="gallery-group"> style="width: 50%;">
   <img class="gallery-group-img no-lightbox" src='https://code.haiyong.site/wp-content/uploads/2023/11/20231126225014-700x401.jpg' alt="Group Image Gallery">
   <figcaption>
   <div class="gallery-group-name">数码管时钟</div>
