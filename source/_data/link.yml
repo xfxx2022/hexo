@@ -5,10 +5,14 @@
       link: https://chat.aidengrong.top
       avatar: https://blog.aidengrong.top/img/chat.webp
       descr: 免费的GPT3.5
+    - name: ChatGPT
+      link: https://chat2.aidengrong.top
+      avatar: https://blog.aidengrong.top/img/ChatGPT-Midjourney.ico
+      descr: 免费的GPT3.5和4.0
     - name: ChatGPT4
       link: https://chat4.aidengrong.top
       avatar: https://blog.aidengrong.top/img/Next.ico
-      descr: 免费的GPT4
+      descr: 免费的GPT3.5和4.0
     - name: QD 框架
       link: https://qiandao.aidengrong.top
       avatar: https://blog.aidengrong.top/img/QD.png
