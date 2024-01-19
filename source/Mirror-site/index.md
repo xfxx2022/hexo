@@ -46,7 +46,7 @@ comments: false
 | ↳                | [https://cdn.staticaly.com](https://cdn.staticaly.com)（180ms 延迟，有缓存） |
 | ↳                | [https://jsd.onmicrosoft.cn](https://jsd.onmicrosoft.cn)（15ms 延迟，无缓存） |
 | ↳                | [https://jsd.cdn.zzko.cn](https://jsd.cdn.zzko.cn)（30ms 延迟，无缓存） |
-| Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，[[示例](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/8493589/is-there-a-css-media-query-to-detect-windows)] |
+| Stackoverflow    | 在原来的链接前加上：[https://stackoverflow.nilmap.com/question?dest_url=](https://stackoverflow.nilmap.com/question?dest_url=)，|
 |                  |                                                              |
 | ▼ **下载加速**   | **镜像网站**                                                 |
 | Chrome 商店      | https://www.crxsoso.com/webstore/category/extensions         |
