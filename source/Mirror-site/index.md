@@ -8,7 +8,7 @@ comments: false
 
 | ▼ **网站访问**   | **镜像网站**                                                 |
 | ---------------- | ------------------------------------------------------------ |
-| Goolge 搜索      | [https://google.2000520.xyz](https://google.2000520.xyz)，博主自建的Goolge 搜索。 |
+| Goolge 搜索      | [https://google.1314151.xyz](https://google.1314151.xyz)，博主自建的Goolge 搜索。 |
 | ↳                | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还可以搜索图片。 |
 | ↳                | [https://g.luciaz.me](https://g.luciaz.me)，浙大镜像，答案分别是：心灵之约、水朝夕、csxy@123 |
 | ↳                | [https://search.essclick.com](https://search.essclick.com)，提供了一些可用的镜像网站。 |
@@ -21,10 +21,10 @@ comments: false
 | ↳                | http://scholar.scqylaw.com                                   |
 | Google 翻译       | https://fsoufsou.com/translate                                  |
 | Google 字体      | [https://cdn.baomitu.com/index/fonts](https://cdn.baomitu.com/index/fonts)，360 前端静态资源库。 |
-| Google 地图       | [https://maps.2000520.xyz](https://maps.2000520.xyz)，博主自建的Goolge 地图。 |
+| Google 地图       | [https://maps.1314151.xyz](https://maps.1314151.xyz)，博主自建的Goolge 地图。 |
 |                  [http://www.gditu.net](http://www.gditu.net/)                |
 |                  |                                                              |
-| Wikipedia        | [https://wikipedia.2000520.xyz](https://wikipedia.2000520.xyz)，博主自建的Wikipedia。 |
+| Wikipedia        | [https://wikipedia.1314151.xyz](https://wikipedia.1314151.xyz)，博主自建的Wikipedia。 |
 | ↳                | [https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia](https://cg.g0f.cn/-----https://en.wikipedia.org/wiki/Wikipedia) |
 | ↳                |[https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia](https://guge.tk/-----https://en.wikipedia.org/wiki/Wikipedia) |
 |                  |                                                              |
@@ -36,7 +36,7 @@ comments: false
 | ↳                | https://sci-hub.wf/                                          |
 |                  |                                                              |
 | ▼ **GitHub**     | **镜像网站**                                                 |
-|GitHub 访问            | [https://github.2000520.xyz](https://github.2000520.xyz)（博主自建的github代理） |
+|GitHub 访问            | [https://github.1314151.xyz](https://github.1314151.xyz)（博主自建的github代理） |
 | ↳                | 在任意 github 链接**后面**加上 fast，也就是 githubfast.com，|
 | ↳                | 在任意 github 链接**前面**加上 k，也就是 kgithub.com，|
 | GitHub 下载      | 在 github 下载链接前面加上 [https://ghproxy.com/](https://ghproxy.com/)，[[示例](https://ghproxy.com/https://github.com/syncthing/syncthing-macos/releases/download/v1.23.4-1/Syncthing-1.23.4-1.dmg)] |
