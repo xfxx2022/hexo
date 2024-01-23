@@ -9,15 +9,44 @@ nav:
 
 # Menu 目錄
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   首页: / || iconfont icon-home
+   安卓软件: https://blog.aidengrong.top/categories/Android/ || iconfont icon-anzhuo
+   Win软件||iconfont icon-diannao:
+    媒体工具: https://blog.aidengrong.top/categories/媒体工具 || iconfont icon-duomeiti
+    远程工具: https://blog.aidengrong.top/categories/远程工具 || iconfont icon-yuanchengxiezhu
+    网络工具: https://blog.aidengrong.top/categories/网络工具 || iconfont icon-xiazai
+    激活工具: https://blog.aidengrong.top/categories/激活工具 || iconfont icon-jihuo
+    系统工具: https://blog.aidengrong.top/categories/系统工具 || iconfont icon-Win_gongju
+    联络沟通: https://blog.aidengrong.top/categories/联络沟通 || iconfont icon-zaixiangoutong
+    办公学习: https://blog.aidengrong.top/categories/办公学习 || iconfont icon-bangongbao
+    解压刻录: https://blog.aidengrong.top/categories/解压刻录 || iconfont icon-Win_gongju
+   Mac软件||iconfont icon-mac:
+    系统工具: https://blog.aidengrong.top/categories/Mac系统工具 || iconfont icon-Mac_gongju
+   操作系统||iconfont icon-caozuoxitong:
+    Win PE: https://blog.aidengrong.top/categories/WinPE
+    Windows XP: https://blog.aidengrong.top/categories/WindowsXP
+    Windows 7: https://blog.aidengrong.top/categories/Windows7
+    Windows 10: https://blog.aidengrong.top/categories/Windows10
+    Windows 11: https://blog.aidengrong.top/categories/Windows11
+    微软原版系统: https://blog.aidengrong.top/microsoft
+    第三方作者系统: https://blog.aidengrong.top/categories/第三方作者系统
+   资源宝库||iconfont icon-ziyuan:
+    视频: https://blog.aidengrong.top/categories/视频 || iconfont icon-shipin1
+    音乐: https://blog.aidengrong.top/categories/音乐 || iconfont icon-yinle1
+    书籍: https://blog.aidengrong.top/categories/书籍 || iconfont icon-wp-sj-3
+    图片: https://blog.aidengrong.top/categories/图片 || iconfont icon-tupian
+    教程: https://blog.aidengrong.top/categories/教程 || iconfont icon-jiaocheng
+    镜像网站: https://blog.aidengrong.top/Mirror-site || iconfont icon-wangye2
+   关于||iconfont icon-heart:
+    友链: https://blog.aidengrong.top/link/ || iconfont icon-link
+    关于我: https://blog.aidengrong.top/about/ || iconfont icon-heart
+  # 目录||iconfont icon-list:
+   # 归档: /archives/ || iconfont icon-archive
+  #  标签: /tags/ || iconfont icon-tags
+   # 分类: /categories/ || iconfont icon-folder-open
+  # 资源||fas fa-list:
+    # 音乐: /music/ || fas fa-music
+    # 电影: /movies/ || fas fa-video
 
 # Code Blocks (代碼相關)
 # --------------------------------------
