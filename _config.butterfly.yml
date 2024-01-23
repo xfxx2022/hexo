@@ -675,7 +675,7 @@ text_align_justify: false
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: linear-gradient(-45deg, rgb(18, 194, 233), rgb(196, 113, 237), rgb(246, 79, 89));
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
