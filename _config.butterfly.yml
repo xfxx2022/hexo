@@ -941,10 +941,9 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-     - <link rel="stylesheet" href="/css/iconfont.css">
      - <link rel="stylesheet" href="/css/dibu.css">
   bottom:
-    # - <script src="xxxx"></script>
+     - <script async src="https://analytics.aidengrong.top/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
