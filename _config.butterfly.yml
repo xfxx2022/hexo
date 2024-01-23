@@ -114,10 +114,10 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    # - https://bing-imgapi.aidengrong.top?api=bing&idx=1
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -126,9 +126,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
-  subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  enable: true
+  subtitle: 'sorry! 页面找不到了~'
+  background: https://blog.aidengrong.top/img/404.png
 
 post_meta:
   page: # Home Page
