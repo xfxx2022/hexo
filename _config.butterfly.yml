@@ -512,9 +512,9 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo.aidengrong.top/
   region:
-  visitor: false
+  visitor: true
   option:
 
 # Giscus
