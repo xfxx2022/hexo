@@ -941,7 +941,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-     - <link rel="stylesheet" href="/css/dibu.css">
+     - <link rel="stylesheet" href="/css/bottom.css">
   bottom:
      - <script async src="https://analytics.aidengrong.top/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
 
