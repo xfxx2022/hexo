@@ -10,36 +10,36 @@ nav:
 # Menu 目錄
 menu:
    首页: / || iconfont icon-home
-   安卓软件: https://blog.aidengrong.top/categories/Android/ || iconfont icon-anzhuo
+   安卓软件: https://blog.1314151.xyz/categories/Android/ || iconfont icon-anzhuo
    Win软件||iconfont icon-diannao:
-    媒体工具: https://blog.aidengrong.top/categories/媒体工具 || iconfont icon-duomeiti
-    远程工具: https://blog.aidengrong.top/categories/远程工具 || iconfont icon-yuanchengxiezhu
-    网络工具: https://blog.aidengrong.top/categories/网络工具 || iconfont icon-xiazai
-    激活工具: https://blog.aidengrong.top/categories/激活工具 || iconfont icon-jihuo
-    系统工具: https://blog.aidengrong.top/categories/系统工具 || iconfont icon-Win_gongju
-    联络沟通: https://blog.aidengrong.top/categories/联络沟通 || iconfont icon-zaixiangoutong
-    办公学习: https://blog.aidengrong.top/categories/办公学习 || iconfont icon-bangongbao
-    解压刻录: https://blog.aidengrong.top/categories/解压刻录 || iconfont icon-Win_gongju
+    媒体工具: https://blog.1314151.xyz/categories/媒体工具 || iconfont icon-duomeiti
+    远程工具: https://blog.1314151.xyz/categories/远程工具 || iconfont icon-yuanchengxiezhu
+    网络工具: https://blog.1314151.xyz/categories/网络工具 || iconfont icon-xiazai
+    激活工具: https://blog.1314151.xyz/categories/激活工具 || iconfont icon-jihuo
+    系统工具: https://blog.1314151.xyz/categories/系统工具 || iconfont icon-Win_gongju
+    联络沟通: https://blog.1314151.xyz/categories/联络沟通 || iconfont icon-zaixiangoutong
+    办公学习: https://blog.1314151.xyz/categories/办公学习 || iconfont icon-bangongbao
+    解压刻录: https://blog.1314151.xyz/categories/解压刻录 || iconfont icon-Win_gongju
    Mac软件||iconfont icon-mac:
-    系统工具: https://blog.aidengrong.top/categories/Mac系统工具 || iconfont icon-Mac_gongju
+    系统工具: https://blog.1314151.xyz/categories/Mac系统工具 || iconfont icon-Mac_gongju
    操作系统||iconfont icon-caozuoxitong:
-    Win PE: https://blog.aidengrong.top/categories/WinPE
-    Windows XP: https://blog.aidengrong.top/categories/WindowsXP
-    Windows 7: https://blog.aidengrong.top/categories/Windows7
-    Windows 10: https://blog.aidengrong.top/categories/Windows10
-    Windows 11: https://blog.aidengrong.top/categories/Windows11
-    微软原版系统: https://blog.aidengrong.top/microsoft
-    第三方作者系统: https://blog.aidengrong.top/categories/第三方作者系统
+    Win PE: https://blog.1314151.xyz/categories/WinPE
+    Windows XP: https://blog.1314151.xyz/categories/WindowsXP
+    Windows 7: https://blog.1314151.xyz/categories/Windows7
+    Windows 10: https://blog.1314151.xyz/categories/Windows10
+    Windows 11: https://blog.1314151.xyz/categories/Windows11
+    微软原版系统: https://blog.1314151.xyz/microsoft
+    第三方作者系统: https://blog.1314151.xyz/categories/第三方作者系统
    资源宝库||iconfont icon-ziyuan:
-    视频: https://blog.aidengrong.top/categories/视频 || iconfont icon-shipin1
-    音乐: https://blog.aidengrong.top/categories/音乐 || iconfont icon-yinle1
-    书籍: https://blog.aidengrong.top/categories/书籍 || iconfont icon-wp-sj-3
-    图片: https://blog.aidengrong.top/categories/图片 || iconfont icon-tupian
-    教程: https://blog.aidengrong.top/categories/教程 || iconfont icon-jiaocheng
-    镜像网站: https://blog.aidengrong.top/Mirror-site || iconfont icon-wangye2
+    视频: https://blog.1314151.xyz/categories/视频 || iconfont icon-shipin1
+    音乐: https://blog.1314151.xyz/categories/音乐 || iconfont icon-yinle1
+    书籍: https://blog.1314151.xyz/categories/书籍 || iconfont icon-wp-sj-3
+    图片: https://blog.1314151.xyz/categories/图片 || iconfont icon-tupian
+    教程: https://blog.1314151.xyz/categories/教程 || iconfont icon-jiaocheng
+    镜像网站: https://blog.1314151.xyz/Mirror-site || iconfont icon-wangye2
    关于||iconfont icon-heart:
-    友链: https://blog.aidengrong.top/link/ || iconfont icon-link
-    关于我: https://blog.aidengrong.top/about/ || iconfont icon-heart
+    友链: https://blog.1314151.xyz/link/ || iconfont icon-link
+    关于我: https://blog.1314151.xyz/about/ || iconfont icon-heart
   # 目录||iconfont icon-list:
    # 归档: /archives/ || iconfont icon-archive
   #  标签: /tags/ || iconfont icon-tags
@@ -64,7 +64,7 @@ code_word_wrap: false
 social:
    fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes || QQ
    fas fa-envelope: mailto:aidengrong@gmail.com || Email
-   fa-solid fa-music: https://music.aidengrong.top || 番茄酱music
+   fa-solid fa-music: https://music.1314151.xyz || 番茄酱music
 
 # Image (圖片設置)
 # --------------------------------------
@@ -74,38 +74,38 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://blog.aidengrong.top/img/logo.png
+  img: https://blog.1314151.xyz/img/logo.png
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://bing-imgapi.aidengrong.top
+index_img: https://bing-imgapi.1314151.xyz
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+default_top_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 # The banner image of archive page
-archive_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+archive_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+tag_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+tag_per_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+category_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 # The banner image of category page
 # format:
 #  - category name: xxxxx
-category_per_img: https://img.aidengrong.top/file/a1d2df04db9f8672b0b6b.jpg
+category_per_img: https://img.1314151.xyz/file/a1d2df04db9f8672b0b6b.jpg
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -117,7 +117,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://bing-imgapi.aidengrong.top
+     - https://bing-imgapi.1314151.xyz
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -128,7 +128,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'sorry! 页面找不到了~'
-  background: https://blog.aidengrong.top/img/404.png
+  background: https://blog.1314151.xyz/img/404.png
 
 post_meta:
   page: # Home Page
@@ -512,7 +512,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.aidengrong.top/
+  envId: https://twikoo.1314151.xyz/
   region:
   visitor: true
   option:
@@ -954,7 +954,7 @@ inject:
   head:
      - <link rel="stylesheet" href="/css/bottom.css">
   bottom:
-     - <script async src="https://analytics.aidengrong.top/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
+     - <script async src="https://analytics.1314151.xyz/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
      - <script defer src="/_vercel/insights/script.js"></script>
 
 # CDN
