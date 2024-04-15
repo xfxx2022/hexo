@@ -2,64 +2,64 @@
   class_desc: 那些人，那些事
   link_list:
     - name: ChatGPT
-      link: https://chat.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/chat.webp
+      link: https://chat.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/chat.webp
       descr: 免费的GPT3.5
     - name: ChatGPT2
-      link: https://chat2.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/ChatGPT-Midjourney.ico
+      link: https://chat2.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/ChatGPT-Midjourney.ico
       descr: 免费的GPT3.5
     - name: ChatGPT4
-      link: https://chat4.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/Next.ico
+      link: https://chat4.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/Next.ico
       descr: 免费的GPT3.5和4.0
     - name: QD 框架
-      link: https://qiandao.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/QD.png
+      link: https://qiandao.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/QD.png
       descr: 番茄酱的签到框架
     - name: 番茄酱的壁纸
-      link: https://wallpaper.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/wallpaper.jpg
+      link: https://wallpaper.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/wallpaper.jpg
       descr: 番茄酱的壁纸
     - name: 番茄酱的网盘
-      link: https://pan.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/pan.png
+      link: https://pan.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/pan.png
       descr: 番茄酱的网盘
     - name: 番茄酱的Music
-      link: https://music.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/music.png
+      link: https://music.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/music.png
       descr: 番茄酱的Music
     - name: 番茄酱的Map
-      link: https://map.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/map.jpg
+      link: https://map.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/map.jpg
       descr: 地址批量转换经纬度工具
     - name: 番茄酱的图床
-      link: https://img.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/img.ico
+      link: https://img.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/img.ico
       descr: 番茄酱的图床
     - name: Linux
-      link: https://linux.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/linux.png
+      link: https://linux.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/linux.png
       descr: 番茄酱的Linux-command
     - name: 番茄酱导航
-      link: https://web.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/web.svg
+      link: https://web.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/web.svg
       descr: 番茄酱的导航
     - name: 番茄AI导航
-      link: https://ai-nav.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/nav.png
+      link: https://ai-nav.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/nav.png
       descr: 番茄酱的AI导航
     - name: 字帖生成器
-      link: https://zitie.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/zitie.png
+      link: https://zitie.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/zitie.png
       descr: 番茄酱的字帖生成器
     - name: 数学生成器
-      link: https://maths.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/maths.ico
+      link: https://maths.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/maths.ico
       descr: 番茄酱的数学生成器
     - name: 能不能好好说话？
-      link: https://nbnhhsh.aidengrong.top
-      avatar: https://blog.aidengrong.top/img/nbnhhsh.ico
+      link: https://nbnhhsh.1314151.xyz
+      avatar: https://blog.1314151.xyz/img/nbnhhsh.ico
       descr: 能不能好好说话？
 
 - class_name: 网站
@@ -67,13 +67,13 @@
   link_list:
     - name: Youtube
       link: https://www.youtube.com
-      avatar: https://blog.aidengrong.top/img/Youtube.png
+      avatar: https://blog.1314151.xyz/img/Youtube.png
       descr: 视频网站
     - name: Weibo
       link: https://www.weibo.com
-      avatar: https://blog.aidengrong.top/img/Weibo.png
+      avatar: https://blog.1314151.xyz/img/Weibo.png
       descr: 中国最大社交分享平臺
     - name: Twitter
       link: https://twitter.com
-      avatar: https://blog.aidengrong.top/img/Twitter.png
+      avatar: https://blog.1314151.xyz/img/Twitter.png
       descr: 社交分享平臺
