@@ -2,7 +2,7 @@
 abbrlink: ''
 categories:
 - - 教程
-cover: https://blog.aidengrong.top/img/2023/12/22/cloudflare workers.jpg
+cover: https://blog.1314151.xyz/img/2023/12/22/cloudflare workers.jpg
 date: '2023-12-22T15:16:34.423669+08:00'
 tags:
 - 教程
