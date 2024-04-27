@@ -2,10 +2,11 @@
 abbrlink: ''
 categories:
 - - Android
+cover: https://blog.1314151.xyz/img/2024/04/27/09_774336e19a93e3bbeb6f42c949aa4e12.jpg
 date: '2024-04-27T11:42:51.565888+08:00'
 tags: []
 title: payload-dumper-go提取boot（payload提取boot.img）
-updated: '2024-04-27T12:36:10.431+08:00'
+updated: '2024-04-27T17:41:08.847+08:00'
 ---
 1、下载手机系统包：[rom](https://blog.1314151.xyz/posts/bbbc0c01/)（一定要下载和手机系统版本一致的系统包）
 2、下载[**payload-dumper-go-64**](https://blog.1314151.xyz/file/payload-dumper-go/payload-dumper-go-64.zip))，下载[**payload-dumper-go-32**](https://blog.1314151.xyz/file/payload-dumper-go/payload-dumper-go-32.zip))（解压出来）
@@ -15,4 +16,3 @@ updated: '2024-04-27T12:36:10.431+08:00'
 ![https://blog.1314151.xyz/img/2024/04/27/6e72626c6f90e0c6a4756e775555c093_35beee9e1b2e940_0dc765b680e90d42e3cb479994e43480.jpg](https://blog.1314151.xyz/img/2024/04/27/6e72626c6f90e0c6a4756e775555c093_35beee9e1b2e940_0dc765b680e90d42e3cb479994e43480.jpg)6、按照提示输入 b
 ![https://blog.1314151.xyz/img/2024/04/27/e8cfd5eeb0d3010fef43cf1076d20326_1bc49334127f327_cda7d633a6fbb129c26dddd0a65d088b.jpg](https://blog.1314151.xyz/img/2024/04/27/e8cfd5eeb0d3010fef43cf1076d20326_1bc49334127f327_cda7d633a6fbb129c26dddd0a65d088b.jpg)7、提取成功
 ![https://blog.1314151.xyz/img/2024/04/27/61a9802351cb5e6ec2dfb0150fac7068_9f415bbcdc6445c_4e5b5890eafbab979685ac4adee8e264.jpg](https://blog.1314151.xyz/img/2024/04/27/61a9802351cb5e6ec2dfb0150fac7068_9f415bbcdc6445c_4e5b5890eafbab979685ac4adee8e264.jpg)8、打开 **img** 文件夹 就可以看到提取的 **boot.img** 了
-
