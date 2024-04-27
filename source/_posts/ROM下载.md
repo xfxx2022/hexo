@@ -2,10 +2,11 @@
 abbrlink: ''
 categories:
 - - Android
+cover: https://blog.1314151.xyz/img/2024/04/27/12_42644ba4c198b73d8dfad59a6ba302a2.jpg
 date: '2024-04-27T11:37:06.608886+08:00'
 tags: []
 title: ROM下载
-updated: '2024-04-27T11:39:38.841+08:00'
+updated: '2024-04-27T17:44:58.253+08:00'
 ---
 **下载来源官方，可放心下载。**
 
