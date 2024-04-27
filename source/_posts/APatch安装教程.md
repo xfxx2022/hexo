@@ -5,7 +5,7 @@ categories:
 date: '2024-04-27T12:14:18.702012+08:00'
 tags: []
 title: APatch安装教程
-updated: '2024-04-27T12:40:05.888+08:00'
+updated: '2024-04-27T13:20:27.560+08:00'
 ---
 **APatch** 理论上支持 内核版本 **3.18 – 6.1**，修补 **boot.img** 刷入即可。
 大致思路：解锁Bootloader > 修补boot.img > fastboot刷入修补文件
@@ -22,7 +22,7 @@ updated: '2024-04-27T12:40:05.888+08:00'
 
 4、手机插电脑，文件传输模式，复制 **boot.img** 到手机 **Download** 目录
 
-5、手机下载 **APatch** APP 安装：[APatch-download]([https://github.com/bmax121/APatch/releases](https://blog.1314151.xyz/file/APatch/APatch_10657_10657-release-signed.apk))
+5、手机下载 **APatch** APP 安装：[APatch-download](https://blog.1314151.xyz/file/APatch/APatch_10657_10657-release-signed.apk)
 [APatch-download-github](https://github.com/bmax121/APatch/releases)
 
 6、手机打开 **APatch**，①：安装 – ②：选择 **boot.img** – ③：输入超级密钥，开始修补 – ④：修补完成（修补生成 **apatch\_patched-xxx.img** 文件在 **Download** 目录）
