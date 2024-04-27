@@ -2,10 +2,11 @@
 abbrlink: ''
 categories:
 - - Android
+cover: https://blog.1314151.xyz/img/2024/04/27/13_10fc71ccb99fe0f4a1463bd58e582c04.jpg
 date: '2024-04-27T11:35:36.302524+08:00'
 tags: []
 title: HyperOS丨MIUI 下载速度慢？解除限速教程
-updated: '2024-04-27T11:38:54.217+08:00'
+updated: '2024-04-27T17:46:03.831+08:00'
 ---
 **修改下载节点地址**
 
