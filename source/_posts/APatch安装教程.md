@@ -5,7 +5,7 @@ categories:
 date: '2024-04-27T12:14:18.702012+08:00'
 tags: []
 title: APatch安装教程
-updated: '2024-04-27T12:22:19.071+08:00'
+updated: '2024-04-27T12:35:20.396+08:00'
 ---
 **APatch** 理论上支持 内核版本 **3.18 – 6.1**，修补 **boot.img** 刷入即可。
 大致思路：解锁Bootloader > 修补boot.img > fastboot刷入修补文件
@@ -59,4 +59,3 @@ fastboot flash boot boot.img
 ```
 
 后期系统更新，直接下载全量完整包升级，然后重复上面的步骤就可以继续愉快的使用**APatch**了！
-
