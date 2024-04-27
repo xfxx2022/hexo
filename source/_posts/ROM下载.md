@@ -5,7 +5,7 @@ categories:
 date: '2024-04-27T11:37:06.608886+08:00'
 tags: []
 title: ROM下载
-updated: '2024-04-27T11:37:07.632+08:00'
+updated: '2024-04-27T11:39:38.841+08:00'
 ---
 **下载来源官方，可放心下载。**
 
@@ -16,8 +16,6 @@ updated: '2024-04-27T11:37:07.632+08:00'
 MIUI：[roms.miuier.com](https://roms.miuier.com/zh-cn/devices/)，[xiaomirom.com](https://xiaomirom.com/series/?ref=magiskcn)， [mirom.ezbox.idv.tw](https://mirom.ezbox.idv.tw/phone/?ref=magiskcn)，[mifirm.net](https://mifirm.net/?type=china)，小米社区整理：‌⁤‍‍⁣⁡‌‍⁢‍‍‍‌⁡⁢⁣⁣⁢⁡‍‌⁤⁤⁢⁡‬⁡⁤⁢‬‬⁢‍‌‌[MIUI刷机包汇总](https://xiaomishequ.feishu.cn/sheets/shtcnsRTbwSvpUsaei6B04ogI6Z)
 
 HyperOS：[hyperos.fans](https://hyperos.fans/zh/devices)， [hyperosupdates.com/xiaomi](https://hyperosupdates.com/xiaomi/)，[mifirmware.com/hyperos](https://mifirmware.com/hyperos)， [xiaomifirmwareupdater.com/hyperos](https://xiaomifirmwareupdater.com/hyperos/)
-
-手动下载：[get-miui](https://magiskcn.com/get-miui)
 
 一加：[yun.daxiaamu.com](https://yun.daxiaamu.com/OnePlus_Roms/)，TG群：oplus\_official\_roms
 
