@@ -10,8 +10,8 @@ nav:
 # Menu 目錄
 menu:
    首页: / || iconfont icon-home
-   安卓软件: https://blog.1314151.xyz/categories/Android/ || iconfont icon-anzhuo
-   Win软件||iconfont icon-diannao:
+   Android: https://blog.1314151.xyz/categories/Android/ || iconfont icon-anzhuo
+   Windows||iconfont icon-diannao:
     媒体工具: https://blog.1314151.xyz/categories/媒体工具 || iconfont icon-duomeiti
     远程工具: https://blog.1314151.xyz/categories/远程工具 || iconfont icon-yuanchengxiezhu
     网络工具: https://blog.1314151.xyz/categories/网络工具 || iconfont icon-xiazai
