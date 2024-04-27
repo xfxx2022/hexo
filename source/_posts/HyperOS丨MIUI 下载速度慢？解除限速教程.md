@@ -5,9 +5,9 @@ categories:
 date: '2024-04-27T11:35:36.302524+08:00'
 tags: []
 title: HyperOS丨MIUI 下载速度慢？解除限速教程
-updated: '2024-04-27T11:35:37.500+08:00'
+updated: '2024-04-27T11:38:54.217+08:00'
 ---
-**1、修改下载节点地址**
+**修改下载节点地址**
 
 把下载地址中 **bigota.d.miui.com** 改成 **bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com**
 
