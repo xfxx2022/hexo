@@ -5,7 +5,7 @@ categories:
 date: '2024-04-27T12:14:18.702012+08:00'
 tags: []
 title: APatch安装教程
-updated: '2024-04-27T12:14:21.508+08:00'
+updated: '2024-04-27T12:22:19.071+08:00'
 ---
 **APatch** 理论上支持 内核版本 **3.18 – 6.1**，修补 **boot.img** 刷入即可。
 大致思路：解锁Bootloader > 修补boot.img > fastboot刷入修补文件
@@ -18,19 +18,19 @@ updated: '2024-04-27T12:14:21.508+08:00'
 
 2、下载系统包：[rom](https://blog.1314151.xyz/posts/bbbc0c01/)（一定要下载和手机系统版本一致的系统包）
 
-3、提取​** boot.img **​：[payload-dumper-go-boot](https://blog.1314151.xyz/posts/7d0bfba5/)（如果系统包有 ​**boot.img**​，可以跳过此步骤）
+3、提取**boot.img**：[payload-dumper-go-boot](https://blog.1314151.xyz/posts/7d0bfba5/)（如果系统包有 **boot.img**，可以跳过此步骤）
 
 4、手机插电脑，文件传输模式，复制 **boot.img** 到手机 **Download** 目录
 
 5、手机下载 **APatch** APP 安装：[APatch-download](https://github.com/bmax121/APatch/releases)
 
-6、手机打开 ​**APatch**​，①：安装 – ②：选择 **boot.img** – ③：输入超级密钥，开始修补 – ④：修补完成（修补生成 **apatch\_patched-xxx.img** 文件在 **Download** 目录）
+6、手机打开 **APatch**，①：安装 – ②：选择 **boot.img** – ③：输入超级密钥，开始修补 – ④：修补完成（修补生成 **apatch\_patched-xxx.img** 文件在 **Download** 目录）
 ![https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.jpg](https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.jpg)
-7、电脑下载 ​**adb-fastboot**​：[蓝奏盘]([https://mrzzoxo.lanzoui.com/b02plghuh](https://blog.1314151.xyz/file/Adb_fastboot/adb-fastboot.zip))（解压出来）
+7、电脑下载 **adb-fastboot**：[蓝奏盘]([https://mrzzoxo.lanzoui.com/b02plghuh](https://blog.1314151.xyz/file/Adb_fastboot/adb-fastboot.zip))（解压出来）
 8、手机打开 文件传输模式，打开 **Download** 目录，把 **apatch.img** 复制到电脑 **adb-fastboot** 目录
 ![https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.png](https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.png)9、手机进入 **Bootloader** 模式，再插入电脑。
 （手机关机，电源键+音量下键，两个键长按）
-![https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png](https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png)10、打开“​**打开CMD命令行.bat**​”，输入下面的命令
+![https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png](https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png)10、打开“**打开CMD命令行.bat**”，输入下面的命令
 apatch.img 每次修补的名字都不一样，使用的时候请输入生成的名字。
 
 ```
@@ -51,7 +51,7 @@ Finished. Total time: 5.235s
 ---
 
 温馨提示:
-如果刷入 **apatch.img** 不能开机，可以把前面提取的 **boot.img** 通过 **fastboot** 刷回去，恢复原 ​**boot**​，一般都能正常开机！
+如果刷入 **apatch.img** 不能开机，可以把前面提取的 **boot.img** 通过 **fastboot** 刷回去，恢复原 **boot**，一般都能正常开机！
 **boot.img** 保留一份在电脑，避免出问题了可以自救下！还原boot指令
 
 ```
