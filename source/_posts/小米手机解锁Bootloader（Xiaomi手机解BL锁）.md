@@ -2,7 +2,7 @@
 abbrlink: ''
 categories:
 - - Android
-cover: https://blog.1314151.xyz/img/2024/04/27/07_e51ff1b5238fe21e11b7224123cd9fa9.jpg
+cover: https://blog.1314151.xyz/img/2024/04/27/10_eea7d5214297559de8feb7daea297186.jpg
 date: '2024-04-27T10:59:44.328389+08:00'
 tags: []
 title: 小米手机解锁Bootloader（Xiaomi手机解BL锁）
