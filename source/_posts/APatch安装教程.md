@@ -2,10 +2,11 @@
 abbrlink: ''
 categories:
 - - Android
+cover: https://blog.1314151.xyz/img/2024/04/27/68747470733a2f2f73312e617831782e636f6d2f323032332f30322f32322f70536a7a37344a2e706e67_736c4c87242c3fdb236af16036e49089.png
 date: '2024-04-27T12:14:18.702012+08:00'
 tags: []
 title: APatch安装教程
-updated: '2024-04-27T13:20:27.560+08:00'
+updated: '2024-04-27T16:29:28.118+08:00'
 ---
 **APatch** 理论上支持 内核版本 **3.18 – 6.1**，修补 **boot.img** 刷入即可。
 大致思路：解锁Bootloader > 修补boot.img > fastboot刷入修补文件
@@ -59,4 +60,3 @@ fastboot flash boot boot.img
 ```
 
 后期系统更新，直接下载全量完整包升级，然后重复上面的步骤就可以继续愉快的使用**APatch**了！
-
