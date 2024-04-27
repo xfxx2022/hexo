@@ -6,7 +6,7 @@ cover: https://blog.1314151.xyz/img/2024/04/27/09_774336e19a93e3bbeb6f42c949aa4e
 date: '2024-04-27T11:42:51.565888+08:00'
 tags: []
 title: payload-dumper-go提取boot（payload提取boot.img）
-updated: '2024-04-27T18:07:58.638+08:00'
+updated: '2024-04-27T19:33:14.754+08:00'
 ---
 1、下载手机系统包：[rom](https://blog.1314151.xyz/posts/bbbc0c01/)（一定要下载和手机系统版本一致的系统包）
 2、下载[**payload-dumper-go-64**](https://blog.1314151.xyz/file/payload-dumper-go/payload-dumper-go-64.zip))，下载[**payload-dumper-go-32**](https://blog.1314151.xyz/file/payload-dumper-go/payload-dumper-go-32.zip))（解压出来）
