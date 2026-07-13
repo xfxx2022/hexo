@@ -25,10 +25,6 @@
       link: https://pan.1314151.xyz
       avatar: https://blog.1314151.xyz/img/pan.png
       descr: 番茄酱的网盘
-    - name: 番茄酱的Music
-      link: https://music.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/music.png
-      descr: 番茄酱的Music
     - name: 番茄酱的Map
       link: https://map.1314151.xyz
       avatar: https://blog.1314151.xyz/img/map.jpg
@@ -37,18 +33,14 @@
       link: https://img.1314151.xyz
       avatar: https://blog.1314151.xyz/img/img.ico
       descr: 番茄酱的图床
-    - name: Linux
-      link: https://linux.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/linux.png
-      descr: 番茄酱的Linux-command
     - name: 番茄酱导航
       link: https://web.1314151.xyz
       avatar: https://blog.1314151.xyz/img/web.svg
       descr: 番茄酱的导航
-    - name: 番茄AI导航
-      link: https://ai-nav.1314151.xyz
+    - name: 番茄酱的工具导航
+      link: https://qke.1314151.xyz
       avatar: https://blog.1314151.xyz/img/nav.png
-      descr: 番茄酱的AI导航
+      descr: 番茄酱的工具导航
     - name: 字帖生成器
       link: https://zitie.1314151.xyz
       avatar: https://blog.1314151.xyz/img/zitie.png
