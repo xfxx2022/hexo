@@ -20,13 +20,21 @@ function minifyHtml() {
       minifyJS: false,
       ignoreCustomComments: [/^\s*<!--\s*#/], // 保留形如 <!-- #xxx 的 Hexo 注释
     }))
+    .on('error', function (err) {
+      console.error('[minifyHtml] 出错，保留原 HTML:', err.message);
+      this.emit('end');
+    })
     .pipe(gulp.dest('public'));
 }
 
 // 压缩 CSS
 function minifyCss() {
   return gulp.src('public/**/*.css', { encoding: false })
-    .pipe(cleanCSS({ compatibility: 'ie11', level: 2 }))
+    .pipe(cleanCSS({ compatibility: 'ie11', level: 1 }))
+    .on('error', function (err) {
+      console.error('[minifyCss] 出错，保留原 CSS:', err.message);
+      this.emit('end');
+    })
     .pipe(gulp.dest('public'));
 }
 
