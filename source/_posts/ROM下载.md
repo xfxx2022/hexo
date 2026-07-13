@@ -1,8 +1,9 @@
 ---
-abbrlink: ''
+abbrlink: bbbc0c01
 categories:
-- - Android
-cover: https://blog.1314151.xyz/img/2024/04/27/12_42644ba4c198b73d8dfad59a6ba302a2.jpg
+  - - Android
+cover: >-
+  https://blog.1314151.xyz/img/2024/04/27/12_42644ba4c198b73d8dfad59a6ba302a2.jpg
 date: '2024-04-27T11:37:06.608886+08:00'
 tags: []
 title: ROM下载

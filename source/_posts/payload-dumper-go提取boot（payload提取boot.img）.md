@@ -1,8 +1,9 @@
 ---
-abbrlink: ''
+abbrlink: 7d0bfba5
 categories:
-- - Android
-cover: https://blog.1314151.xyz/img/2024/04/27/09_774336e19a93e3bbeb6f42c949aa4e12.jpg
+  - - Android
+cover: >-
+  https://blog.1314151.xyz/img/2024/04/27/09_774336e19a93e3bbeb6f42c949aa4e12.jpg
 date: '2024-04-27T11:42:51.565888+08:00'
 tags: []
 title: payload-dumper-go提取boot（payload提取boot.img）
