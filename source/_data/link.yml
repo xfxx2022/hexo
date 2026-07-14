@@ -1,18 +1,6 @@
 ﻿- class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: ChatGPT
-      link: https://chat.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/chat.webp
-      descr: 免费的GPT3.5
-    - name: ChatGPT2
-      link: https://chat2.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/ChatGPT-Midjourney.ico
-      descr: 免费的GPT3.5
-    - name: ChatGPT3
-      link: https://chat3.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/Next.ico
-      descr: 免费的GPT3.5和4.0
     - name: QD 框架
       link: https://qiandao.1314151.xyz
       avatar: https://blog.1314151.xyz/img/QD.png
@@ -25,10 +13,6 @@
       link: https://pan.1314151.xyz
       avatar: https://blog.1314151.xyz/img/pan.png
       descr: 番茄酱的网盘
-    - name: 番茄酱的Map
-      link: https://map.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/map.jpg
-      descr: 地址批量转换经纬度工具
     - name: 番茄酱的图床
       link: https://img.1314151.xyz
       avatar: https://blog.1314151.xyz/img/img.ico
@@ -39,8 +23,8 @@
       descr: 番茄酱的导航
     - name: 番茄酱的工具导航
       link: https://qke.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/nav.png
-      descr: 番茄酱的工具导航
+      avatar: https://qke.1314151.xyz/favicon.ico
+      descr: 奇客网
     - name: 字帖生成器
       link: https://zitie.1314151.xyz
       avatar: https://blog.1314151.xyz/img/zitie.png
