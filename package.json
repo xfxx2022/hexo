@@ -30,6 +30,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
-    "gulp-html-minifier-terser": "^6.0.1"
+    "gulp-html-minifier-terser": "^6.0.1",
+    "terser": "^5.49.0"
   }
 }
