@@ -5,6 +5,8 @@
  */
 const gulp = require('gulp');
 const { Transform } = require('stream');
+const fs = require('fs');
+const path = require('path');
 const cleanCSS = require('gulp-clean-css');
 const terser = require('terser');
 const htmlmin = require('gulp-html-minifier-terser');
@@ -68,7 +70,31 @@ function minifyJs() {
     .pipe(gulp.dest('public'));
 }
 
-exports.default = gulp.series(minifyHtml, minifyCss, minifyJs);
+// 删除主题自动 copy 进 public 但配置已不再引用的孤儿资源，避免部署无用体积。
+// 例如 friend_404.gif：error_img.flink 已改为 webp，但主题 source/img 仍会被整包拷贝。
+function cleanup() {
+  const orphans = [
+    'public/img/friend_404.gif',
+  ];
+  let removed = 0;
+  orphans.forEach((rel) => {
+    const p = path.join(__dirname, rel);
+    if (fs.existsSync(p)) {
+      try {
+        fs.unlinkSync(p);
+        removed++;
+        console.log('[cleanup] 删除孤儿资源:', rel);
+      } catch (e) {
+        console.error('[cleanup] 删除失败:', rel, '-', e.message);
+      }
+    }
+  });
+  console.log(`[cleanup] 完成，共移除 ${removed} 个孤儿资源`);
+  return Promise.resolve();
+}
+
+exports.default = gulp.series(minifyHtml, minifyCss, minifyJs, cleanup);
 exports.html = minifyHtml;
 exports.css = minifyCss;
 exports.js = minifyJs;
+exports.cleanup = cleanup;

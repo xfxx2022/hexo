@@ -128,7 +128,7 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
+  flink: /img/friend_404.webp
   post_page: /img/404.jpg
 
 # A simple 404 page
@@ -397,7 +397,7 @@ search:
   # Local Search
   local_search:
     # Preload the search data when the page loads.
-    preload: true
+    preload: false
     # Show top n results per article, show all results by setting to -1
     top_n_per_article: 1
     # Unescape html strings to the readable one.
@@ -947,6 +947,7 @@ inject:
      - <link rel="preconnect" href="https://bing-imgapi.1314151.xyz">
      - <link rel="dns-prefetch" href="https://img.1314151.xyz">
      - <link rel="dns-prefetch" href="https://bing-imgapi.1314151.xyz">
+     - <style>#page-header{background-color:#15161d!important}</style>
   bottom:
      - <script async src="https://analytics.1314151.xyz/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
      - <script defer src="/_vercel/insights/script.js"></script>
