@@ -159,6 +159,7 @@ def main():
     parser.add_argument("--limit", "-n", type=int, default=20)
     parser.add_argument("--dry-run", action="store_true", help="仅打印，不写文件")
     parser.add_argument("--force", action="store_true", help="覆盖已存在的当日文章")
+    parser.add_argument("--json", action="store_true", help="仅输出 JSON 原始数据（含英文 description），不写文章，供翻译后撰写")
     args = parser.parse_args()
 
     today = datetime.date.today()
@@ -175,6 +176,19 @@ def main():
         print("[ERROR] 未获取到任何项目，退出。", file=sys.stderr)
         sys.exit(1)
     print(f"[INFO] 获取到 {len(items)} 个项目")
+
+    if args.json:
+        data = [{
+            "rank": i + 1,
+            "full_name": it.get("full_name", ""),
+            "html_url": it.get("html_url", ""),
+            "language": it.get("language") or "",
+            "stargazers_count": it.get("stargazers_count", 0),
+            "description": it.get("description") or "",
+            "topics": it.get("topics") or [],
+        } for i, it in enumerate(items)]
+        print(json.dumps(data, ensure_ascii=False, indent=2))
+        return
 
     body = render_markdown(date_str, items, period_label)
     title = f"GitHub 热门项目（{date_str}）"
