@@ -10,6 +10,7 @@ nav:
 # Menu 目錄
 menu:
    首页: / || iconfont icon-home
+   GitHub热门: https://blog.1314151.xyz/tags/GitHub热门项目/ || fab fa-github
    Android: https://blog.1314151.xyz/categories/Android/ || iconfont icon-anzhuo
    Windows||iconfont icon-diannao:
     媒体工具: https://blog.1314151.xyz/categories/媒体工具 || iconfont icon-duomeiti
