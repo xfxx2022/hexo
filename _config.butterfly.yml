@@ -992,7 +992,7 @@ CDN:
     # snackbar:
     # snackbar_css:
     # translate:
-     twikoo: https://cdn.bootcdn.net/ajax/libs/twikoo/1.6.32/twikoo.all.min.js
+     twikoo: https://cdn.jsdelivr.net/npm/twikoo@1.7.14/dist/twikoo.all.min.js
     # typed:
     # utils:
     # valine:
