@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.1314151.xyz/sitemap.xml
+Sitemap: https://blog.1314151.xyz/atom.xml
+Sitemap: https://blog.1314151.xyz/rss2.xml

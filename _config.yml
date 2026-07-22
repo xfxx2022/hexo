@@ -5,8 +5,15 @@
 # Site
 title: 番茄酱的blog
 subtitle:
-description:
+description: 番茄酱的博客，分享 Android 刷机解锁、ROM 下载、网络工具与开发技术的个人技术笔记。
 keywords:
+  - 刷机
+  - 解锁Bootloader
+  - ROM下载
+  - 网络工具
+  - 技术博客
+  - Android
+  - GitHub
 author: 番茄酱
 language: zh-CN
 timezone:
@@ -82,3 +89,12 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Sitemap & Feed (SEO)
+sitemap:
+  path: sitemap.xml
+feed:
+  type: [atom, rss2]
+  path: [atom.xml, rss2.xml]
+  limit: 20
+  content: true

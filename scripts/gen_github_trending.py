@@ -291,10 +291,12 @@ def render_markdown(date_str, items, period_label):
     lines.append("| ---: | --- | --- | ---: | --- |")
     for idx, it in enumerate(items, 1):
         full = it.get("full_name", "")
+        full = full.replace("|", "\\|")
         url = it.get("html_url", f"https://github.com/{full}")
         lang = it.get("language") or "—"
         stars = fmt_stars(it.get("stargazers_count", 0))
         desc = (it.get("description_zh") or it.get("description") or "").replace("\n", " ").strip()
+        desc = desc.replace("|", "\\|")
         if len(desc) > 60:
             desc = desc[:60] + "…"
         proj = f"[{full}]({url})"
