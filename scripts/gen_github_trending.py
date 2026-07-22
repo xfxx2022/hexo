@@ -319,7 +319,7 @@ def render_markdown(date_str, items, period_label):
 # 优先级：GitHub Models (gpt-4o-mini, 免费) -> MyMemory (免费) -> 原文(英文)
 # 任一环节失败都安全回退，绝不中断生成流程。
 # ---------------------------------------------------------------------------
-GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/openai/v1/chat/completions"
+GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/v1/chat/completions"
 TRANSLATE_MODEL = os.environ.get("TRENDING_MODEL", "gpt-4o-mini")
 MYMEMORY_ENDPOINT = "https://api.mymemory.translated.net/get"
 
@@ -381,7 +381,12 @@ def translate_via_github_models(descriptions):
     try:
         resp = _post_json(GITHUB_MODELS_ENDPOINT, payload, headers)
         content = resp.get("choices", [{}])[0].get("message", {}).get("content", "")
-        return _parse_translation_block(content, len(descriptions))
+        result = _parse_translation_block(content, len(descriptions))
+        if result is None:
+            print("[WARN] GitHub Models 返回无法解析，回退翻译", file=sys.stderr)
+            return None
+        print(f"[OK] GitHub Models 翻译成功 (n={len(result)})", file=sys.stderr)
+        return result
     except Exception as e:  # noqa: BLE001
         print(f"[WARN] GitHub Models 翻译失败: {e}", file=sys.stderr)
         return None
