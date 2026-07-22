@@ -29,6 +29,7 @@
 import argparse
 import base64
 import datetime
+import io
 import json
 import os
 import re
@@ -380,6 +381,39 @@ def download_image(url, token, min_bytes=2048):
     return data, content_type
 
 
+def save_cover_webp(data, content_type, cover_dir, web_prefix, date_str, rank):
+    """落盘封面图：优先转 WebP（quality=82）。
+
+    - 依赖 Pillow 做格式转换；若环境无 Pillow / 转换异常 / 源为矢量图，
+      则回退为原格式落盘，保证生成流程永不中断。
+    - 透明通道（RGBA/LA/P）白底合成，避免透明区变黑。
+    返回 (filename, web_path)。
+    """
+    webp_name = f"github-trending-cover-{date_str}-{rank}.webp"
+    webp_path = cover_dir / webp_name
+    try:
+        from PIL import Image
+        img = Image.open(io.BytesIO(data))
+        mode = img.mode
+        if mode in ("RGBA", "LA", "P"):
+            rgb = img.convert("RGBA")
+            bg = Image.new("RGB", rgb.size, (255, 255, 255))
+            bg.paste(rgb, mask=rgb.split()[-1])
+            img = bg
+        elif mode != "RGB":
+            img = img.convert("RGB")
+        buf = io.BytesIO()
+        img.save(buf, "WEBP", quality=82, method=4)
+        webp_path.write_bytes(buf.getvalue())
+        return webp_name, f"{web_prefix}/{webp_name}"
+    except Exception as e:
+        ext = ext_from_image(data, content_type)
+        fallback_name = f"github-trending-cover-{date_str}-{rank}.{ext}"
+        (cover_dir / fallback_name).write_bytes(data)
+        print(f"[WARN] WebP 转换失败，回退原格式 {ext}：{e}", file=sys.stderr)
+        return fallback_name, f"{web_prefix}/{fallback_name}"
+
+
 def extract_readme_image_urls(readme_text, owner, repo, default_branch):
     """从 README 文本中提取首个及后续图片 URL，并转换为绝对地址。"""
     urls = []
@@ -427,10 +461,11 @@ def pick_cover(items, date_str, token):
     cover_dir, web_prefix = cover_paths_for(date_str)
     cover_dir.mkdir(parents=True, exist_ok=True)
 
-    # 若当日已有手动提供的封面，直接复用
+    # 若当日已有手动提供的封面，直接复用（优先 WebP 版本）
     existing = sorted(cover_dir.glob(f"github-trending-cover-{date_str}-*"))
     if existing:
-        chosen = existing[0]
+        webp_hits = [f for f in existing if f.suffix == ".webp"]
+        chosen = (webp_hits or existing)[0]
         rank_match = re.search(r"-(\d+)\.\w+$", chosen.name)
         rank = int(rank_match.group(1)) if rank_match else 1
         print(f"[INFO] 复用已有封面：{chosen.name}")
@@ -451,23 +486,17 @@ def pick_cover(items, date_str, token):
                 continue
             data, content_type = download_image(img_url, token)
             if data:
-                ext = ext_from_image(data, content_type)
-                filename = f"github-trending-cover-{date_str}-{rank}.{ext}"
-                path = cover_dir / filename
-                path.write_bytes(data)
+                filename, rel = save_cover_webp(data, content_type, cover_dir, web_prefix, date_str, rank)
                 print(f"[OK] 封面来自 README #{rank} {full}: {filename}")
-                return rank, f"{web_prefix}/{filename}"
+                return rank, rel
 
         # 2) 回退到 GitHub Open Graph 卡片图（稳定兜底）
         og_url = f"https://opengraph.githubassets.com/1/{full}"
         data, content_type = download_image(og_url, token)
         if data:
-            ext = ext_from_image(data, content_type)
-            filename = f"github-trending-cover-{date_str}-{rank}.{ext}"
-            path = cover_dir / filename
-            path.write_bytes(data)
+            filename, rel = save_cover_webp(data, content_type, cover_dir, web_prefix, date_str, rank)
             print(f"[OK] 封面来自 OpenGraph #{rank} {full}: {filename}")
-            return rank, f"{web_prefix}/{filename}"
+            return rank, rel
 
         print(f"[WARN] #{rank} {full} 无可用图片，尝试下一个", file=sys.stderr)
 
@@ -500,15 +529,12 @@ def main():
         token = get_token()
         data, content_type = download_image(args.download_cover, token)
         if data:
-            ext = ext_from_image(data, content_type)
             date_str = datetime.date.today().isoformat()
             rank = os.environ.get("COVER_RANK", "1")
             cover_dir, web_prefix = cover_paths_for(date_str)
             cover_dir.mkdir(parents=True, exist_ok=True)
-            filename = f"github-trending-cover-{date_str}-{rank}.{ext}"
-            path = cover_dir / filename
-            path.write_bytes(data)
-            print(path.as_posix())
+            filename, rel = save_cover_webp(data, content_type, cover_dir, web_prefix, date_str, rank)
+            print((cover_dir / filename).as_posix())
             sys.exit(0)
         sys.exit(1)
 
