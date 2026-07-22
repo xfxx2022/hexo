@@ -294,7 +294,7 @@ def render_markdown(date_str, items, period_label):
         url = it.get("html_url", f"https://github.com/{full}")
         lang = it.get("language") or "—"
         stars = fmt_stars(it.get("stargazers_count", 0))
-        desc = (it.get("description") or "").replace("\n", " ").strip()
+        desc = (it.get("description_zh") or it.get("description") or "").replace("\n", " ").strip()
         if len(desc) > 60:
             desc = desc[:60] + "…"
         proj = f"[{full}]({url})"
@@ -310,6 +310,118 @@ def render_markdown(date_str, items, period_label):
     lines.append("")
     lines.append("> 本文由自动化脚本每日定时生成并发布，数据来源 GitHub Trending，项目简介已译为中文。")
     return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# 中文翻译（无人值守环境：GitHub Actions 等）
+# 优先级：GitHub Models (gpt-4o-mini, 免费) -> MyMemory (免费) -> 原文(英文)
+# 任一环节失败都安全回退，绝不中断生成流程。
+# ---------------------------------------------------------------------------
+GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/openai/v1/chat/completions"
+TRANSLATE_MODEL = os.environ.get("TRENDING_MODEL", "gpt-4o-mini")
+MYMEMORY_ENDPOINT = "https://api.mymemory.translated.net/get"
+
+
+def _post_json(url, payload, headers, timeout=30):
+    """发送 JSON POST，返回解析后的 dict；失败抛异常。"""
+    global _OPENER
+    if _OPENER is None:
+        _OPENER = _build_opener()
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+    with _OPENER.open(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def _parse_translation_block(content, n):
+    """把模型返回解析成正好 n 条的翻译列表；格式不符返回 None。"""
+    content = (content or "").strip()
+    if not content:
+        return None
+    # 1) 直接 JSON 数组
+    if content.startswith("["):
+        try:
+            arr = json.loads(content)
+            if isinstance(arr, list) and len(arr) == n:
+                return [str(x).strip() for x in arr]
+        except Exception:  # noqa: BLE001
+            pass
+    # 2) 每行一条（容错去编号）
+    lines = [ln.strip() for ln in content.splitlines() if ln.strip()]
+    cleaned = []
+    for ln in lines:
+        m = re.match(r"^\d+[.、)]\s*(.*)$", ln)
+        cleaned.append(m.group(1).strip() if m else ln)
+    if len(cleaned) == n:
+        return cleaned
+    return None
+
+
+def translate_via_github_models(descriptions):
+    """用 GitHub Models (GITHUB_TOKEN) 翻译，返回 n 条列表或 None。"""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    if not token:
+        return None
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "User-Agent": "hexo-trending-generator",
+    }
+    joined = "\n".join(f"{i+1}. {d}" for i, d in enumerate(descriptions))
+    payload = {
+        "model": TRANSLATE_MODEL,
+        "temperature": 0.2,
+        "messages": [
+            {"role": "system", "content": "你是专业的技术文档翻译，请将 GitHub 仓库英文简介准确、简洁地译为简体中文，保留专有名词。只输出翻译结果。"},
+            {"role": "user", "content": f"请将以下 {len(descriptions)} 条 GitHub 仓库简介译为简体中文，严格按原顺序、每行一条、不要编号、不要任何额外说明：\n{joined}"},
+        ],
+    }
+    try:
+        resp = _post_json(GITHUB_MODELS_ENDPOINT, payload, headers)
+        content = resp.get("choices", [{}])[0].get("message", {}).get("content", "")
+        return _parse_translation_block(content, len(descriptions))
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] GitHub Models 翻译失败: {e}", file=sys.stderr)
+        return None
+
+
+def translate_via_mymemory(descriptions):
+    """用 MyMemory 免费翻译逐条兜底，失败则保留原文。始终返回 n 条列表。"""
+    out = []
+    for d in descriptions:
+        d = (d or "").strip()
+        if not d:
+            out.append(d)
+            continue
+        try:
+            url = f"{MYMEMORY_ENDPOINT}?q={urllib.parse.quote(d)}&langpair=en|zh-CN"
+            data, _ = http_get_bytes(url, retries=2, timeout=15)
+            if data:
+                j = json.loads(data.decode("utf-8"))
+                txt = (j.get("responseData") or {}).get("translatedText", "")
+                if txt and "MYMEMORY WARNING" not in txt:
+                    out.append(txt.strip())
+                    continue
+        except Exception as e:  # noqa: BLE001
+            print(f"[WARN] MyMemory 翻译失败: {e}", file=sys.stderr)
+        out.append(d)  # 失败回退原文
+        time.sleep(0.3)  # 轻量限速，避免触发频率限制
+    return out
+
+
+def translate_descriptions(items):
+    """为 items 注入 description_zh。GitHub Models -> MyMemory -> 英文原文。"""
+    descs = [(it.get("description") or "").strip() for it in items]
+    if not any(descs):
+        for it in items:
+            it["description_zh"] = it.get("description") or ""
+        return
+    zh = translate_via_github_models(descs)
+    if zh is None:
+        print("[INFO] 回退到 MyMemory 翻译", file=sys.stderr)
+        zh = translate_via_mymemory(descs)
+    for it, t in zip(items, zh):
+        it["description_zh"] = t if t else (it.get("description") or "")
 
 
 # ---------------------------------------------------------------------------
@@ -554,6 +666,9 @@ def main():
         sys.exit(1)
     print(f"[INFO] 获取到 {len(items)} 个项目")
 
+    # 注入中文翻译（GitHub Models -> MyMemory -> 英文原文），CI 无人值守可用
+    translate_descriptions(items)
+
     if args.json:
         # 脚本内一次性抓取封面，减少自动化工具调用次数
         cover_rank, cover_path = (None, "")
@@ -577,6 +692,7 @@ def main():
                 "language": it.get("language") or "",
                 "stargazers_count": it.get("stargazers_count", 0),
                 "description": it.get("description") or "",
+                "description_zh": it.get("description_zh") or "",
                 "topics": it.get("topics") or [],
                 "cover_candidates": cover_candidates,
                 "cover_path": item_cover,

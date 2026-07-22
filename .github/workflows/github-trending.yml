@@ -1,0 +1,49 @@
+name: GitHub 热门每日更新
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # UTC 00:00 = 北京时间 08:00
+  workflow_dispatch:       # 允许在 Actions 页面手动触发重跑
+
+permissions:
+  contents: write
+  models: read            # 允许调用 GitHub Models (gpt-4o-mini) 做中文翻译
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --upgrade pip pillow
+
+      - name: Refresh Bing background (official CDN)
+        run: python scripts/refresh_bing_bg.py
+
+      - name: Generate GitHub trending post (zh + WebP cover)
+        continue-on-error: true   # 抓取偶发失败时仍提交 Bing 背景更新，不阻断流程
+        run: python scripts/gen_github_trending.py --source trending --since daily --limit 20
+
+      - name: Commit and push
+        run: |
+          git config user.name "薰风习习"
+          git config user.email "25678988+xfxx2022@users.noreply.github.com"
+          git add -A source/_posts/ source/img/ _config.butterfly.yml
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "chore: 每日 GitHub 热门更新 $(date +'%Y-%m-%d')"
+            git push
+          fi
