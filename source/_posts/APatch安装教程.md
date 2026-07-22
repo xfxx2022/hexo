@@ -3,7 +3,7 @@ abbrlink: '78136054'
 categories:
   - - Android
 cover: >-
-  https://blog.1314151.xyz/img/2024/04/27/68747470733a2f2f73312e617831782e636f6d2f323032332f30322f32322f70536a7a37344a2e706e67_736c4c87242c3fdb236af16036e49089.png
+  https://blog.1314151.xyz/img/2024/04/27/68747470733a2f2f73312e617831782e636f6d2f323032332f30322f32322f70536a7a37344a2e706e67_736c4c87242c3fdb236af16036e49089.webp
 date: '2024-04-27T12:14:18.702012+08:00'
 tags: []
 title: APatch安装教程
@@ -27,12 +27,12 @@ updated: '2024-04-27T16:29:28.118+08:00'
 5、手机下载 **APatch** APP 安装：[APatch-download](https://blog.1314151.xyz/file/APatch/APatch_10657_10657-release-signed.apk) - [APatch-download-github](https://github.com/bmax121/APatch/releases)
 
 6、手机打开 **APatch**，①：安装 – ②：选择 **boot.img** – ③：输入超级密钥，开始修补 – ④：修补完成（修补生成 **apatch\_patched-xxx.img** 文件在 **Download** 目录）
-![https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.jpg](https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.webp](https://blog.1314151.xyz/img/2024/04/27/5202564f7c857caf5c06f131ab468fee_8a8bb7cd343aa2a_a0a02ce6e00cd9cf742f4620db012b1b.webp)
 7、电脑下载 **adb-fastboot**：[蓝奏盘]([https://mrzzoxo.lanzoui.com/b02plghuh](https://blog.1314151.xyz/file/Adb_fastboot/adb-fastboot.zip))（解压出来）
 8、手机打开 文件传输模式，打开 **Download** 目录，把 **apatch.img** 复制到电脑 **adb-fastboot** 目录
-![https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.png](https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.png)9、手机进入 **Bootloader** 模式，再插入电脑。
+![https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.webp](https://blog.1314151.xyz/img/2024/04/27/7358930d2ec6601316eec0fa7c020f00_693a9fdd4c2fd07_c79df42857fb7aa337ae10fd5644de7e.webp)9、手机进入 **Bootloader** 模式，再插入电脑。
 （手机关机，电源键+音量下键，两个键长按）
-![https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png](https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.png)10、打开“**打开CMD命令行.bat**”，输入下面的命令
+![https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.webp](https://blog.1314151.xyz/img/2024/04/27/3cc2697dd84af9a3a579728f08cd4b68_78805a221a988e7-5_8fe5baeca2dc463ee40c26cc9e7c1c01.webp)10、打开“**打开CMD命令行.bat**”，输入下面的命令
 apatch.img 每次修补的名字都不一样，使用的时候请输入生成的名字。
 
 ```
@@ -47,8 +47,8 @@ Writing 'boot'             OKAY [ 0.512s]
 Finished. Total time: 5.235s
 ```
 
-![https://blog.1314151.xyz/img/2024/04/27/4fb4abf0bf7d2b5053686ca853f2a54d_9d607a663f3e9b0_902ada0a7645595b1f40988cee66fed4.png](https://blog.1314151.xyz/img/2024/04/27/4fb4abf0bf7d2b5053686ca853f2a54d_9d607a663f3e9b0_902ada0a7645595b1f40988cee66fed4.png)12、手机开机 打开 **APatch** ，①：输入 超级密钥 – ②：安装 系统补丁 – ③：生效中😀 成功刷入
-![https://blog.1314151.xyz/img/2024/04/27/e387da6a3e20d8c1b502d428f13b8495_894f782a148b33a_d07bed2dff969316bffa576905e43cb2.jpg](https://blog.1314151.xyz/img/2024/04/27/e387da6a3e20d8c1b502d428f13b8495_894f782a148b33a_d07bed2dff969316bffa576905e43cb2.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/4fb4abf0bf7d2b5053686ca853f2a54d_9d607a663f3e9b0_902ada0a7645595b1f40988cee66fed4.webp](https://blog.1314151.xyz/img/2024/04/27/4fb4abf0bf7d2b5053686ca853f2a54d_9d607a663f3e9b0_902ada0a7645595b1f40988cee66fed4.webp)12、手机开机 打开 **APatch** ，①：输入 超级密钥 – ②：安装 系统补丁 – ③：生效中😀 成功刷入
+![https://blog.1314151.xyz/img/2024/04/27/e387da6a3e20d8c1b502d428f13b8495_894f782a148b33a_d07bed2dff969316bffa576905e43cb2.webp](https://blog.1314151.xyz/img/2024/04/27/e387da6a3e20d8c1b502d428f13b8495_894f782a148b33a_d07bed2dff969316bffa576905e43cb2.webp)
 
 ---
 

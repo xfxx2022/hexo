@@ -3,7 +3,7 @@ abbrlink: bbb18d95
 categories:
   - - 教程
 cover: >-
-  https://blog.1314151.xyz/img/2023/12/22/CloudFlare_d41d8cd98f00b204e9800998ecf8427e.jpg
+  https://blog.1314151.xyz/img/2023/12/22/CloudFlare_d41d8cd98f00b204e9800998ecf8427e.webp
 date: '2023-12-22T16:14:40.113258+08:00'
 tags:
   - 教程

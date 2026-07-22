@@ -46,7 +46,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/favicon.webp
 
 # Avatar (頭像)
 avatar:
@@ -98,13 +98,13 @@ cover:
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.webp
-  post_page: /img/404.jpg
+  post_page: /img/404.webp
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: 'sorry! 页面找不到了~'
-  background: https://blog.1314151.xyz/img/404.png
+  background: https://blog.1314151.xyz/img/404.webp
 
 post_meta:
   page: # Home Page
@@ -171,10 +171,10 @@ reward:
   enable: true
   text:
   QR_code:
-     - img: /img/wechat.jpg
+     - img: /img/wechat.webp
     #   link:
        text: wechat
-     - img: /img/alipay.jpg
+     - img: /img/alipay.webp
     #   link:
        text: alipay
 
@@ -916,7 +916,6 @@ inject:
      - <link rel="preconnect" href="https://www.bing.com">
      - <link rel="dns-prefetch" href="https://img.1314151.xyz">
      - <link rel="dns-prefetch" href="https://www.bing.com">
-     - <link rel="preconnect" href="https://cdn.bootcdn.net">
      - <style>#page-header{background-color:#15161d!important}</style>
   bottom:
      - <script defer src="/_vercel/insights/script.js"></script>

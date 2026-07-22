@@ -71,17 +71,47 @@ function minifyJs() {
 }
 
 // 删除主题自动 copy 进 public 但配置已不再引用的孤儿资源，避免部署无用体积。
-// 例如 friend_404.gif：error_img.flink 已改为 webp，但主题 source/img 仍会被整包拷贝。
+// - friend_404.gif：error_img.flink 已改为 webp，但主题 source/img 仍会被整包拷贝。
+// - pluginsSrc 下 19 个第三方库：经逐包核查 built public(html/css/js) 引用，确认均未被加载
+//   （对应功能已关闭或用外部 CDN）：
+//     @fancyapps(fancybox 已换 medium_zoom)、@waline/valine/gitalk/disqusjs(评论用 twikoo 外部 CDN)、
+//     algoliasearch+instantsearch.js(搜索用 /js/search/local-search.js)、aplayer(未启用)、
+//     blueimp-md5(valine/waline 关闭)、flickr-justified-gallery(无画廊)、katex/mathjax(math 未启用)、
+//     mermaid(未启用)、node-snackbar(未启用)、pangu(Butterfly5 已移除)、pjax(未启用)、
+//     prismjs(主题用 highlight.js)、twikoo(外部 CDN)、typed.js(副标题关闭)
 function cleanup() {
   const orphans = [
     'public/img/friend_404.gif',
+    'public/pluginsSrc/@fancyapps',
+    'public/pluginsSrc/@waline',
+    'public/pluginsSrc/algoliasearch',
+    'public/pluginsSrc/aplayer',
+    'public/pluginsSrc/blueimp-md5',
+    'public/pluginsSrc/disqusjs',
+    'public/pluginsSrc/flickr-justified-gallery',
+    'public/pluginsSrc/gitalk',
+    'public/pluginsSrc/instantsearch.js',
+    'public/pluginsSrc/katex',
+    'public/pluginsSrc/mathjax',
+    'public/pluginsSrc/mermaid',
+    'public/pluginsSrc/node-snackbar',
+    'public/pluginsSrc/pangu',
+    'public/pluginsSrc/pjax',
+    'public/pluginsSrc/prismjs',
+    'public/pluginsSrc/twikoo',
+    'public/pluginsSrc/typed.js',
+    'public/pluginsSrc/valine',
   ];
   let removed = 0;
   orphans.forEach((rel) => {
     const p = path.join(__dirname, rel);
     if (fs.existsSync(p)) {
       try {
-        fs.unlinkSync(p);
+        if (fs.statSync(p).isDirectory()) {
+          fs.rmSync(p, { recursive: true, force: true });
+        } else {
+          fs.unlinkSync(p);
+        }
         removed++;
         console.log('[cleanup] 删除孤儿资源:', rel);
       } catch (e) {

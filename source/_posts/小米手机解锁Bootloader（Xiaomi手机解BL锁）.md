@@ -3,7 +3,7 @@ abbrlink: cddc0cd1
 categories:
   - - Android
 cover: >-
-  https://blog.1314151.xyz/img/2024/04/27/10_eea7d5214297559de8feb7daea297186.jpg
+  https://blog.1314151.xyz/img/2024/04/27/10_eea7d5214297559de8feb7daea297186.webp
 date: '2024-04-27T10:59:44.328389+08:00'
 tags: []
 title: 小米手机解锁Bootloader（Xiaomi手机解BL锁）
@@ -15,21 +15,21 @@ updated: '2024-04-27T17:36:48.133+08:00'
 
 解锁步骤：
 
-一、开启 开发者选项：1.我的设备 – 2.全部参数 – 3.连击MIUI版本![https://blog.1314151.xyz/img/2024/04/27/3d123eba8c2a3d7326ca3efa13942f2e_c10d778311b8b0d_f3e344b33804523c7cccaf8ce727b874.jpg](https://blog.1314151.xyz/img/2024/04/27/3d123eba8c2a3d7326ca3efa13942f2e_c10d778311b8b0d_f3e344b33804523c7cccaf8ce727b874.jpg)
+一、开启 开发者选项：1.我的设备 – 2.全部参数 – 3.连击MIUI版本![https://blog.1314151.xyz/img/2024/04/27/3d123eba8c2a3d7326ca3efa13942f2e_c10d778311b8b0d_f3e344b33804523c7cccaf8ce727b874.webp](https://blog.1314151.xyz/img/2024/04/27/3d123eba8c2a3d7326ca3efa13942f2e_c10d778311b8b0d_f3e344b33804523c7cccaf8ce727b874.webp)
 
 二、1.更多设置 – 2.开发者选项 – 3.设备解锁状态 – 4.绑定账号和设备
-![https://blog.1314151.xyz/img/2024/04/27/ff4c193f76373f0ae1e8030e7dc1eb60_b464a4330bc7e34_b5ab4b255c79a3d15d8be01fc7930e21.jpg](https://blog.1314151.xyz/img/2024/04/27/ff4c193f76373f0ae1e8030e7dc1eb60_b464a4330bc7e34_b5ab4b255c79a3d15d8be01fc7930e21.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/ff4c193f76373f0ae1e8030e7dc1eb60_b464a4330bc7e34_b5ab4b255c79a3d15d8be01fc7930e21.webp](https://blog.1314151.xyz/img/2024/04/27/ff4c193f76373f0ae1e8030e7dc1eb60_b464a4330bc7e34_b5ab4b255c79a3d15d8be01fc7930e21.webp)
 三：下载小米解锁工具：**[Miflash\_Unlock\_7.6.727.43.zip](https://cdn.cnbj1.fds.api.mi-img.com/flash-tool/miflash_unlock_7.6.727.43.zip)**，解压出来，打开 **MiUsbDriver.exe** （驱动安装程序）
-![https://blog.1314151.xyz/img/2024/04/27/72f17d0a1fd2129ff0d90898af9fde44_c4496a4a6fe047d_e2993dc45bc19af9070d7d54fa5e4009.png](https://blog.1314151.xyz/img/2024/04/27/72f17d0a1fd2129ff0d90898af9fde44_c4496a4a6fe047d_e2993dc45bc19af9070d7d54fa5e4009.png)四、打开 **miflash\_unlock.exe**，登录小米账号![https://blog.1314151.xyz/img/2024/04/27/f1c2de67d82935fd61dd42a42533c8a6_5f39c513df33c74_287ef3e5a046177c4741f4d965e5c819.jpg](https://blog.1314151.xyz/img/2024/04/27/f1c2de67d82935fd61dd42a42533c8a6_5f39c513df33c74_287ef3e5a046177c4741f4d965e5c819.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/72f17d0a1fd2129ff0d90898af9fde44_c4496a4a6fe047d_e2993dc45bc19af9070d7d54fa5e4009.webp](https://blog.1314151.xyz/img/2024/04/27/72f17d0a1fd2129ff0d90898af9fde44_c4496a4a6fe047d_e2993dc45bc19af9070d7d54fa5e4009.webp)四、打开 **miflash\_unlock.exe**，登录小米账号![https://blog.1314151.xyz/img/2024/04/27/f1c2de67d82935fd61dd42a42533c8a6_5f39c513df33c74_287ef3e5a046177c4741f4d965e5c819.webp](https://blog.1314151.xyz/img/2024/04/27/f1c2de67d82935fd61dd42a42533c8a6_5f39c513df33c74_287ef3e5a046177c4741f4d965e5c819.webp)
 
-![https://blog.1314151.xyz/img/2024/04/27/b1a9d3e858389eaa5da6a2184b5a056a_b30535ad66cbdd3_4fc5bbee9e43dae619c96ebdb1d28be6.jpg](https://blog.1314151.xyz/img/2024/04/27/b1a9d3e858389eaa5da6a2184b5a056a_b30535ad66cbdd3_4fc5bbee9e43dae619c96ebdb1d28be6.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/b1a9d3e858389eaa5da6a2184b5a056a_b30535ad66cbdd3_4fc5bbee9e43dae619c96ebdb1d28be6.webp](https://blog.1314151.xyz/img/2024/04/27/b1a9d3e858389eaa5da6a2184b5a056a_b30535ad66cbdd3_4fc5bbee9e43dae619c96ebdb1d28be6.webp)
 五：手机进入 **Bootloader** 模式，再插入电脑。
-（手机关机，电源键+音量下键，两个键长按）![https://blog.1314151.xyz/img/2024/04/27/031384677353a743ed672e357fef691b_a4381a987eb897e_8fe5baeca2dc463ee40c26cc9e7c1c01.png](https://blog.1314151.xyz/img/2024/04/27/031384677353a743ed672e357fef691b_a4381a987eb897e_8fe5baeca2dc463ee40c26cc9e7c1c01.png)
+（手机关机，电源键+音量下键，两个键长按）![https://blog.1314151.xyz/img/2024/04/27/031384677353a743ed672e357fef691b_a4381a987eb897e_8fe5baeca2dc463ee40c26cc9e7c1c01.webp](https://blog.1314151.xyz/img/2024/04/27/031384677353a743ed672e357fef691b_a4381a987eb897e_8fe5baeca2dc463ee40c26cc9e7c1c01.webp)
 六：手机数据线插到电脑，点击 **解锁**（解锁会清除手机数据）
 
-![https://blog.1314151.xyz/img/2024/04/27/978233e349ef91b8ea0d141e0ab4b5a3_a045e10674b1c2f_457503b5d6071a2e5992ee6c01594bad.jpg](https://blog.1314151.xyz/img/2024/04/27/978233e349ef91b8ea0d141e0ab4b5a3_a045e10674b1c2f_457503b5d6071a2e5992ee6c01594bad.jpg)
+![https://blog.1314151.xyz/img/2024/04/27/978233e349ef91b8ea0d141e0ab4b5a3_a045e10674b1c2f_457503b5d6071a2e5992ee6c01594bad.webp](https://blog.1314151.xyz/img/2024/04/27/978233e349ef91b8ea0d141e0ab4b5a3_a045e10674b1c2f_457503b5d6071a2e5992ee6c01594bad.webp)
 七：解锁成功（第一次开机会有点慢）
-![https://blog.1314151.xyz/img/2024/04/27/c202788722b5231d9a89dc16ba18869c_eb33511de4ac052_3c30b13df78c66ea5df81f474f9d1637.png](https://blog.1314151.xyz/img/2024/04/27/c202788722b5231d9a89dc16ba18869c_eb33511de4ac052_3c30b13df78c66ea5df81f474f9d1637.png)
+![https://blog.1314151.xyz/img/2024/04/27/c202788722b5231d9a89dc16ba18869c_eb33511de4ac052_3c30b13df78c66ea5df81f474f9d1637.webp](https://blog.1314151.xyz/img/2024/04/27/c202788722b5231d9a89dc16ba18869c_eb33511de4ac052_3c30b13df78c66ea5df81f474f9d1637.webp)
 **解锁过程中可能遇到的问题：**
 
 Q：解锁工具提示“账号设备不一致”是怎么回事？

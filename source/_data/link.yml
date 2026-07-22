@@ -3,11 +3,11 @@
   link_list:
     - name: 番茄酱的壁纸
       link: https://wallpaper.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/wallpaper.jpg
+      avatar: https://blog.1314151.xyz/img/wallpaper.webp
       descr: 番茄酱的壁纸
     - name: 番茄酱的网盘
       link: https://pan.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/pan.png
+      avatar: https://blog.1314151.xyz/img/pan.webp
       descr: 番茄酱的网盘
     - name: 番茄酱的图床
       link: https://img.1314151.xyz
@@ -31,13 +31,13 @@
   link_list:
     - name: Youtube
       link: https://www.youtube.com
-      avatar: https://blog.1314151.xyz/img/Youtube.png
+      avatar: https://blog.1314151.xyz/img/Youtube.webp
       descr: 视频网站
     - name: Weibo
       link: https://www.weibo.com
-      avatar: https://blog.1314151.xyz/img/Weibo.png
+      avatar: https://blog.1314151.xyz/img/Weibo.webp
       descr: 中国最大社交分享平臺
     - name: Twitter
       link: https://twitter.com
-      avatar: https://blog.1314151.xyz/img/Twitter.png
+      avatar: https://blog.1314151.xyz/img/Twitter.webp
       descr: 社交分享平臺
