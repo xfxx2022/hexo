@@ -1,10 +1,6 @@
 ﻿- class_name: 友情链接
   class_desc: 那些人，那些事
   link_list:
-    - name: QD 框架
-      link: https://qiandao.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/QD.png
-      descr: 番茄酱的签到框架
     - name: 番茄酱的壁纸
       link: https://wallpaper.1314151.xyz
       avatar: https://blog.1314151.xyz/img/wallpaper.jpg
@@ -25,10 +21,6 @@
       link: https://qke.1314151.xyz
       avatar: https://blog.1314151.xyz/img/qke.ico
       descr: 奇客网
-    - name: 字帖生成器
-      link: https://zitie.1314151.xyz
-      avatar: https://blog.1314151.xyz/img/zitie.png
-      descr: 番茄酱的字帖生成器
     - name: 数学生成器
       link: https://maths.1314151.xyz
       avatar: https://blog.1314151.xyz/img/maths.ico

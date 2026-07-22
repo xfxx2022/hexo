@@ -50,7 +50,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://blog.1314151.xyz/img/logo.webp
+  img: /img/logo.webp
   effect: false
 
 # Disable all banner image
@@ -655,12 +655,12 @@ mask:
 rightside_bottom:
 
 # Enter transitions (開啓網頁進入效果)
-enter_transitions: true
+enter_transitions: false
 
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
-  enable: true
+  enable: false
   colorful: true # open particle animation (冒光特效)
   shake: true #  open shake (抖動特效)
   mobile: true
@@ -916,6 +916,7 @@ inject:
      - <link rel="preconnect" href="https://www.bing.com">
      - <link rel="dns-prefetch" href="https://img.1314151.xyz">
      - <link rel="dns-prefetch" href="https://www.bing.com">
+     - <link rel="preconnect" href="https://cdn.bootcdn.net">
      - <style>#page-header{background-color:#15161d!important}</style>
   bottom:
      - <script async src="https://analytics.1314151.xyz/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
