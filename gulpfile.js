@@ -70,6 +70,66 @@ function minifyJs() {
     .pipe(gulp.dest('public'));
 }
 
+// 压缩图片（jpg/png/gif/svg/webp）。
+// gulp-imagemin v8 为 ESM-only，这里用动态 import() 在 CommonJS gulpfile 中加载。
+// 逐插件容错：某个优化插件不可用（如原生二进制缺失/未安装）时跳过该格式，绝不阻断构建。
+async function minifyImages() {
+  const globs = [
+    'public/**/*.jpg', 'public/**/*.jpeg',
+    'public/**/*.png', 'public/**/*.gif',
+    'public/**/*.svg', 'public/**/*.webp',
+  ];
+
+  // 加载 gulp-imagemin 主模块（ESM）；缺失则安全跳过
+  let imagemin;
+  try {
+    ({ default: imagemin } = await import('gulp-imagemin'));
+  } catch (e) {
+    console.error('[minifyImages] 无法加载 gulp-imagemin，跳过图片压缩:', e.message);
+    return Promise.resolve();
+  }
+
+  // 容错加载各格式优化插件，缺失则跳过对应格式
+  const plugins = [];
+  const loadPlugin = async (pkg, make) => {
+    try {
+      const mod = await import(pkg);
+      const fn = mod && mod.default ? mod.default : mod;
+      const instance = make(fn);
+      if (instance) plugins.push(instance);
+    } catch (e) {
+      console.warn(`[minifyImages] 插件 ${pkg} 不可用，跳过该格式:`, e.message);
+    }
+  };
+  await loadPlugin('imagemin-mozjpeg', (fn) => fn({ quality: 75, progressive: true }));
+  await loadPlugin('imagemin-optipng', (fn) => fn({ optimizationLevel: 5 }));
+  await loadPlugin('imagemin-gifsicle', (fn) => fn({ interlaced: true }));
+  await loadPlugin('imagemin-svgo', (fn) => fn());
+
+  if (plugins.length === 0) {
+    console.warn('[minifyImages] 未加载到任何优化插件，跳过图片压缩');
+    return Promise.resolve();
+  }
+  console.log(`[minifyImages] 已加载 ${plugins.length} 个图片优化插件，开始压缩`);
+
+  // 用 Promise 包裹 stream，确保 Gulp 等待压缩真正完成后再进入 cleanup
+  return new Promise((resolve) => {
+    const stream = gulp.src(globs, { allowEmpty: true, encoding: false })
+      .pipe(imagemin(plugins))
+      .on('error', function (err) {
+        console.error('[minifyImages] 压缩出错，保留原图:', err.message);
+        this.emit('end');
+      })
+      .pipe(gulp.dest('public'))
+      .on('finish', () => { console.log('[minifyImages] 完成'); resolve(); })
+      .on('error', (err) => {
+        console.error('[minifyImages] 写出失败:', err && err.message);
+        resolve();
+      });
+    void stream;
+  });
+}
+
 // 删除主题自动 copy 进 public 但配置已不再引用的孤儿资源，避免部署无用体积。
 // - friend_404.gif：error_img.flink 已改为 webp，但主题 source/img 仍会被整包拷贝。
 // - pluginsSrc 下 19 个第三方库：经逐包核查 built public(html/css/js) 引用，确认均未被加载
@@ -123,8 +183,9 @@ function cleanup() {
   return Promise.resolve();
 }
 
-exports.default = gulp.series(minifyHtml, minifyCss, minifyJs, cleanup);
+exports.default = gulp.series(minifyHtml, minifyCss, minifyJs, minifyImages, cleanup);
 exports.html = minifyHtml;
 exports.css = minifyCss;
 exports.js = minifyJs;
+exports.images = minifyImages;
 exports.cleanup = cleanup;
