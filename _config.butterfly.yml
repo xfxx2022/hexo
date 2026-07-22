@@ -919,7 +919,6 @@ inject:
      - <link rel="preconnect" href="https://cdn.bootcdn.net">
      - <style>#page-header{background-color:#15161d!important}</style>
   bottom:
-     - <script async src="https://analytics.1314151.xyz/script.js" data-website-id="7fa60d16-d46a-45b0-a9b1-9d9f151abc17"></script>
      - <script defer src="/_vercel/insights/script.js"></script>
 
 # CDN
