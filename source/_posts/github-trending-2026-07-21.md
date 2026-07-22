@@ -6,7 +6,7 @@ tags:
   - GitHub热门项目
 categories:
   - 技术分享
-cover: /img/github-trending/github-trending-cover-2026-07-21-1.webp
+cover: /img/2026/07/21/github-trending-cover-2026-07-21-1.webp
 abbrlink: 5d20469b
 ---
 

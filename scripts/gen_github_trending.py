@@ -45,11 +45,22 @@ from pathlib import Path
 PERIOD_DAYS = {"daily": 1, "weekly": 7, "monthly": 30}
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_DIR = os.path.join(ROOT_DIR, "source", "_posts")
-COVER_DIR = os.path.join(ROOT_DIR, "source", "img", "github-trending")
+IMG_DIR = os.path.join(ROOT_DIR, "source", "img")
 TAG = "GitHub热门项目"
 CATEGORY = "技术分享"
 AI_KEYWORDS = ("ai", "agent", "llm", "gpt", "ml", "machine learning", "deep learning",
                "chatbot", "assistant", "automation", "workflow", "rag", "transformer")
+
+
+def cover_paths_for(date_str):
+    """返回 (本地目录 Path, web 引用前缀)。
+
+    按项目已有 source/img/YYYY/MM/DD 日期目录逻辑存放每日爬取的封面图。
+    """
+    y, m, d = date_str.split("-")
+    cover_dir = Path(IMG_DIR) / y / m / d
+    web_prefix = f"/img/{y}/{m}/{d}"
+    return cover_dir, web_prefix
 
 # ---------------------------------------------------------------------------
 
@@ -413,7 +424,7 @@ def fetch_readme_image_urls(owner, repo, default_branch, token):
 
 def pick_cover(items, date_str, token):
     """按排名依次尝试抓取封面图并落盘，返回 (rank, cover_path)。"""
-    cover_dir = Path(COVER_DIR)
+    cover_dir, web_prefix = cover_paths_for(date_str)
     cover_dir.mkdir(parents=True, exist_ok=True)
 
     # 若当日已有手动提供的封面，直接复用
@@ -423,7 +434,7 @@ def pick_cover(items, date_str, token):
         rank_match = re.search(r"-(\d+)\.\w+$", chosen.name)
         rank = int(rank_match.group(1)) if rank_match else 1
         print(f"[INFO] 复用已有封面：{chosen.name}")
-        return rank, f"/img/github-trending/{chosen.name}"
+        return rank, f"{web_prefix}/{chosen.name}"
 
     for rank, it in enumerate(items, 1):
         full = it.get("full_name", "")
@@ -445,7 +456,7 @@ def pick_cover(items, date_str, token):
                 path = cover_dir / filename
                 path.write_bytes(data)
                 print(f"[OK] 封面来自 README #{rank} {full}: {filename}")
-                return rank, f"/img/github-trending/{filename}"
+                return rank, f"{web_prefix}/{filename}"
 
         # 2) 回退到 GitHub Open Graph 卡片图（稳定兜底）
         og_url = f"https://opengraph.githubassets.com/1/{full}"
@@ -456,7 +467,7 @@ def pick_cover(items, date_str, token):
             path = cover_dir / filename
             path.write_bytes(data)
             print(f"[OK] 封面来自 OpenGraph #{rank} {full}: {filename}")
-            return rank, f"/img/github-trending/{filename}"
+            return rank, f"{web_prefix}/{filename}"
 
         print(f"[WARN] #{rank} {full} 无可用图片，尝试下一个", file=sys.stderr)
 
@@ -492,7 +503,7 @@ def main():
             ext = ext_from_image(data, content_type)
             date_str = datetime.date.today().isoformat()
             rank = os.environ.get("COVER_RANK", "1")
-            cover_dir = Path(COVER_DIR)
+            cover_dir, web_prefix = cover_paths_for(date_str)
             cover_dir.mkdir(parents=True, exist_ok=True)
             filename = f"github-trending-cover-{date_str}-{rank}.{ext}"
             path = cover_dir / filename

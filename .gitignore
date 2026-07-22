@@ -10,3 +10,9 @@ public/
 .vercel
 # 图片优化前的原图备份(本地安全网，不进仓库；以下划线开头的目录发布时本就被 Hexo 忽略)
 source/img/_originals_backup/
+
+# WorkBuddy 内部状态（项目记忆 / 自动化执行记录等），不进仓库
+.workbuddy/
+# Python 字节码缓存
+__pycache__/
+scripts/__pycache__/

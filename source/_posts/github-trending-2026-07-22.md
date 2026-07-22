@@ -6,7 +6,7 @@ tags:
   - GitHub热门项目
 categories:
   - 技术分享
-cover: /img/github-trending/github-trending-cover-2026-07-22-1.jpg
+cover: /img/2026/07/22/github-trending-cover-2026-07-22-1.jpg
 ---
 
 ## 今日速览
