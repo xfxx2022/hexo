@@ -13,6 +13,9 @@ menu:
    GitHub热门: https://blog.1314151.xyz/tags/GitHub热门项目/ || fab fa-github
    Android: https://blog.1314151.xyz/categories/Android/ || iconfont icon-anzhuo
    教程: https://blog.1314151.xyz/categories/教程/ || iconfont icon-jiaocheng
+   Windows||fab fa-windows:
+     Windows 10: /windows-10/ || fas fa-compact-disc
+     Windows 11: /windows-11/ || fas fa-compact-disc
    关于||iconfont icon-heart:
     友链: https://blog.1314151.xyz/link/ || iconfont icon-link
     关于我: https://blog.1314151.xyz/about/ || iconfont icon-heart

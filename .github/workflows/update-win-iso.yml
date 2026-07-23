@@ -1,0 +1,43 @@
+name: 更新 Windows ISO 构建数据
+
+# 当 xfxx2022/win_iso_build 发布新 Release 后，定期重新抓取并刷新站点数据，
+# 提交 source/js/win-iso-data.js，Vercel 监听仓库推送会自动重新部署，
+# 从而让 /windows-11/ 与 /windows-10/ 页面同步展示最新版本。
+on:
+  schedule:
+    # 每 6 小时检查一次（UTC）。北京时间 = UTC+8
+    - cron: "0 */6 * * *"
+  workflow_dispatch:       # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 重新生成 Releases 数据
+        run: python tools/gen_win_iso_data.py
+
+      - name: Commit and push（仅在数据变化时）
+        run: |
+          git config user.name "薰风习习"
+          git config user.email "25678988+xfxx2022@users.noreply.github.com"
+          git add source/js/win-iso-data.js
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore: 同步 Windows ISO 构建数据 $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
