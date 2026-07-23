@@ -861,8 +861,10 @@ instantpage: true
 
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/vanilla-lazyload
+# 关闭图片懒加载：让文章封面图（含首屏顶部）直接用 <img src> 真实图片加载，
+# 取消 data-lazy-src 占位，避免依赖 vanilla-lazyload 初始化（修复首屏图不显示）
 lazyload:
-  enable: true
+  enable: false
   field: site # site/post
   placeholder:
   blur: false
@@ -916,7 +918,9 @@ CDN:
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: local/jsdelivr/unpkg/cdnjs/custom
   # when set it to local, you need to install hexo-butterfly-extjs
-  third_party_provider: local
+  # 改用 jsdelivr：修复 Vercel 部署未包含 /pluginsSrc/* 导致线上 404
+  # （medium-zoom / vanilla-lazyload / instant.page / @fortawesome / butterfly-extsrc 等全部切到 CDN）
+  third_party_provider: jsdelivr
 
   # Add version number to url, true or false
   version: true

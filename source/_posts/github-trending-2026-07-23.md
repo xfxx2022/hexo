@@ -7,6 +7,7 @@ tags:
 categories:
   - 技术分享
 cover: /img/2026/07/23/github-trending-cover-2026-07-23-1.webp
+abbrlink: f7298e10
 ---
 ## 今日速览
 
