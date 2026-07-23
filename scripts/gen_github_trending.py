@@ -316,11 +316,14 @@ def render_markdown(date_str, items, period_label):
 
 # ---------------------------------------------------------------------------
 # 中文翻译（无人值守环境：GitHub Actions 等）
-# 优先级：GitHub Models (gpt-4o-mini, 免费) -> MyMemory (免费) -> 原文(英文)
+# 优先级：GitHub Models (openai/gpt-4o-mini, 免费) -> MyMemory (免费) -> 原文(英文)
 # 任一环节失败都安全回退，绝不中断生成流程。
 # ---------------------------------------------------------------------------
-GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com/v1/chat/completions"
-TRANSLATE_MODEL = os.environ.get("TRENDING_MODEL", "gpt-4o-mini")
+# GitHub Models 于 2025 年中从 Azure 端点(models.inference.ai.azure.com)迁移到
+# 自有域名 models.github.ai/inference；旧 Azure 端点已于 2025-10 彻底下线(返回 404/400)。
+# 模型名必须带厂商前缀(如 openai/gpt-4o-mini)，裸名会 404。
+GITHUB_MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions"
+TRANSLATE_MODEL = os.environ.get("TRENDING_MODEL", "openai/gpt-4o-mini")
 MYMEMORY_ENDPOINT = "https://api.mymemory.translated.net/get"
 
 
