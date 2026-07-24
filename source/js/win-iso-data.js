@@ -1,6 +1,6 @@
 // 由 tools/gen_win_iso_data.py 自动生成，请勿手改
 window.WIN_ISO_DATA = {
-  "generated_at": "2026-07-24 13:59:04",
+  "generated_at": "2026-07-24 19:39:09",
   "repo": "xfxx2022/win_iso_build",
   "repo_url": "https://github.com/xfxx2022/win_iso_build",
   "category_order": [
